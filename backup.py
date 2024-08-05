@@ -400,7 +400,7 @@ if __name__ == "__main__":
     lock = manager.Lock()
 
     district_index = 1  # Adjust this to the desired district index
-    taluka_index = 0  # Adjust this to the desired taluka index
+    taluka_index = 12  # Adjust this to the desired taluka index
 
     villages, district_name, taluka_name = get_villages(district_index, taluka_index)
 

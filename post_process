@@ -22,7 +22,10 @@ def categorize_area(total_area):
 # Function to process each village file and return the processed data
 def process_village_file(file_path, taluka_name_marathi, taluka_name_english):
     village_code, village_name_marathi = os.path.splitext(os.path.basename(file_path))[0].split(' ', 1)
-    village_name_english = transliterate(village_name_marathi, sanscript.DEVANAGARI, sanscript.ITRANS).title()
+    village_name_english = transliterate(village_name_marathi, sanscript.DEVANAGARI, sanscript.ITRANS).title().replace("-", "")
+    
+    # Remove the last two zeros from the village code
+    village_code = village_code[:-2]
     
     df = pd.read_excel(file_path)
     
@@ -50,7 +53,7 @@ def process_village_file(file_path, taluka_name_marathi, taluka_name_english):
 def process_taluka_files(taluka_path):
     taluka_name_full = os.path.basename(taluka_path)
     taluka_name_number, taluka_name_marathi = taluka_name_full.split(' ', 1)
-    taluka_name_english = transliterate(taluka_name_marathi, sanscript.DEVANAGARI, sanscript.ITRANS).title()
+    taluka_name_english = transliterate(taluka_name_marathi, sanscript.DEVANAGARI, sanscript.ITRANS).title().replace("-", "")
     
     village_files = [os.path.join(taluka_path, f) for f in os.listdir(taluka_path) if f.endswith('.xlsx')]
     
