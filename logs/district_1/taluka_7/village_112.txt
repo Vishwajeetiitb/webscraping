@@ -323,3 +323,8 @@ Taluka folder '11 दर्यापुर' created or already exists: 2024-08-0
 Plot info: {'Survey No.': '1/ब', 'Total Area': '1.2700000000000000', 'Pot kharaba': '0.00000000000000000000', 'Owner Name': 'शोभाताई मधूसूदन ठाकुर', 'Khata No.': '986'}: 2024-08-05 12:58:33
 Plot info: {'Survey No.': '10', 'Total Area': '1.1900', 'Pot kharaba': '0.0000', 'Owner Name': 'अ. कदीर अ. समद, अ. हक्क शे. जमाल, मोबिनुर रहेमान अ. जलिल, शे. हमीद शे. मुसा, शे. हसन शे. मुनिर, महजत (इनामदार पुऱ्यातील) तर्फे पंच', 'Khata No.': '218'}: 2024-08-05 12:58:42
 Plot info: {'Survey No.': '100', 'Total Area': '0.9400', 'Pot kharaba': '0.0000', 'Owner Name': 'अ. हमीद मो. युसुफ', 'Khata No.': '958'}: 2024-08-05 12:58:54
+Plot info: {'Survey No.': '101', 'Total Area': '2.1300', 'Pot kharaba': '0.0200', 'Owner Name': 'अजाब गोपाळ मानकर', 'Khata No.': '75'}: 2024-08-05 13:00:46
+Plot info: {'Survey No.': '102', 'Total Area': '1.2200', 'Pot kharaba': '0.0000', 'Owner Name': 'मनोहर अमृत काळे', 'Khata No.': '872'}: 2024-08-05 13:02:59
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 13:03:33
+Error encountered: name 'processed_villages' is not defined: 2024-08-05 13:03:33
+Script completed for village '270700110078460000 येवदा-1': 2024-08-05 13:03:36
