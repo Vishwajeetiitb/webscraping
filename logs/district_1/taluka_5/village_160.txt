@@ -1,0 +1,99 @@
+Opened the webpage: 2024-08-05 01:35:16
+Page loaded: 2024-08-05 01:35:16
+District folder '07 अमरावती' created or already exists: 2024-08-05 01:35:22
+Taluka folder '02 चिखलदरा' created or already exists: 2024-08-05 01:35:23
+Plot info: {'Survey No.': '1', 'Total Area': '0.0000', 'Pot kharaba': '0.1900', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:35:30
+Plot info: {'Survey No.': '10', 'Total Area': '0.0000', 'Pot kharaba': '0.3200', 'Owner Name': 'महाराष्ट्र शासन वनविभाग नाला', 'Khata No.': '19'}: 2024-08-05 01:35:30
+Plot info: {'Survey No.': '12', 'Total Area': '0.0000', 'Pot kharaba': '0.1500', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:35:31
+Plot info: {'Survey No.': '13', 'Total Area': '0.0000', 'Pot kharaba': '2.3200', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:35:32
+Plot info: {'Survey No.': '14', 'Total Area': '4.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'भुलकी भगवानजी मावस्कर, रज्जू बाबूलाल तोटे, लाखु पतीराम कोरकु, फुलू भिलू जामूनकर', 'Khata No.': '41'}: 2024-08-05 01:35:33
+Plot info: {'Survey No.': '15', 'Total Area': '0.0000', 'Pot kharaba': '0.5700', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:35:34
+Plot info: {'Survey No.': '16/ब', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'रमेश बाबु, गणेश बाबु, निला बाबु, शामु बाबु', 'Khata No.': '27'}: 2024-08-05 01:35:34
+Plot info: {'Survey No.': '17', 'Total Area': '2.5700', 'Pot kharaba': '0.0000', 'Owner Name': 'बाबनू बिसु, बाब्या बिसू, बालाजी बिसू, भब्बा मुंगीलाल कास्देकर, मोंगल्या बापु कोरकु, लक्ष्मण बापु कोरकु', 'Khata No.': '8'}: 2024-08-05 01:35:35
+Plot info: {'Survey No.': '18', 'Total Area': '0.0000', 'Pot kharaba': '0.2000', 'Owner Name': 'महाराष्ट्र शासन वनविभाग रस्ता', 'Khata No.': '20'}: 2024-08-05 01:35:36
+Plot info: {'Survey No.': '19', 'Total Area': '0.6000', 'Pot kharaba': '0.0000', 'Owner Name': 'बाबनू बिसु, बाब्या बिसू, बालाजी बिसू, भब्बा मुंगीलाल कास्देकर, लक्ष्मण बापु कोरकु, मोंगल्या बापु कोरकु', 'Khata No.': '8'}: 2024-08-05 01:35:37
+Plot info: {'Survey No.': '20', 'Total Area': '0.0000', 'Pot kharaba': '0.7800', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:35:38
+Plot info: {'Survey No.': '21', 'Total Area': '0.0000', 'Pot kharaba': '0.5200', 'Owner Name': 'महाराष्ट्र शासन वनविभाग नाला', 'Khata No.': '19'}: 2024-08-05 01:35:39
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 01:35:59
+Plot info: {'Survey No.': '22', 'Total Area': '0.0000', 'Pot kharaba': '1.4000', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:35:59
+Plot info: {'Survey No.': '23', 'Total Area': '0.0000', 'Pot kharaba': '0.1600', 'Owner Name': 'महाराष्ट्र शासन वनविभाग रस्ता', 'Khata No.': '20'}: 2024-08-05 01:36:00
+Plot info: {'Survey No.': '24', 'Total Area': '0.0000', 'Pot kharaba': '3.2400', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:36:01
+Plot info: {'Survey No.': '25', 'Total Area': '0.0000', 'Pot kharaba': '0.4400', 'Owner Name': 'महाराष्ट्र शासन वनविभाग नाला', 'Khata No.': '19'}: 2024-08-05 01:36:02
+Plot info: {'Survey No.': '26', 'Total Area': '0.0000', 'Pot kharaba': '2.2600', 'Owner Name': 'महाराष्ट्र शासन वनविभाग सरकारी पडीत', 'Khata No.': '21'}: 2024-08-05 01:36:03
+Plot info: {'Survey No.': '27', 'Total Area': '3.9000', 'Pot kharaba': '0.0000', 'Owner Name': 'झनकु कालु अखंडे, लक्ष्मन बाबुलाल सावलकर, हिरालाल बाबुलाल सावलकर', 'Khata No.': '9'}: 2024-08-05 01:36:04
+Plot info: {'Survey No.': '28/अ', 'Total Area': '0.0000', 'Pot kharaba': '1.9200', 'Owner Name': 'महाराष्ट्र शासन सरकारी पडित', 'Khata No.': '22'}: 2024-08-05 01:36:04
+Plot info: {'Survey No.': '29', 'Total Area': '0.0000', 'Pot kharaba': '3.1200', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:36:05
+Plot info: {'Survey No.': '3', 'Total Area': '2.9500', 'Pot kharaba': '0.0000', 'Owner Name': 'काळमी मोगऱ्या बेलसरे, कोलय साबूलाल अखंडे, रतन राजाराम सावलकर, भायलू राजाराम सावलकर', 'Khata No.': '46'}: 2024-08-05 01:36:06
+Plot info: {'Survey No.': '30', 'Total Area': '2.0900', 'Pot kharaba': '0.0000', 'Owner Name': 'भोगेलाल हिरालाल को.', 'Khata No.': '44'}: 2024-08-05 01:36:07
+Plot info: {'Survey No.': '30', 'Total Area': '2.0900', 'Pot kharaba': '0.0000', 'Owner Name': 'भोगेलाल हिरालाल को.', 'Khata No.': '44'}: 2024-08-05 01:36:08
+Plot info: {'Survey No.': '31', 'Total Area': '1.5600', 'Pot kharaba': '0.0000', 'Owner Name': 'कालु गन्नु कोरकु, भगवानजी गन्नु कोरकु, लक्ष्मण गन्नु कोरकु', 'Khata No.': '2'}: 2024-08-05 01:36:09
+Plot info: {'Survey No.': '32', 'Total Area': '0.4400', 'Pot kharaba': '0.0000', 'Owner Name': 'काशीराम लालमन सावलकर, देवराव लालमन सावलकर, परशराम लालमन सावलकर, मलाय लालमन, रांभो लालमन, लक्ष्मण बिसराम सावलकर, शिमा लालमन सावलकर, शेषराव लालमन सावलकर, सोनी सिताराम, शिवराम बिसराम सावलकर', 'Khata No.': '10'}: 2024-08-05 01:36:10
+Plot info: {'Survey No.': '33', 'Total Area': '0.0000', 'Pot kharaba': '0.3000', 'Owner Name': 'महाराष्ट्र शासन वनविभाग रस्ता', 'Khata No.': '20'}: 2024-08-05 01:36:11
+Plot info: {'Survey No.': '34', 'Total Area': '1.2500', 'Pot kharaba': '0.0000', 'Owner Name': 'काशीराम लालमन सावलकर, देवराव लालमन सावलकर, परशराम लालमन सावलकर, मलाय लालमन, रांभो लालमन, लक्ष्मण बिसराम सावलकर, शिमा लालमन सावलकर, शिवराम बिसराम सावलकर, सोनी सिताराम, शेषराव लालमन सावलकर', 'Khata No.': '10'}: 2024-08-05 01:36:12
+Plot info: {'Survey No.': '35', 'Total Area': '0.9800', 'Pot kharaba': '0.0000', 'Owner Name': 'कालु गन्नु कोरकु, भगवानजी गन्नु कोरकु, लक्ष्मण गन्नु कोरकु', 'Khata No.': '2'}: 2024-08-05 01:36:13
+Plot info: {'Survey No.': '36', 'Total Area': '0.0000', 'Pot kharaba': '0.4400', 'Owner Name': 'महाराष्ट्र शासन वनविभाग सरकारी पडीत', 'Khata No.': '21'}: 2024-08-05 01:36:14
+Plot info: {'Survey No.': '37', 'Total Area': '0.0000', 'Pot kharaba': '1.7200', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:36:15
+Plot info: {'Survey No.': '38', 'Total Area': '0.0000', 'Pot kharaba': '0.9900', 'Owner Name': 'महाराष्ट्र शासन वनविभाग नाला', 'Khata No.': '19'}: 2024-08-05 01:36:16
+Plot info: {'Survey No.': '39', 'Total Area': '0.0000', 'Pot kharaba': '0.0600', 'Owner Name': 'महाराष्ट्र शासन वनविभाग रस्ता', 'Khata No.': '20'}: 2024-08-05 01:36:17
+Plot info: {'Survey No.': '4', 'Total Area': '0.0000', 'Pot kharaba': '1.1600', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:36:18
+Plot info: {'Survey No.': '40', 'Total Area': '0.0000', 'Pot kharaba': '0.8500', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:36:19
+Plot info: {'Survey No.': '41', 'Total Area': '0.1000', 'Pot kharaba': '0.0000', 'Owner Name': 'आशा दंडी को., गुडु बालाजी काळे, झानकू बन्सी को., फुलमा विजय, राटु सोमा, रुखमी गोंडू, लक्ष्मी जगन सावलकर, लखमाय चंपा सावलकर, शोभेराम गोंडू, शंकर बन्सी', 'Khata No.': '3'}: 2024-08-05 01:36:20
+Plot info: {'Survey No.': '42', 'Total Area': '0.0900', 'Pot kharaba': '0.0000', 'Owner Name': 'काशि भिमराव, बाबनु भगवानजी बेलसरे, मेंगी छोटेलाल, मोती छोटेलाल, सोनम चंपालाल अखंडे, सिरीलाल छोटेलाल', 'Khata No.': '4'}: 2024-08-05 01:36:21
+Plot info: {'Survey No.': '43', 'Total Area': '0.0900', 'Pot kharaba': '0.0000', 'Owner Name': 'झनकु कालु अखंडे, लक्ष्मन बाबुलाल सावलकर, हिरालाल बाबुलाल सावलकर', 'Khata No.': '9'}: 2024-08-05 01:36:22
+Plot info: {'Survey No.': '44', 'Total Area': '0.1000', 'Pot kharaba': '0.0000', 'Owner Name': 'बाला कालु मावस्कर, मानकु नानु बेलसरे, मोंडे कालु मावस्कर, भुलजी कालु मावस्कर', 'Khata No.': '1'}: 2024-08-05 01:36:23
+Plot info: {'Survey No.': '45', 'Total Area': '0.0800', 'Pot kharaba': '0.0000', 'Owner Name': 'भगवानजी हन्नू को.', 'Khata No.': '45'}: 2024-08-05 01:36:24
+Plot info: {'Survey No.': '47', 'Total Area': '0.0700', 'Pot kharaba': '0.0000', 'Owner Name': 'सानु राजु कोरकु', 'Khata No.': '15'}: 2024-08-05 01:36:25
+Plot info: {'Survey No.': '48', 'Total Area': '0.0600', 'Pot kharaba': '0.0000', 'Owner Name': 'काळमी मोगऱ्या बेलसरे, कोलय साबूलाल अखंडे, रतन राजाराम सावलकर, भायलू राजाराम सावलकर', 'Khata No.': '46'}: 2024-08-05 01:36:26
+Plot info: {'Survey No.': '49', 'Total Area': '0.1400', 'Pot kharaba': '0.0000', 'Owner Name': 'बूलकी लोक्या, घुसू दादू मावसकर', 'Khata No.': '6'}: 2024-08-05 01:36:27
+Plot info: {'Survey No.': '5', 'Total Area': '1.7800', 'Pot kharaba': '0.0000', 'Owner Name': 'झानकु रतीराम बेलसरे, मानकु दादु जामुनकर, मोतीराम छोटेलाल सावलकर, सिताय छोटेलाल सावलकर, तुलसी छोटेलाल सावलकर', 'Khata No.': '5'}: 2024-08-05 01:36:28
+Plot info: {'Survey No.': '50', 'Total Area': '0.0000', 'Pot kharaba': '0.4000', 'Owner Name': 'महाराष्ट्र शासन वनविभाग गावठान', 'Khata No.': '23'}: 2024-08-05 01:36:29
+Plot info: {'Survey No.': '51', 'Total Area': '0.0400', 'Pot kharaba': '0.0000', 'Owner Name': 'भोगेलाल हिरालाल को.', 'Khata No.': '44'}: 2024-08-05 01:36:30
+Plot info: {'Survey No.': '52', 'Total Area': '0.0700', 'Pot kharaba': '0.0000', 'Owner Name': 'काशीराम लालमन सावलकर, देवराव लालमन सावलकर, परशराम लालमन सावलकर, मलाय लालमन, रांभो लालमन, लक्ष्मण बिसराम सावलकर, शिमा लालमन सावलकर, शेषराव लालमन सावलकर, सोनी सिताराम, शिवराम बिसराम सावलकर', 'Khata No.': '10'}: 2024-08-05 01:36:31
+Plot info: {'Survey No.': '53', 'Total Area': '0.0500', 'Pot kharaba': '0.0000', 'Owner Name': 'झानकु रतीराम बेलसरे, मानकु दादु जामुनकर, मोतीराम छोटेलाल सावलकर, सिताय छोटेलाल सावलकर, तुलसी छोटेलाल सावलकर', 'Khata No.': '5'}: 2024-08-05 01:36:32
+Plot info: {'Survey No.': '54', 'Total Area': '0.1000', 'Pot kharaba': '0.0000', 'Owner Name': 'काशि भिमराव, बाबनु भगवानजी बेलसरे, मोती छोटेलाल, सिरीलाल छोटेलाल, सोनम चंपालाल अखंडे, मेंगी छोटेलाल', 'Khata No.': '4'}: 2024-08-05 01:36:33
+Plot info: {'Survey No.': '55', 'Total Area': '0.0900', 'Pot kharaba': '0.0000', 'Owner Name': 'पुनय भोला सावलकर, मनाजी भोला सावलकर, मन्नू मोती सावलकर, निमचंद भोला सावलकर', 'Khata No.': '42'}: 2024-08-05 01:36:34
+Plot info: {'Survey No.': '56', 'Total Area': '0.0000', 'Pot kharaba': '0.7000', 'Owner Name': 'महाराष्ट्र शासन सरकारी पडित', 'Khata No.': '22'}: 2024-08-05 01:36:35
+Plot info: {'Survey No.': '57', 'Total Area': '0.1000', 'Pot kharaba': '0.0000', 'Owner Name': 'भुलकी भगवानजी मावस्कर, रज्जू बाबूलाल तोटे, लाखु पतीराम कोरकु, फुलू भिलू जामूनकर', 'Khata No.': '41'}: 2024-08-05 01:36:36
+Plot info: {'Survey No.': '58', 'Total Area': '0.1500', 'Pot kharaba': '0.0000', 'Owner Name': 'कालु गन्नु कोरकु, भगवानजी गन्नु कोरकु, लक्ष्मण गन्नु कोरकु', 'Khata No.': '2'}: 2024-08-05 01:36:37
+Plot info: {'Survey No.': '59', 'Total Area': '1.3100', 'Pot kharaba': '0.5900', 'Owner Name': 'बाला कालु मावस्कर, मानकु नानु बेलसरे, मोंडे कालु मावस्कर, भुलजी कालु मावस्कर', 'Khata No.': '1'}: 2024-08-05 01:36:39
+Plot info: {'Survey No.': '6', 'Total Area': '0.0000', 'Pot kharaba': '0.8300', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:36:40
+Plot info: {'Survey No.': '60', 'Total Area': '0.0000', 'Pot kharaba': '2.4000', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:36:41
+Plot info: {'Survey No.': '61', 'Total Area': '0.0000', 'Pot kharaba': '0.2600', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:36:42
+Plot info: {'Survey No.': '62/ब', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'काली मंगल कोरकु', 'Khata No.': '26'}: 2024-08-05 01:36:43
+Plot info: {'Survey No.': '63', 'Total Area': '0.0000', 'Pot kharaba': '0.2600', 'Owner Name': 'महाराष्ट्र शासन वनविभाग रस्ता', 'Khata No.': '20'}: 2024-08-05 01:36:44
+Plot info: {'Survey No.': '64', 'Total Area': '0.0000', 'Pot kharaba': '0.0900', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:36:45
+Plot info: {'Survey No.': '65', 'Total Area': '1.5600', 'Pot kharaba': '0.0000', 'Owner Name': 'भगवानजी हन्नू को.', 'Khata No.': '45'}: 2024-08-05 01:36:46
+Plot info: {'Survey No.': '66', 'Total Area': '0.0000', 'Pot kharaba': '3.8400', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:36:47
+Plot info: {'Survey No.': '67', 'Total Area': '0.0000', 'Pot kharaba': '0.2500', 'Owner Name': 'महाराष्ट्र शासन वनविभाग रस्ता', 'Khata No.': '20'}: 2024-08-05 01:36:48
+Plot info: {'Survey No.': '68', 'Total Area': '0.0000', 'Pot kharaba': '0.3600', 'Owner Name': 'महाराष्ट्र शासन वनविभाग नाला', 'Khata No.': '19'}: 2024-08-05 01:36:49
+Plot info: {'Survey No.': '69', 'Total Area': '0.0000', 'Pot kharaba': '0.5000', 'Owner Name': 'महाराष्ट्र शासन वनविभाग नाला', 'Khata No.': '19'}: 2024-08-05 01:36:51
+Plot info: {'Survey No.': '7', 'Total Area': '0.0000', 'Pot kharaba': '0.2700', 'Owner Name': 'महाराष्ट्र शासन वनविभाग नाला', 'Khata No.': '19'}: 2024-08-05 01:36:52
+Plot info: {'Survey No.': '70', 'Total Area': '0.0000', 'Pot kharaba': '3.2000', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:36:53
+Plot info: {'Survey No.': '71', 'Total Area': '3.9600', 'Pot kharaba': '0.0000', 'Owner Name': 'आशा दंडी को., गुडु बालाजी काळे, झानकू बन्सी को., फुलमा विजय, राटु सोमा, रुखमी गोंडू, लक्ष्मी जगन सावलकर, लखमाय चंपा सावलकर, शोभेराम गोंडू, शंकर बन्सी', 'Khata No.': '3'}: 2024-08-05 01:36:54
+Plot info: {'Survey No.': '72', 'Total Area': '0.0000', 'Pot kharaba': '0.1300', 'Owner Name': 'महाराष्ट्र शासन वनविभाग गोठाण', 'Khata No.': '24'}: 2024-08-05 01:36:55
+Plot info: {'Survey No.': '73', 'Total Area': '0.0000', 'Pot kharaba': '0.3500', 'Owner Name': 'महाराष्ट्र शासन वनविभाग रस्ता', 'Khata No.': '20'}: 2024-08-05 01:36:56
+Plot info: {'Survey No.': '74', 'Total Area': '0.0000', 'Pot kharaba': '0.0900', 'Owner Name': 'महाराष्ट्र शासन सरकारी पडित', 'Khata No.': '22'}: 2024-08-05 01:36:58
+Plot info: {'Survey No.': '75/2', 'Total Area': '0.0000', 'Pot kharaba': '0.4000', 'Owner Name': 'महाराष्ट्र शासन महसुल विभाग स्मशान', 'Khata No.': '25'}: 2024-08-05 01:36:59
+Plot info: {'Survey No.': '76', 'Total Area': '0.0000', 'Pot kharaba': '0.9300', 'Owner Name': 'महाराष्ट्र शासन वनविभाग रस्ता', 'Khata No.': '20'}: 2024-08-05 01:37:00
+Plot info: {'Survey No.': '77', 'Total Area': '4.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'झुनय लाला, बाबनू भगवानजी कोरकु, मोंडे शंकर, रुपाय सानू, सुगाय भगवानजी, सोनी सुभाजी, भैय्या भगवानजी कोरकु', 'Khata No.': '11'}: 2024-08-05 01:37:01
+Plot info: {'Survey No.': '78', 'Total Area': '0.0000', 'Pot kharaba': '1.0800', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:37:02
+Plot info: {'Survey No.': '79', 'Total Area': '0.9000', 'Pot kharaba': '0.0000', 'Owner Name': 'कालु गन्नु कोरकु, भगवानजी गन्नु कोरकु, लक्ष्मण गन्नु कोरकु', 'Khata No.': '2'}: 2024-08-05 01:37:04
+Plot info: {'Survey No.': '8', 'Total Area': '0.4400', 'Pot kharaba': '0.0000', 'Owner Name': 'झानकु रतीराम बेलसरे, मानकु दादु जामुनकर, मोतीराम छोटेलाल सावलकर, सिताय छोटेलाल सावलकर, तुलसी छोटेलाल सावलकर', 'Khata No.': '5'}: 2024-08-05 01:37:05
+Plot info: {'Survey No.': '80', 'Total Area': '0.0000', 'Pot kharaba': '2.5000', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:37:06
+Plot info: {'Survey No.': '81', 'Total Area': '0.0000', 'Pot kharaba': '0.2800', 'Owner Name': 'महाराष्ट्र शासन वनविभाग नाला', 'Khata No.': '19'}: 2024-08-05 01:37:07
+Plot info: {'Survey No.': '82', 'Total Area': '0.0000', 'Pot kharaba': '3.7300', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:37:09
+Plot info: {'Survey No.': '83', 'Total Area': '0.7400', 'Pot kharaba': '0.0000', 'Owner Name': 'आशा दंडी को., गुडु बालाजी काळे, झानकू बन्सी को., फुलमा विजय, राटु सोमा, रुखमी गोंडू, लक्ष्मी जगन सावलकर, लखमाय चंपा सावलकर, शोभेराम गोंडू, शंकर बन्सी', 'Khata No.': '3'}: 2024-08-05 01:37:10
+Plot info: {'Survey No.': '84', 'Total Area': '0.0000', 'Pot kharaba': '0.0800', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:37:11
+Plot info: {'Survey No.': '85', 'Total Area': '0.0000', 'Pot kharaba': '0.3000', 'Owner Name': 'महाराष्ट्र शासन वनविभाग नाला', 'Khata No.': '19'}: 2024-08-05 01:37:13
+Plot info: {'Survey No.': '86', 'Total Area': '0.0000', 'Pot kharaba': '2.5000', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:37:14
+Plot info: {'Survey No.': '87', 'Total Area': '0.3500', 'Pot kharaba': '0.0000', 'Owner Name': 'भगवानजी गन्नु कोरकु, लक्ष्मण गन्नु कोरकु, कालु गन्नु कोरकु', 'Khata No.': '2'}: 2024-08-05 01:37:15
+Plot info: {'Survey No.': '88', 'Total Area': '0.0000', 'Pot kharaba': '0.2200', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:37:16
+Plot info: {'Survey No.': '89', 'Total Area': '0.0000', 'Pot kharaba': '0.2000', 'Owner Name': 'महाराष्ट्र शासन वनविभाग रस्ता', 'Khata No.': '20'}: 2024-08-05 01:37:18
+Plot info: {'Survey No.': '90', 'Total Area': '1.4000', 'Pot kharaba': '0.0000', 'Owner Name': 'कालु गन्नु कोरकु, भगवानजी गन्नु कोरकु, लक्ष्मण गन्नु कोरकु', 'Khata No.': '2'}: 2024-08-05 01:37:19
+Plot info: {'Survey No.': '93', 'Total Area': '0.0000', 'Pot kharaba': '0.5800', 'Owner Name': 'महाराष्ट्र शासन वनविभाग रस्ता', 'Khata No.': '20'}: 2024-08-05 01:37:20
+Plot info: {'Survey No.': '94', 'Total Area': '0.0000', 'Pot kharaba': '0.0600', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:37:21
+Plot info: {'Survey No.': '95', 'Total Area': '0.0000', 'Pot kharaba': '0.0800', 'Owner Name': 'महाराष्ट्र शासन वनविभाग जंगल', 'Khata No.': '18'}: 2024-08-05 01:37:23
+Plot info: {'Survey No.': '96', 'Total Area': '0.0000', 'Pot kharaba': '0.0600', 'Owner Name': 'महाराष्ट्र शासन वनविभाग रस्ता', 'Khata No.': '20'}: 2024-08-05 01:37:24
+Village '270700020066540000 हत्तीघाट' processed: 2024-08-05 01:37:24
+Time taken for village '270700020066540000 हत्तीघाट': 0:02:12.843834: 2024-08-05 01:37:24
+Script completed for village '270700020066540000 हत्तीघाट': 2024-08-05 01:37:27

@@ -1,0 +1,48 @@
+Opened the webpage: 2024-08-05 05:51:43
+Page loaded: 2024-08-05 05:51:43
+District folder '07 अमरावती' created or already exists: 2024-08-05 05:51:49
+Taluka folder '11 दर्यापुर' created or already exists: 2024-08-05 05:51:50
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 05:52:16
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 05:52:40
+Timeout waiting for plot info for village '270700110079410000 पल्हादपुर', option: 105: 2024-08-05 05:52:40
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 05:53:03
+Timeout waiting for plot info for village '270700110079410000 पल्हादपुर', option: 109: 2024-08-05 05:53:03
+Plot info: {'Survey No.': '12', 'Total Area': '0.5300', 'Pot kharaba': '0.0100', 'Owner Name': 'प्रमोद माणिकराव बारब्दे', 'Khata No.': '103'}: 2024-08-05 05:53:05
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 05:53:26
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 05:53:47
+Plot info: {'Survey No.': '13', 'Total Area': '2.9900', 'Pot kharaba': '0.0600', 'Owner Name': 'शैलेश विजयकुमार उमाठे', 'Khata No.': '943'}: 2024-08-05 05:53:47
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 05:54:19
+Plot info: {'Survey No.': '14', 'Total Area': '2.7400', 'Pot kharaba': '0.0800', 'Owner Name': 'गोपालसिंग रघुसिंगजी शेखावत', 'Khata No.': '57'}: 2024-08-05 05:54:19
+Plot info: {'Survey No.': '15', 'Total Area': '1.0900', 'Pot kharaba': '0.0000', 'Owner Name': 'सतीश रामचंद्र रोडे', 'Khata No.': '19'}: 2024-08-05 05:54:31
+Plot info: {'Survey No.': '16', 'Total Area': '0.9500', 'Pot kharaba': '0.0000', 'Owner Name': 'श्वेता प्रकाश रोडे, प्रकाश शिवशंकर रोडे', 'Khata No.': '929'}: 2024-08-05 05:54:44
+Plot info: {'Survey No.': '17', 'Total Area': '0.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'संदिप भिमराव मालठाने', 'Khata No.': '72'}: 2024-08-05 05:54:58
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 05:55:21
+Timeout waiting for plot info for village '270700110079410000 पल्हादपुर', option: 172: 2024-08-05 05:55:21
+Plot info: {'Survey No.': '18', 'Total Area': '1.1100', 'Pot kharaba': '0.0000', 'Owner Name': 'राजु रामेश्वर काळे', 'Khata No.': '9'}: 2024-08-05 05:55:27
+Plot info: {'Survey No.': '19', 'Total Area': '1.0400', 'Pot kharaba': '0.0000', 'Owner Name': 'मोहन गणेशराव धर्माळे', 'Khata No.': '59'}: 2024-08-05 05:55:28
+Plot info: {'Survey No.': '20', 'Total Area': '1.1600', 'Pot kharaba': '0.0500', 'Owner Name': 'लक्ष्मीकांत शामराव शिंदे, विलास शामराव शिंदे', 'Khata No.': '930'}: 2024-08-05 05:55:29
+Plot info: {'Survey No.': '21', 'Total Area': '1.5700', 'Pot kharaba': '0.0500', 'Owner Name': 'प्रविण रामराव शिंदे', 'Khata No.': '99'}: 2024-08-05 05:55:31
+Plot info: {'Survey No.': '22', 'Total Area': '1.1400', 'Pot kharaba': '0.0700', 'Owner Name': 'दिलीप रामराव शिंदे', 'Khata No.': '100'}: 2024-08-05 05:55:32
+Plot info: {'Survey No.': '23', 'Total Area': '1.0000', 'Pot kharaba': '0.0400', 'Owner Name': 'सुनील रामराव शिंदे', 'Khata No.': '105'}: 2024-08-05 05:55:33
+Plot info: {'Survey No.': '24', 'Total Area': '1.3600', 'Pot kharaba': '0.0000', 'Owner Name': 'बाबुराव हरीभाउ चऱ्हाटे', 'Khata No.': '107'}: 2024-08-05 05:55:35
+Plot info: {'Survey No.': '25', 'Total Area': '1.0300', 'Pot kharaba': '0.0000', 'Owner Name': 'नाना महादेव चऱ्हाटे', 'Khata No.': '936'}: 2024-08-05 05:55:36
+Plot info: {'Survey No.': '26', 'Total Area': '1.0200', 'Pot kharaba': '0.0000', 'Owner Name': 'मंगलाबाई ज. नाना चऱ्हाटे', 'Khata No.': '7'}: 2024-08-05 05:55:38
+Plot info: {'Survey No.': '27', 'Total Area': '0.9200', 'Pot kharaba': '0.0000', 'Owner Name': 'नाना महादेवराव चऱ्हाटे', 'Khata No.': '13'}: 2024-08-05 05:55:39
+Plot info: {'Survey No.': '28', 'Total Area': '1.0500', 'Pot kharaba': '0.0000', 'Owner Name': 'पल्लवी श्रीकांत च-हाटे', 'Khata No.': '939'}: 2024-08-05 05:55:40
+Plot info: {'Survey No.': '29', 'Total Area': '0.9900', 'Pot kharaba': '0.0000', 'Owner Name': 'बाबुराव हरीभाउ चऱ्हाटे', 'Khata No.': '107'}: 2024-08-05 05:55:42
+Plot info: {'Survey No.': '30', 'Total Area': '0.5400', 'Pot kharaba': '0.0000', 'Owner Name': 'गजानन पुडलीक ठाकरे, श्रीमती गिताबाई पुडलीक ठाकरे', 'Khata No.': '80'}: 2024-08-05 05:55:43
+Plot info: {'Survey No.': '31', 'Total Area': '0.8300', 'Pot kharaba': '0.0000', 'Owner Name': 'पल्लवी श्रीकांत च-हाटे', 'Khata No.': '939'}: 2024-08-05 05:55:45
+Plot info: {'Survey No.': '32', 'Total Area': '1.1500', 'Pot kharaba': '0.0000', 'Owner Name': 'नाना महादेव चऱ्हाटे', 'Khata No.': '931'}: 2024-08-05 05:55:46
+Plot info: {'Survey No.': '33', 'Total Area': '0.5300', 'Pot kharaba': '0.0000', 'Owner Name': 'गजानन लक्ष्मनराव चऱ्हाटे', 'Khata No.': '36'}: 2024-08-05 05:55:48
+Plot info: {'Survey No.': '42', 'Total Area': '1.9700', 'Pot kharaba': '0.0000', 'Owner Name': 'रत्नाकर शंकरराव पंचवटे', 'Khata No.': '88'}: 2024-08-05 05:55:49
+Plot info: {'Survey No.': '43', 'Total Area': '0.9700', 'Pot kharaba': '0.0000', 'Owner Name': 'समीउल्लाह खां हुसेन खां', 'Khata No.': '941'}: 2024-08-05 05:55:51
+Plot info: {'Survey No.': '44', 'Total Area': '2.3500', 'Pot kharaba': '0.0000', 'Owner Name': 'मो.इरफान अ.रफीक', 'Khata No.': '928'}: 2024-08-05 05:55:52
+Plot info: {'Survey No.': '45', 'Total Area': '1.0700', 'Pot kharaba': '0.0000', 'Owner Name': 'समीउल्लाह खां हुसेन खां', 'Khata No.': '941'}: 2024-08-05 05:55:54
+Plot info: {'Survey No.': '46', 'Total Area': '1.6500', 'Pot kharaba': '0.0000', 'Owner Name': 'अनिल श्रीराम रोडे, विजय श्रीराम रोडे, सुनिताबाई प्रमोदराव कुकडे, विमलाबाई श्रीराम रोडे', 'Khata No.': '46'}: 2024-08-05 05:55:55
+Plot info: {'Survey No.': '47', 'Total Area': '0.7800', 'Pot kharaba': '0.0000', 'Owner Name': 'शेख दानिश शेख अहमद', 'Khata No.': '945'}: 2024-08-05 05:55:57
+Plot info: {'Survey No.': '48', 'Total Area': '1.8600', 'Pot kharaba': '0.0000', 'Owner Name': 'फरजाना हमिद मिर्झा, शमाबी मोहम्मद असलम, शहेनाज परवीन अब्दुल रऊफ, शेख जमील शेख रहमतउल्ला, शेख सलीम शेख रहमतउल्ला', 'Khata No.': '108'}: 2024-08-05 05:55:58
+Plot info: {'Survey No.': '49', 'Total Area': '1.8600', 'Pot kharaba': '0.0000', 'Owner Name': 'शाहिनी बानो मो युसुफ, शे अशफाक शे मेहमूद, शे इकबाल शे मेहमूद, शे मुशताक शे मेहमूद, शे शहेजाद शे मेहमूद, अजीजाबी शे मेहमूद', 'Khata No.': '110'}: 2024-08-05 05:56:00
+Plot info: {'Survey No.': '50', 'Total Area': '0.8300', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक नामदेवराव डोकेकर', 'Khata No.': '62'}: 2024-08-05 05:56:01
+Village '270700110079410000 पल्हादपुर' processed: 2024-08-05 05:56:14
+Time taken for village '270700110079410000 पल्हादपुर': 0:04:34.903487: 2024-08-05 05:56:14
+Script completed for village '270700110079410000 पल्हादपुर': 2024-08-05 05:56:17

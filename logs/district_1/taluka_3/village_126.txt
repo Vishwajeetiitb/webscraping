@@ -1,0 +1,34 @@
+Opened the webpage: 2024-08-04 21:45:48
+Error encountered: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+: 2024-08-04 22:45:48
+Opened the webpage: 2024-08-04 23:49:38
+Page loaded: 2024-08-04 23:49:38
+District folder '07 अमरावती' created or already exists: 2024-08-04 23:49:44
+Taluka folder '05 चांदुर बा.' created or already exists: 2024-08-04 23:49:45
+Plot info: {'Survey No.': '1/3', 'Total Area': '1.2200', 'Pot kharaba': '0.0000', 'Owner Name': 'भिमराव मारोतीराव सार्वे', 'Khata No.': '182'}: 2024-08-04 23:49:46
+Plot info: {'Survey No.': '10/5', 'Total Area': '0.3600', 'Pot kharaba': '0.0000', 'Owner Name': 'सुनिल उमराव मातकर', 'Khata No.': '58'}: 2024-08-04 23:49:47
+Plot info: {'Survey No.': '11/3', 'Total Area': '0.6900', 'Pot kharaba': '0.0200', 'Owner Name': 'नरेंद्र रामराव तांबटकर', 'Khata No.': '97'}: 2024-08-04 23:49:49
+Plot info: {'Survey No.': '12/2/अ', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'नवलसिंग कर्तारसिंग चीतोडीया', 'Khata No.': '196'}: 2024-08-04 23:49:50
+Plot info: {'Survey No.': '13/3', 'Total Area': '1.6000', 'Pot kharaba': '0.2300', 'Owner Name': 'रजनी देवराव तायवाडे, जयश्री विजय पवार, सतिश देवराव तायवाडे, स्मिता शिवराज सावरकर', 'Khata No.': '23'}: 2024-08-04 23:49:51
+Plot info: {'Survey No.': '14/5/ब', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रकाश गुणवंत धोंडे', 'Khata No.': '188'}: 2024-08-04 23:49:52
+Plot info: {'Survey No.': '15/3', 'Total Area': '2.1200', 'Pot kharaba': '0.1400', 'Owner Name': 'शामराव गोविंदराव रावळे', 'Khata No.': '72'}: 2024-08-04 23:49:53
+Plot info: {'Survey No.': '16/2', 'Total Area': '0.8300', 'Pot kharaba': '0.0000', 'Owner Name': 'सुमन गोविंदराव चौधरी', 'Khata No.': '14'}: 2024-08-04 23:49:54
+Plot info: {'Survey No.': '17/4', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'नितीन रामभाउ होले, विवेक रामभाउ होले', 'Khata No.': '32'}: 2024-08-04 23:49:55
+Plot info: {'Survey No.': '18/2', 'Total Area': '0.4600', 'Pot kharaba': '0.0000', 'Owner Name': 'रविंद्र सुखदेव जावरकर', 'Khata No.': '154'}: 2024-08-04 23:49:57
+Plot info: {'Survey No.': '19/4', 'Total Area': '0.3400', 'Pot kharaba': '0.0200', 'Owner Name': 'राजेश प्रभाकर वाडी', 'Khata No.': '44'}: 2024-08-04 23:49:59
+Plot info: {'Survey No.': '2/3', 'Total Area': '0.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'छाया युवराज डहाके, प्रतीक्षा चंद्रकांत होले, प्रमोद नानाजी जावरकर, दिलीप नानाजी जावरकर, संजय नानाजी जावरकर, आकाश सुधिर जावरकर', 'Khata No.': '73'}: 2024-08-04 23:50:00
+Plot info: {'Survey No.': '20', 'Total Area': '0.0000', 'Pot kharaba': '0.3600', 'Owner Name': 'एफ क्लास', 'Khata No.': '1'}: 2024-08-04 23:50:01
+Plot info: {'Survey No.': '3/4', 'Total Area': '0.8800', 'Pot kharaba': '0.0000', 'Owner Name': 'वासुदेव रूपराव घाटोळ', 'Khata No.': '88'}: 2024-08-04 23:50:02
+Plot info: {'Survey No.': '4/4', 'Total Area': '0.4000', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रकाश महादेव आसोले', 'Khata No.': '140'}: 2024-08-04 23:50:02
+Plot info: {'Survey No.': '5/2', 'Total Area': '1.6400', 'Pot kharaba': '0.0000', 'Owner Name': 'लता रामकृष्ण येरणे, वैभव रामकृष्ण येरणे', 'Khata No.': '74'}: 2024-08-04 23:50:04
+Plot info: {'Survey No.': '6/4', 'Total Area': '1.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'त्रिशूल रंगरावजी मानापुरे', 'Khata No.': '119'}: 2024-08-04 23:50:05
+Plot info: {'Survey No.': '7/2', 'Total Area': '1.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'अ.रशिद शे.चाँद', 'Khata No.': '3'}: 2024-08-04 23:50:07
+Plot info: {'Survey No.': '8/5', 'Total Area': '0.4500', 'Pot kharaba': '0.0000', 'Owner Name': 'मनोज जनार्दन पोहोकार', 'Khata No.': '172'}: 2024-08-04 23:50:08
+Village '270700050071910000 राहटगाव' processed: 2024-08-04 23:50:08
+Time taken for village '270700050071910000 राहटगाव': 0:00:41.798734: 2024-08-04 23:50:08
+Script completed for village '270700050071910000 राहटगाव': 2024-08-04 23:50:11
