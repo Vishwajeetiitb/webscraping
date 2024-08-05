@@ -26,7 +26,7 @@ def print_and_log_time(message, log_file):
 # Function to update the terminal output
 def update_terminal_output(progress_tracker, completed_villages, total_villages):
     os.system('cls' if os.name == 'nt' else 'clear')
-    print(f"Completed Villages: {completed_villages} / {total_villages}")
+    print(f"Completed villages: {completed_villages}/{total_villages}\n")
     for key, value in progress_tracker.items():
         print(f"Instance {key}: {json.dumps(value, ensure_ascii=False)}")
 
@@ -44,7 +44,7 @@ def select_option_by_text_with_retry(driver, select_element_id, option_text, log
             message = f"Error selecting option '{option_text}' on attempt {attempt + 1}/{retries}: {e}"
             print_and_log_time(message, log_file)
             progress_tracker[instance_id]['message'] = message
-            update_terminal_output(progress_tracker)
+            update_terminal_output(progress_tracker, len([v for v in processed_villages if os.path.isfile(v)]), total_villages)
             time.sleep(1)
             if attempt < retries - 1:
                 # Re-locate the element without refreshing the page
@@ -93,7 +93,7 @@ def wait_for_plot_info_update(driver, log_file, instance_id, progress_tracker, p
             message = f"Timeout waiting for plot info update on attempt {attempt + 1}/{retries}"
             print_and_log_time(message, log_file)
             progress_tracker[instance_id]['message'] = message
-            update_terminal_output(progress_tracker)
+            update_terminal_output(progress_tracker, len([v for v in processed_villages if os.path.isfile(v)]), total_villages)
             # Backup logic: compare with previous plot info
             try:
                 plot_info = driver.find_element(By.ID, 'plotinfo').text
@@ -138,7 +138,7 @@ def get_village_name_to_scrape(instance_id, villages, processed_villages, lock):
                 return village_index, village_name
     return None, None
 
-def scrape_village(instance_id, district_index, taluka_index, progress_tracker, lock, villages, processed_villages, completed_villages, total_villages):
+def scrape_village(instance_id, district_index, taluka_index, progress_tracker, lock, villages, processed_villages, total_villages):
     # Setup Firefox options
     firefox_options = Options()
     firefox_options.binary_location = r"C:\Program Files\Mozilla Firefox\firefox.exe"  # Update this path if necessary
@@ -181,6 +181,9 @@ def scrape_village(instance_id, district_index, taluka_index, progress_tracker, 
             )
             time.sleep(5)  # Add a small delay to allow the dropdown to populate
             category_select = Select(driver.find_element(By.ID, 'level_1'))
+            WebDriverWait(driver, 20).until(
+                lambda d: len(category_select.options) > 1
+            )
             category_select.select_by_index(0)
 
             # Wait for the district dropdown to be populated and select the specific district
@@ -188,6 +191,9 @@ def scrape_village(instance_id, district_index, taluka_index, progress_tracker, 
                 EC.presence_of_element_located((By.ID, 'level_2'))
             )
             district_select = Select(driver.find_element(By.ID, 'level_2'))
+            WebDriverWait(driver, 20).until(
+                lambda d: len(district_select.options) > 1
+            )
             district_select.select_by_index(district_index)
             district_name = district_select.options[district_index].text
 
@@ -199,6 +205,9 @@ def scrape_village(instance_id, district_index, taluka_index, progress_tracker, 
 
             # Select the specific taluka
             taluka_select = Select(driver.find_element(By.ID, 'level_3'))
+            WebDriverWait(driver, 20).until(
+                lambda d: len(taluka_select.options) > 1
+            )
             taluka_select.select_by_index(taluka_index)
             taluka_name = taluka_select.options[taluka_index].text
 
@@ -213,6 +222,9 @@ def scrape_village(instance_id, district_index, taluka_index, progress_tracker, 
                 EC.presence_of_element_located((By.ID, 'level_4'))
             )
             village_select = Select(driver.find_element(By.ID, 'level_4'))
+            WebDriverWait(driver, 20).until(
+                lambda d: len(village_select.options) > 1
+            )
             if not select_option_by_text_with_retry(driver, 'level_4', village_name, log_file, instance_id, progress_tracker):
                 print_and_log_time(f"Village '{village_name}' not found", log_file)
                 continue
@@ -245,7 +257,7 @@ def scrape_village(instance_id, district_index, taluka_index, progress_tracker, 
                     "plot_index": plot_index,
                     "plot_info": plot_option_text
                 }
-                update_terminal_output(progress_tracker, len(processed_villages), len(villages))
+                update_terminal_output(progress_tracker, len([v for v in processed_villages if os.path.isfile(os.path.join(taluka_path, f"{v}.xlsx"))]), total_villages)
                 if not select_option_by_text_with_retry(driver, 'surveyNumber', plot_option_text, log_file, instance_id, progress_tracker):  # Select the plot by text
                     print_and_log_time(f"Plot option '{plot_option_text}' not found for village '{village_name}'", log_file)
                     break
@@ -307,7 +319,7 @@ def scrape_village(instance_id, district_index, taluka_index, progress_tracker, 
 
         # Remove the instance from the progress tracker
         progress_tracker.pop(instance_id)
-        update_terminal_output(progress_tracker, len(processed_villages), len(villages))
+        update_terminal_output(progress_tracker, len([v for v in processed_villages if os.path.isfile(os.path.join(taluka_path, f"{v}.xlsx"))]), total_villages)
 
         # Print overall time taken
         print_and_log_time(f"Script completed for village '{village_name}'", log_file)
@@ -325,7 +337,7 @@ def get_villages(district_index, taluka_index):
     try:
         # Open the webpage
         driver.get("https://mahabhunakasha.mahabhumi.gov.in/27/index.html")
-        WebDriverWait(driver, 20).until(
+        WebDriverWait(driver, 3600).until(
             EC.presence_of_element_located((By.ID, 'level_0'))
         )
 
@@ -334,11 +346,14 @@ def get_villages(district_index, taluka_index):
         state_select.select_by_index(0)
 
         # Wait for the category dropdown to be populated
-        WebDriverWait(driver, 20).until(
+        WebDriverWait(driver, 360).until(
             EC.presence_of_element_located((By.ID, 'level_1'))
         )
         time.sleep(5)  # Add a small delay to allow the dropdown to populate
         category_select = Select(driver.find_element(By.ID, 'level_1'))
+        WebDriverWait(driver, 20).until(
+            lambda d: len(category_select.options) > 1
+        )
         category_select.select_by_index(0)
 
         # Wait for the district dropdown to be populated and select the specific district
@@ -346,6 +361,9 @@ def get_villages(district_index, taluka_index):
             EC.presence_of_element_located((By.ID, 'level_2'))
         )
         district_select = Select(driver.find_element(By.ID, 'level_2'))
+        WebDriverWait(driver, 20).until(
+            lambda d: len(district_select.options) > 1
+        )
         district_select.select_by_index(district_index)
         district_name = district_select.options[district_index].text
 
@@ -354,6 +372,9 @@ def get_villages(district_index, taluka_index):
             EC.presence_of_element_located((By.ID, 'level_3'))
         )
         taluka_select = Select(driver.find_element(By.ID, 'level_3'))
+        WebDriverWait(driver, 20).until(
+            lambda d: len(taluka_select.options) > 1
+        )
         taluka_select.select_by_index(taluka_index)
         taluka_name = taluka_select.options[taluka_index].text
 
@@ -362,6 +383,9 @@ def get_villages(district_index, taluka_index):
             EC.presence_of_element_located((By.ID, 'level_4'))
         )
         village_select = Select(driver.find_element(By.ID, 'level_4'))
+        WebDriverWait(driver, 20).until(
+            lambda d: len(village_select.options) > 1
+        )
         village_options = [(index, option.text) for index, option in enumerate(village_select.options[1:], start=1)]
         return village_options, district_name, taluka_name
 
@@ -387,6 +411,7 @@ if __name__ == "__main__":
     taluka_index = 7  # Adjust this to the desired taluka index
 
     villages, district_name, taluka_name = get_villages(district_index, taluka_index)
+    total_villages = len(villages)
 
     processed_villages = manager.list(get_already_processed_villages(district_name, taluka_name))
 
@@ -394,6 +419,6 @@ if __name__ == "__main__":
 
     with multiprocessing.Pool(processes=num_instances) as pool:
         pool.starmap(scrape_village, [
-            (instance_id, district_index, taluka_index, progress_tracker, lock, villages, processed_villages, len(processed_villages), len(villages))
+            (instance_id, district_index, taluka_index, progress_tracker, lock, villages, processed_villages, total_villages)
             for instance_id in range(num_instances)
         ])

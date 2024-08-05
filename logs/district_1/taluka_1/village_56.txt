@@ -1,0 +1,446 @@
+Opened the webpage: 2024-08-04 04:42:17
+Page loaded: 2024-08-04 04:42:17
+District folder '07 अमरावती' created or already exists: 2024-08-04 04:42:24
+Taluka folder '09 अमरावती' created or already exists: 2024-08-04 04:42:25
+Plot info: {'Survey No.': '1', 'Total Area': '0.6600', 'Pot kharaba': '0.0000', 'Owner Name': 'सुलभा ज. सुधीर कोकाटे', 'Khata No.': '117'}: 2024-08-04 04:42:31
+Plot info: {'Survey No.': '100', 'Total Area': '1.2400', 'Pot kharaba': '0.0000', 'Owner Name': 'गौतम नामदेव वरघट', 'Khata No.': '610'}: 2024-08-04 04:42:32
+Plot info: {'Survey No.': '101', 'Total Area': '1.2500', 'Pot kharaba': '0.0000', 'Owner Name': 'अरविंद खुशालराव वरघट, धृपताबाई राजकुमार इंगळे, रविंद्र खुशालराव वरघट, रुख्\u200dमाबाई गणेशराव वानखडे, वसंत खुशालराव वरघट, सुमन खुशालराव वरघट', 'Khata No.': '20'}: 2024-08-04 04:42:33
+Plot info: {'Survey No.': '102', 'Total Area': '1.0400', 'Pot kharaba': '0.0000', 'Owner Name': 'विनय सुरेश वरघट', 'Khata No.': '678'}: 2024-08-04 04:42:34
+Plot info: {'Survey No.': '103', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'सागर वासुदेवराव सिरसाम, अनुसया वासुदेवराव सिरसाम, हरीशचंद्र सिताराम सिरसाम, किसन सिताराम सिरसाम, जयश्री अमोल भलावी, देवकाबाई प्रकाश कोंडवते, वर्षा विलास मेश्राम', 'Khata No.': '712'}: 2024-08-04 04:42:34
+Plot info: {'Survey No.': '104', 'Total Area': '1.6800', 'Pot kharaba': '0.0000', 'Owner Name': 'अनिता अरुण मनोहर, अंबादास सदाशिव वरघट, प्रेमदास सदाशिव वरघट, रामदास सदाशिव वरघट', 'Khata No.': '206'}: 2024-08-04 04:42:35
+Plot info: {'Survey No.': '105', 'Total Area': '0.8600', 'Pot kharaba': '0.0000', 'Owner Name': 'आरती सुदर्शन वरघट', 'Khata No.': '583'}: 2024-08-04 04:42:36
+Plot info: {'Survey No.': '107', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'कांताबाई शंकरराव सांगोले', 'Khata No.': '790'}: 2024-08-04 04:42:37
+Plot info: {'Survey No.': '108', 'Total Area': '2.0200', 'Pot kharaba': '0.0000', 'Owner Name': 'विलास दशरथ वरघट, धनराज दशरथ वरघट, कमला बाळू गाडे', 'Khata No.': '680'}: 2024-08-04 04:42:38
+Plot info: {'Survey No.': '109', 'Total Area': '1.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'राजेश लक्ष्मण वरघट', 'Khata No.': '9'}: 2024-08-04 04:42:39
+Plot info: {'Survey No.': '110/2', 'Total Area': '1.9700', 'Pot kharaba': '0.0000', 'Owner Name': 'वसंत हरीभाऊ अंबोरे', 'Khata No.': '775'}: 2024-08-04 04:42:40
+Plot info: {'Survey No.': '111', 'Total Area': '1.5900', 'Pot kharaba': '0.0000', 'Owner Name': 'मयूर प्रदीप कोकाटे, श्रीपाद अरविंद पुजारी, प्रकाश रघुनाथ महल्ले', 'Khata No.': '782'}: 2024-08-04 04:42:41
+Plot info: {'Survey No.': '112', 'Total Area': '1.7500', 'Pot kharaba': '0.0000', 'Owner Name': 'विनीता मयुर कोकाटे', 'Khata No.': '693'}: 2024-08-04 04:42:42
+Plot info: {'Survey No.': '113', 'Total Area': '0.4100', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रदीप हरिभाऊ कोकाटे', 'Khata No.': '620'}: 2024-08-04 04:42:43
+Plot info: {'Survey No.': '114', 'Total Area': '1.4800', 'Pot kharaba': '0.1700', 'Owner Name': 'रघुनाथ घनशाम भुयार', 'Khata No.': '308'}: 2024-08-04 04:42:45
+Plot info: {'Survey No.': '115', 'Total Area': '1.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'मंदा गुलाबराव गाडे', 'Khata No.': '409'}: 2024-08-04 04:42:46
+Plot info: {'Survey No.': '116', 'Total Area': '0.0000', 'Pot kharaba': '9.0000', 'Owner Name': 'सरकार', 'Khata No.': '271'}: 2024-08-04 04:42:47
+Plot info: {'Survey No.': '117', 'Total Area': '2.0300', 'Pot kharaba': '0.0000', 'Owner Name': 'बन्सी डेबु वाटबैल', 'Khata No.': '410'}: 2024-08-04 04:42:48
+Plot info: {'Survey No.': '118', 'Total Area': '9.4100', 'Pot kharaba': '0.0400', 'Owner Name': 'मानीकराव जयराम, विनायक वीश्वनाथ, महादेव संस्थान धानोरा तर्फ व्यवस्थापक', 'Khata No.': '123'}: 2024-08-04 04:42:49
+Plot info: {'Survey No.': '119', 'Total Area': '1.6000', 'Pot kharaba': '0.0200', 'Owner Name': 'पुरुषोत्तम बबनराव कडू', 'Khata No.': '690'}: 2024-08-04 04:42:50
+Plot info: {'Survey No.': '120', 'Total Area': '0.0000', 'Pot kharaba': '5.9800', 'Owner Name': 'सरकार', 'Khata No.': '271'}: 2024-08-04 04:42:51
+Plot info: {'Survey No.': '121', 'Total Area': '2.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'जिजा शेषराव डोंगरे, यशोदा बसवंत सुर्यवंशी, विमल प्रकाश गजभिये', 'Khata No.': '170'}: 2024-08-04 04:42:52
+Plot info: {'Survey No.': '122', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रिया प्रफुल चौधरी', 'Khata No.': '752'}: 2024-08-04 04:42:54
+Plot info: {'Survey No.': '123', 'Total Area': '2.0200', 'Pot kharaba': '0.0000', 'Owner Name': 'रुपचंद प्रभाकर वरखडे, प्रभाकर चंपत वरखडे', 'Khata No.': '90'}: 2024-08-04 04:42:55
+Plot info: {'Survey No.': '124', 'Total Area': '1.1900', 'Pot kharaba': '0.0000', 'Owner Name': 'जीवन विश्वासराव डहाके', 'Khata No.': '48'}: 2024-08-04 04:42:56
+Plot info: {'Survey No.': '125', 'Total Area': '1.1900', 'Pot kharaba': '0.0000', 'Owner Name': 'अरविंद पुंडलिक डहाके, दिपक पुंडलिक डहाके, कांताबाई पुंडलिक डहाके', 'Khata No.': '99'}: 2024-08-04 04:42:57
+Plot info: {'Survey No.': '126', 'Total Area': '1.1900', 'Pot kharaba': '0.0000', 'Owner Name': 'धनराज जानराव डहाके', 'Khata No.': '47'}: 2024-08-04 04:42:58
+Plot info: {'Survey No.': '127', 'Total Area': '1.1000', 'Pot kharaba': '0.0000', 'Owner Name': 'हरीभाऊ जानराव डहाके', 'Khata No.': '258'}: 2024-08-04 04:43:00
+Plot info: {'Survey No.': '128', 'Total Area': '1.5600', 'Pot kharaba': '0.0000', 'Owner Name': 'रमेश केळाजी भोपळे', 'Khata No.': '403'}: 2024-08-04 04:43:01
+Plot info: {'Survey No.': '129', 'Total Area': '1.9500', 'Pot kharaba': '0.0000', 'Owner Name': 'मुकींदा पुंजाजी लोहांडे', 'Khata No.': '143'}: 2024-08-04 04:43:02
+Plot info: {'Survey No.': '130', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'दीपक पंजाबराव राउत', 'Khata No.': '64'}: 2024-08-04 04:43:03
+Plot info: {'Survey No.': '131', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'स्वप्नील भाऊराव निवल', 'Khata No.': '580'}: 2024-08-04 04:43:05
+Plot info: {'Survey No.': '132', 'Total Area': '2.3800', 'Pot kharaba': '0.0200', 'Owner Name': 'गोवर्धन लालजी कोकाटे', 'Khata No.': '347'}: 2024-08-04 04:43:06
+Plot info: {'Survey No.': '133', 'Total Area': '1.5700', 'Pot kharaba': '0.0500', 'Owner Name': 'रामधन व्यंकटराव ठाकरे', 'Khata No.': '765'}: 2024-08-04 04:43:08
+Plot info: {'Survey No.': '134', 'Total Area': '1.6800', 'Pot kharaba': '0.0900', 'Owner Name': 'राजेश साहेबराव कोकाटे', 'Khata No.': '61'}: 2024-08-04 04:43:09
+Plot info: {'Survey No.': '135', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'ऋषिकेश गंगाधर कोकाटे, प्रतिभा अरविंद उतखेडे, रविद्र भीमराव कोकाटे, लिलाधर भिमराव कोकाटे, शितल गंगाधर कोकाटे, शुंभागी प्रविणराव मोंढे, सुचित्रा शरद बकाले, सुजाता गंगाधर कोकाटे, सुनिता गंगाधर कोकाटे, स्वाती राहुलराव बोके, गिरीराव भीमराव कोकाटे', 'Khata No.': '28'}: 2024-08-04 04:43:10
+Plot info: {'Survey No.': '136', 'Total Area': '7.7500', 'Pot kharaba': '0.1600', 'Owner Name': 'अजाबराव चंद्रभान डहाके, रामकृष्ण विष्णाजी कोकाटे, लक्ष्मी नारायन संस्था आर्वी तर्फे', 'Khata No.': '175'}: 2024-08-04 04:43:11
+Plot info: {'Survey No.': '137/3', 'Total Area': '0.7800', 'Pot kharaba': '0.0300', 'Owner Name': 'सहदेव तुकाराम सोनोने, नामदेव तुकाराम सोनोने', 'Khata No.': '270'}: 2024-08-04 04:43:13
+Plot info: {'Survey No.': '138', 'Total Area': '1.7600', 'Pot kharaba': '0.0000', 'Owner Name': 'सतीश भुजंग आप्पा गंजीवाले', 'Khata No.': '76'}: 2024-08-04 04:43:14
+Plot info: {'Survey No.': '139', 'Total Area': '1.1500', 'Pot kharaba': '0.0000', 'Owner Name': 'नावेद अंजुम सय्यद अजहर अली (नावेदा अंजुम मोहम्मद अझहर), मोहम्मद शकील अब्दुल हमीद, मोहम्मद खालीद अब्दुल हमीद, मोहम्मद नासिर अब्दुल हमीद, अंजुम आरा शेख बिस्मिल्ला (श्रीमती कहेमशा अंजुम शेख बिस्मिल्लाह)', 'Khata No.': '656'}: 2024-08-04 04:43:16
+Plot info: {'Survey No.': '140', 'Total Area': '2.8300', 'Pot kharaba': '0.0000', 'Owner Name': 'पांडूरंग खुशालराव जामोदे, गजानन देविदास कडू, शिरीष वसंतराव ढवळे', 'Khata No.': '555'}: 2024-08-04 04:43:17
+Plot info: {'Survey No.': '141/4', 'Total Area': '1.5600', 'Pot kharaba': '0.0600', 'Owner Name': 'प्रल्हाद पुंडलिक मेटांगे', 'Khata No.': '310'}: 2024-08-04 04:43:18
+Plot info: {'Survey No.': '142', 'Total Area': '0.7400', 'Pot kharaba': '0.0000', 'Owner Name': 'साहेबराव सुदाम ससाने', 'Khata No.': '510'}: 2024-08-04 04:43:20
+Plot info: {'Survey No.': '143', 'Total Area': '1.4600', 'Pot kharaba': '0.0000', 'Owner Name': 'स्वार्ता श्रीरंग मोहोड', 'Khata No.': '540'}: 2024-08-04 04:43:21
+Plot info: {'Survey No.': '144', 'Total Area': '1.3800', 'Pot kharaba': '0.0000', 'Owner Name': 'रविंद्र खुशाल वरघट', 'Khata No.': '300'}: 2024-08-04 04:43:22
+Plot info: {'Survey No.': '145', 'Total Area': '2.0200', 'Pot kharaba': '0.0000', 'Owner Name': 'मानव सेवा प्रतिष्ठान वाडी नागपूर र.नं. 484/86 तर्फ व्यवस्थापक प्रियांका दिलीप देशमुख', 'Khata No.': '585'}: 2024-08-04 04:43:24
+Plot info: {'Survey No.': '146', 'Total Area': '1.1300', 'Pot kharaba': '0.0000', 'Owner Name': 'राजू रामकृष्ण कोल्हे', 'Khata No.': '740'}: 2024-08-04 04:43:25
+Plot info: {'Survey No.': '147/2', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'रमेश मंगलाजी परतेकी', 'Khata No.': '93'}: 2024-08-04 04:43:26
+Plot info: {'Survey No.': '148', 'Total Area': '1.0100', 'Pot kharaba': '0.0000', 'Owner Name': 'सचिन रामकृष्ण हलमारे', 'Khata No.': '426'}: 2024-08-04 04:43:28
+Plot info: {'Survey No.': '149', 'Total Area': '0.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'कृष्णा वसंतराव पारधी', 'Khata No.': '333'}: 2024-08-04 04:43:29
+Plot info: {'Survey No.': '150/2/ब', 'Total Area': '1.3100', 'Pot kharaba': '0.0200', 'Owner Name': 'रामराव सुर्यभान वानखडे', 'Khata No.': '306'}: 2024-08-04 04:43:30
+Plot info: {'Survey No.': '151', 'Total Area': '1.6800', 'Pot kharaba': '0.0300', 'Owner Name': 'निळकंठ गुलाबराव तायडे', 'Khata No.': '430'}: 2024-08-04 04:43:32
+Plot info: {'Survey No.': '152/2', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'नागोराव भिमराव सोनोने, येणूबाई भिमराव सोनोने', 'Khata No.': '755'}: 2024-08-04 04:43:33
+Plot info: {'Survey No.': '153', 'Total Area': '0.9500', 'Pot kharaba': '0.0000', 'Owner Name': 'पार्वती जयराम देशभ्रतार', 'Khata No.': '776'}: 2024-08-04 04:43:35
+Plot info: {'Survey No.': '154', 'Total Area': '0.2700', 'Pot kharaba': '0.1800', 'Owner Name': 'महाराष्ट्र शासन ग्रामविकास व जलसंधारण विभाग अंतर्गत कार्यकारी अभियंता लघुपाटबंधारे (स्था.स्त.) अमरावती', 'Khata No.': '151'}: 2024-08-04 04:43:36
+Plot info: {'Survey No.': '155', 'Total Area': '1.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'कृष्णराव रमाकांत पितळे, नाझनिन रुस्तम जहागिर, विजय नरसिंगराव देशमुख, सतेजा कृष्णराव पितळे, मोइन शिराजी', 'Khata No.': '68'}: 2024-08-04 04:43:38
+Plot info: {'Survey No.': '156', 'Total Area': '1.4600', 'Pot kharaba': '0.0000', 'Owner Name': 'जोहरा रशीद शाह, नशिबा बी मोहम्मद शाह, मुमताज इक्बाल शाह, रजिया बी शौकत शाह, राजू मोहम्मद शाह, रुबीना पप्पू शाह, शबाना शोयाब अली, शबीर हुसेन शाह, शह्नाज मोहम्मद शाह, शाबीर बशीर शाह, शाहीन शौकत शाह, वलायत बी हुसेन शाह', 'Khata No.': '218694'}: 2024-08-04 04:43:39
+Plot info: {'Survey No.': '157', 'Total Area': '1.5900', 'Pot kharaba': '0.0200', 'Owner Name': 'सुशिला सुभाष मलवार, लखन सुभाष मलवार', 'Khata No.': '659'}: 2024-08-04 04:43:41
+Plot info: {'Survey No.': '158', 'Total Area': '1.3600', 'Pot kharaba': '0.0100', 'Owner Name': 'रामदास महादेवराव ईखार, देविदास महादेवराव ईखार', 'Khata No.': '770'}: 2024-08-04 04:43:42
+Plot info: {'Survey No.': '159', 'Total Area': '0.8300', 'Pot kharaba': '0.0000', 'Owner Name': 'दिनेश नामदेवराव कासार', 'Khata No.': '714'}: 2024-08-04 04:43:44
+Plot info: {'Survey No.': '160', 'Total Area': '1.0100', 'Pot kharaba': '0.0000', 'Owner Name': 'वासुदेव किसनराव मोहतुरे', 'Khata No.': '698'}: 2024-08-04 04:43:45
+Plot info: {'Survey No.': '161', 'Total Area': '4.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रकाश सहदेवराव पंधरे, पद्मा महादेवराव टेकाम, विलास जानराव वरखडे, अजय विजय पंधरे अ.पा.क. आई उषा, शांताबाई जानराव वरखडे, सुचिता विजय पंधरे, सुभाष सहदेवराव पंधरे, केशव जानराव वरखडे, उषा विजय पंधरे, किसना जानराव वरखडे, जया विजय पंधरे, धनराज सहदेवराव पंधरे', 'Khata No.': '489'}: 2024-08-04 04:43:47
+Plot info: {'Survey No.': '162', 'Total Area': '0.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'माधुरी राहुल कडू', 'Khata No.': '741'}: 2024-08-04 04:43:48
+Plot info: {'Survey No.': '163', 'Total Area': '1.7400', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रविण पंजाबराव मोंढे', 'Khata No.': '651'}: 2024-08-04 04:43:50
+Plot info: {'Survey No.': '164', 'Total Area': '1.2000', 'Pot kharaba': '0.0000', 'Owner Name': 'कुसुम रघुनाथ भुयार', 'Khata No.': '493'}: 2024-08-04 04:43:51
+Plot info: {'Survey No.': '165', 'Total Area': '0.5600', 'Pot kharaba': '0.0000', 'Owner Name': 'बबिता सुभाष कोकाटे', 'Khata No.': '181'}: 2024-08-04 04:43:53
+Plot info: {'Survey No.': '166', 'Total Area': '0.8100', 'Pot kharaba': '0.0300', 'Owner Name': 'अमोल राजेंद्र कोकाटे', 'Khata No.': '739'}: 2024-08-04 04:43:55
+Plot info: {'Survey No.': '167', 'Total Area': '2.2100', 'Pot kharaba': '0.0300', 'Owner Name': 'गंगाधर किसन चौधरी', 'Khata No.': '397'}: 2024-08-04 04:43:56
+Plot info: {'Survey No.': '168', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'किसन रामराव धुर्वे', 'Khata No.': '496'}: 2024-08-04 04:43:58
+Plot info: {'Survey No.': '169', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रदीप मनोहरराव विधळे', 'Khata No.': '622'}: 2024-08-04 04:43:59
+Plot info: {'Survey No.': '17', 'Total Area': '0.8300', 'Pot kharaba': '0.0600', 'Owner Name': 'रावसाहेब पंजाबराव राउत', 'Khata No.': '157'}: 2024-08-04 04:44:01
+Plot info: {'Survey No.': '170', 'Total Area': '1.4600', 'Pot kharaba': '0.0000', 'Owner Name': 'नलिनी विनोद कोकाटे, अनिकेत विनोद कोकाटे, कविता विनोद कोकाटे', 'Khata No.': '581'}: 2024-08-04 04:44:02
+Plot info: {'Survey No.': '171', 'Total Area': '1.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'तेजस्विनी प्रदीप कोकाटे, पायल प्रदीप कोकाटे, युतिका प्रदीप कोकाटे', 'Khata No.': '747'}: 2024-08-04 04:44:04
+Plot info: {'Survey No.': '172', 'Total Area': '6.3100', 'Pot kharaba': '0.0000', 'Owner Name': 'मानव सेवा प्रतिष्ठान वाडी नागपूर र.नं. 484/86 तर्फ व्यवस्थापक प्रियांका दिलीप देशमुख', 'Khata No.': '585'}: 2024-08-04 04:44:06
+Plot info: {'Survey No.': '173', 'Total Area': '3.3000', 'Pot kharaba': '0.0200', 'Owner Name': 'कौसल्या विष्णु थोरात, जगदीश विष्णु थोरात, भास्कर विष्णु थोरात, शालीनी गुलाबराव, अशोक विष्णु थोरात', 'Khata No.': '188'}: 2024-08-04 04:44:08
+Plot info: {'Survey No.': '174', 'Total Area': '1.4700', 'Pot kharaba': '0.0000', 'Owner Name': 'सविता रोशन मुंधडा, शीतल अनुराग लढ्ढा', 'Khata No.': '210'}: 2024-08-04 04:44:09
+Plot info: {'Survey No.': '175', 'Total Area': '2.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'सीएमईएस ज्युपीटर प्रा. लि. मुंबई', 'Khata No.': '218706'}: 2024-08-04 04:44:11
+Plot info: {'Survey No.': '176', 'Total Area': '5.1100', 'Pot kharaba': '0.0000', 'Owner Name': 'वल्लभदास ठाकुरदास मारवाडी', 'Khata No.': '178'}: 2024-08-04 04:44:13
+Plot info: {'Survey No.': '177', 'Total Area': '1.4500', 'Pot kharaba': '0.0000', 'Owner Name': 'यादवराव महादेवराव माहुलकर', 'Khata No.': '26'}: 2024-08-04 04:44:14
+Plot info: {'Survey No.': '178', 'Total Area': '1.1500', 'Pot kharaba': '0.0000', 'Owner Name': 'यमुना पुंडलिक माहुलकर, रामदास चंपत शिखरे, नारायण चंपत शिखरे', 'Khata No.': '43'}: 2024-08-04 04:44:16
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:44:37
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 179: 2024-08-04 04:44:37
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:44:59
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 180: 2024-08-04 04:44:59
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:45:20
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 181: 2024-08-04 04:45:21
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:45:42
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 182: 2024-08-04 04:45:42
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:46:04
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 183: 2024-08-04 04:46:04
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:46:25
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 184: 2024-08-04 04:46:25
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:46:46
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 185: 2024-08-04 04:46:46
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:47:08
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 186: 2024-08-04 04:47:08
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:47:29
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 187: 2024-08-04 04:47:29
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:47:51
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 188: 2024-08-04 04:47:51
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:48:12
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 189: 2024-08-04 04:48:12
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:48:34
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 19: 2024-08-04 04:48:34
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:48:55
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 190: 2024-08-04 04:48:55
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:49:17
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 191: 2024-08-04 04:49:17
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:49:38
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 192: 2024-08-04 04:49:38
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:50:00
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 193: 2024-08-04 04:50:00
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:50:21
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 194: 2024-08-04 04:50:21
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:50:43
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 195: 2024-08-04 04:50:43
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:51:04
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 196: 2024-08-04 04:51:04
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:51:26
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 197: 2024-08-04 04:51:26
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:51:47
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 198: 2024-08-04 04:51:47
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:52:09
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 199: 2024-08-04 04:52:09
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:52:30
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 2: 2024-08-04 04:52:30
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:52:52
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 20: 2024-08-04 04:52:52
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:53:14
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 200: 2024-08-04 04:53:14
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:53:36
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 201: 2024-08-04 04:53:36
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:53:57
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 202: 2024-08-04 04:53:57
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:54:19
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 203: 2024-08-04 04:54:19
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:54:41
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 204: 2024-08-04 04:54:41
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:55:03
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 205: 2024-08-04 04:55:03
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:55:25
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 206: 2024-08-04 04:55:25
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:55:46
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 207: 2024-08-04 04:55:46
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:56:08
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 208: 2024-08-04 04:56:08
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:56:30
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 209: 2024-08-04 04:56:30
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:56:51
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 21: 2024-08-04 04:56:51
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:57:13
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 210: 2024-08-04 04:57:13
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:57:35
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 211: 2024-08-04 04:57:35
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:57:56
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 212: 2024-08-04 04:57:56
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:58:18
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 213: 2024-08-04 04:58:18
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:58:39
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 214: 2024-08-04 04:58:39
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:59:01
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 215: 2024-08-04 04:59:01
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:59:22
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 216: 2024-08-04 04:59:22
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 04:59:44
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 217: 2024-08-04 04:59:44
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:00:06
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 218: 2024-08-04 05:00:06
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:00:27
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 219: 2024-08-04 05:00:27
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:00:49
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 22: 2024-08-04 05:00:49
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:01:10
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 221: 2024-08-04 05:01:10
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:01:32
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 222: 2024-08-04 05:01:32
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:01:53
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 223: 2024-08-04 05:01:53
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:02:15
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 224: 2024-08-04 05:02:15
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:02:37
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 225: 2024-08-04 05:02:37
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:02:58
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 226: 2024-08-04 05:02:58
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:03:19
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 227: 2024-08-04 05:03:20
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:03:41
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 228: 2024-08-04 05:03:41
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:04:02
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 229: 2024-08-04 05:04:02
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:04:24
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 23: 2024-08-04 05:04:24
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:04:46
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 230: 2024-08-04 05:04:46
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:05:07
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 231: 2024-08-04 05:05:07
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:05:29
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 232: 2024-08-04 05:05:29
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:05:51
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 233: 2024-08-04 05:05:51
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:06:13
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 234: 2024-08-04 05:06:13
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:06:35
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 235: 2024-08-04 05:06:35
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:06:56
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 236: 2024-08-04 05:06:56
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:07:18
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 237: 2024-08-04 05:07:18
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:07:40
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 238: 2024-08-04 05:07:40
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:08:01
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 239: 2024-08-04 05:08:01
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:08:23
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 24: 2024-08-04 05:08:23
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:08:45
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 240: 2024-08-04 05:08:45
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:09:06
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 241: 2024-08-04 05:09:06
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:09:28
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 242: 2024-08-04 05:09:28
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:09:50
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 243: 2024-08-04 05:09:50
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:10:12
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 244: 2024-08-04 05:10:12
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:10:33
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 245: 2024-08-04 05:10:33
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:10:55
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 246: 2024-08-04 05:10:55
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:11:17
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 247: 2024-08-04 05:11:17
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:11:39
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 248: 2024-08-04 05:11:39
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:12:00
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 249: 2024-08-04 05:12:00
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:12:22
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 25: 2024-08-04 05:12:22
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:12:44
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 250: 2024-08-04 05:12:44
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:13:06
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 251: 2024-08-04 05:13:06
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:13:27
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 252: 2024-08-04 05:13:27
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:13:49
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 253: 2024-08-04 05:13:49
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:14:11
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 254: 2024-08-04 05:14:11
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:14:32
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 255: 2024-08-04 05:14:32
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:14:54
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 256: 2024-08-04 05:14:54
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:15:16
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 257: 2024-08-04 05:15:16
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:15:38
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 258: 2024-08-04 05:15:38
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:15:59
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 259: 2024-08-04 05:15:59
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:16:21
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 26: 2024-08-04 05:16:21
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:16:43
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 260: 2024-08-04 05:16:43
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:17:05
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 261: 2024-08-04 05:17:05
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:17:26
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 263: 2024-08-04 05:17:26
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:17:48
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 264: 2024-08-04 05:17:48
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:18:10
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 265: 2024-08-04 05:18:10
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:18:32
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 267: 2024-08-04 05:18:32
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:18:54
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 268: 2024-08-04 05:18:54
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:19:15
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 269: 2024-08-04 05:19:15
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:19:37
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 27: 2024-08-04 05:19:37
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:19:59
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 270: 2024-08-04 05:19:59
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:20:21
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 271: 2024-08-04 05:20:21
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:20:43
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 272: 2024-08-04 05:20:43
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:21:04
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 273: 2024-08-04 05:21:05
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:21:26
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 274: 2024-08-04 05:21:26
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:21:48
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 275: 2024-08-04 05:21:48
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:22:10
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 276: 2024-08-04 05:22:10
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:22:32
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 277: 2024-08-04 05:22:32
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:22:54
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 278: 2024-08-04 05:22:54
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:23:16
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 28: 2024-08-04 05:23:16
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:23:38
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 280: 2024-08-04 05:23:38
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:23:59
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 281: 2024-08-04 05:23:59
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:24:21
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 282: 2024-08-04 05:24:21
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:24:43
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 283: 2024-08-04 05:24:43
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:25:05
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 284: 2024-08-04 05:25:05
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:25:27
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 285: 2024-08-04 05:25:27
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:25:49
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 287: 2024-08-04 05:25:49
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:26:11
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 288: 2024-08-04 05:26:11
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:26:33
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 289: 2024-08-04 05:26:33
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:26:55
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 29: 2024-08-04 05:26:55
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:27:17
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 291: 2024-08-04 05:27:17
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:27:39
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 292: 2024-08-04 05:27:39
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:28:01
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 293: 2024-08-04 05:28:01
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:28:22
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 294: 2024-08-04 05:28:22
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:28:44
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 295: 2024-08-04 05:28:44
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:29:06
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 296: 2024-08-04 05:29:06
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:29:28
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 297: 2024-08-04 05:29:28
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:29:50
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 298: 2024-08-04 05:29:50
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:30:12
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 299: 2024-08-04 05:30:12
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:30:34
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 3: 2024-08-04 05:30:34
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:30:56
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 30: 2024-08-04 05:30:56
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:31:18
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 31: 2024-08-04 05:31:18
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:31:40
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 32: 2024-08-04 05:31:40
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:32:02
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 33: 2024-08-04 05:32:02
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:32:24
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 34: 2024-08-04 05:32:24
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:32:46
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 35: 2024-08-04 05:32:46
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:33:08
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 36: 2024-08-04 05:33:08
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:33:30
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 37: 2024-08-04 05:33:30
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:33:52
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 38: 2024-08-04 05:33:52
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:34:14
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 39: 2024-08-04 05:34:14
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:34:36
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 4: 2024-08-04 05:34:36
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:34:58
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 40: 2024-08-04 05:34:58
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:35:20
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 41: 2024-08-04 05:35:20
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:35:42
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 42: 2024-08-04 05:35:42
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:36:04
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 43: 2024-08-04 05:36:04
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:36:26
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 44: 2024-08-04 05:36:26
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:36:48
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 45: 2024-08-04 05:36:48
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:37:11
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 46: 2024-08-04 05:37:11
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:37:33
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 47: 2024-08-04 05:37:33
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:37:55
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 48: 2024-08-04 05:37:55
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:38:17
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 49: 2024-08-04 05:38:17
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:38:39
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 5: 2024-08-04 05:38:39
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:39:01
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 50: 2024-08-04 05:39:01
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:39:23
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 51: 2024-08-04 05:39:23
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:39:45
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 52: 2024-08-04 05:39:45
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:40:07
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 53: 2024-08-04 05:40:07
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:40:29
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 54: 2024-08-04 05:40:29
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:40:51
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 55: 2024-08-04 05:40:51
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:41:13
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 56: 2024-08-04 05:41:13
+Timeout waiting for plot info update on attempt 1/1: 2024-08-04 05:41:35
+Timeout waiting for plot info for village '270700090075920000 धानोरा कोकाटे', option: 57: 2024-08-04 05:41:35
+Plot info: {'Survey No.': '57', 'Total Area': '1.3100', 'Pot kharaba': '0.0000', 'Owner Name': 'रमेश केळाजी भोपळे', 'Khata No.': '403'}: 2024-08-04 05:41:44
+Plot info: {'Survey No.': '59', 'Total Area': '1.8200', 'Pot kharaba': '0.1200', 'Owner Name': 'प्रदीप गिरीराव कोकाटे, वर्षा विलासराव तराळे, अविनाश गिरीराव कोकाटे', 'Khata No.': '27'}: 2024-08-04 05:41:48
+Plot info: {'Survey No.': '60', 'Total Area': '1.3800', 'Pot kharaba': '0.0000', 'Owner Name': 'देविदास रामकृष्ण भोपळे', 'Khata No.': '405'}: 2024-08-04 05:41:51
+Plot info: {'Survey No.': '61', 'Total Area': '2.5000', 'Pot kharaba': '0.0600', 'Owner Name': 'जानराव मनीराम बेहरे', 'Khata No.': '122'}: 2024-08-04 05:41:53
+Plot info: {'Survey No.': '62/2', 'Total Area': '2.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'कवतीक चंद्रभान, प्रतिभा दिपक ईखार, मणकर्णा मधुकर संभे, सुधाकर मधुकर संभे', 'Khata No.': '299'}: 2024-08-04 05:41:56
+Plot info: {'Survey No.': '63', 'Total Area': '1.6800', 'Pot kharaba': '0.0300', 'Owner Name': 'संजय मधुकर चामट', 'Khata No.': '511'}: 2024-08-04 05:41:58
+Plot info: {'Survey No.': '64', 'Total Area': '1.3200', 'Pot kharaba': '0.1300', 'Owner Name': 'सुनिल रामदास भाकरे', 'Khata No.': '194'}: 2024-08-04 05:42:01
+Plot info: {'Survey No.': '65', 'Total Area': '1.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'सुभाष रामदास भाकरे', 'Khata No.': '13'}: 2024-08-04 05:42:03
+Plot info: {'Survey No.': '66', 'Total Area': '30.9900', 'Pot kharaba': '0.2600', 'Owner Name': 'सरकार', 'Khata No.': '271'}: 2024-08-04 05:42:07
+Plot info: {'Survey No.': '67', 'Total Area': '2.6600', 'Pot kharaba': '0.0200', 'Owner Name': 'केशवराव गोविंदराव भोपळे', 'Khata No.': '703'}: 2024-08-04 05:42:09
+Plot info: {'Survey No.': '68', 'Total Area': '1.6100', 'Pot kharaba': '0.0100', 'Owner Name': 'दीपक पंजाबराव राउत', 'Khata No.': '64'}: 2024-08-04 05:42:12
+Plot info: {'Survey No.': '69', 'Total Area': '4.5000', 'Pot kharaba': '0.0000', 'Owner Name': 'अजाबराव चंद्रभानजी, कृष्णराव नारायणराव, रामकृष्ण विष्णाजी, श्री. मारोती संस्थान धानोरा कोकाटे तर्फे वहिवाटदार', 'Khata No.': '472'}: 2024-08-04 05:42:15
+Plot info: {'Survey No.': '7', 'Total Area': '0.5400', 'Pot kharaba': '0.0000', 'Owner Name': 'अनुसया ज.वामनराव, गजानन जानराव डहाके, धनराज जानरावजी डहाके, मिनाबाई गंगाराम ठाकरे, राजकन्या श्रीकृष्ण कडु, विजय जानराव डहाके, हरिभाउ जानरावजी डहाके, किसन सिताराम', 'Khata No.': '321'}: 2024-08-04 05:42:18
+Plot info: {'Survey No.': '70', 'Total Area': '3.0700', 'Pot kharaba': '0.0000', 'Owner Name': 'कांता गोविंदराव हाडके, दिलीप भाऊराव निंभोरकर, निलेश रमेश निंभोरकर, प्रफुल्ल रमेश निंभोरकर, मनोहर भाऊराव निंभोरकर, शांता उध्दवराव वेरुळकर, शंकुतला रमेश निंभोरकर, सुधाकर भाऊराव निंभोरकर, मनोहर भाऊराव नींभोरकर', 'Khata No.': '130'}: 2024-08-04 05:42:21
+Plot info: {'Survey No.': '71', 'Total Area': '2.1800', 'Pot kharaba': '0.0000', 'Owner Name': 'किरण पंजाबराव देशमुख, बेबीताई बाबाराव देशमुख, विजय पंजाबराव देशमुख, विमलताई पंजाबराव देशमुख, संजय पंजाबराव देशमुख', 'Khata No.': '92'}: 2024-08-04 05:42:23
+Plot info: {'Survey No.': '72', 'Total Area': '0.9000', 'Pot kharaba': '0.0500', 'Owner Name': 'भीमाबाई सीताराम', 'Khata No.': '525'}: 2024-08-04 05:42:26
+Plot info: {'Survey No.': '73', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'फरजाना बी अब्दुल मुश्ताक', 'Khata No.': '667'}: 2024-08-04 05:42:29
+Plot info: {'Survey No.': '74', 'Total Area': '0.9600', 'Pot kharaba': '0.0000', 'Owner Name': 'मंदाताई विजयराव गावंडे', 'Khata No.': '352'}: 2024-08-04 05:42:31
+Plot info: {'Survey No.': '75', 'Total Area': '1.5200', 'Pot kharaba': '0.0300', 'Owner Name': 'अरुण रंगराव कोंडे', 'Khata No.': '778'}: 2024-08-04 05:42:34
+Plot info: {'Survey No.': '76', 'Total Area': '1.1600', 'Pot kharaba': '0.0800', 'Owner Name': 'मधुकर उत्तमराव वैद्य', 'Khata No.': '269'}: 2024-08-04 05:42:37
+Plot info: {'Survey No.': '77', 'Total Area': '3.7900', 'Pot kharaba': '0.1700', 'Owner Name': 'महानंदा संजयराव रडके, श्रीकृष्ण पंजाबराव वानखडे, सुनंदा विजयराव तायवाडे, नर्मदा पंजाबराव वानखडे', 'Khata No.': '94'}: 2024-08-04 05:42:39
+Plot info: {'Survey No.': '78', 'Total Area': '1.3500', 'Pot kharaba': '0.0000', 'Owner Name': 'नर्मदा ज.पंजाबराव वानखडे, श्रीकृष्ण पंजाबराव वानखडे', 'Khata No.': '252'}: 2024-08-04 05:42:42
+Plot info: {'Survey No.': '8', 'Total Area': '0.2000', 'Pot kharaba': '0.0000', 'Owner Name': 'पंजाबराव तुळशीराम चौधरी, श्रीराम चंपत चौधरी, दिगाबर चंपत चौधरी', 'Khata No.': '96'}: 2024-08-04 05:42:45
+Plot info: {'Survey No.': '80', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'बाबाराव यादवराव वानखडे', 'Khata No.': '533'}: 2024-08-04 05:42:48
+Plot info: {'Survey No.': '81', 'Total Area': '1.1400', 'Pot kharaba': '0.0000', 'Owner Name': 'सिंधु केशव कोकाटे', 'Khata No.': '652'}: 2024-08-04 05:42:50
+Plot info: {'Survey No.': '82', 'Total Area': '0.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रकाश रामाजी वरघट', 'Khata No.': '605'}: 2024-08-04 05:42:53
+Plot info: {'Survey No.': '83', 'Total Area': '1.7800', 'Pot kharaba': '0.0000', 'Owner Name': 'सागर सतीशराव कडू', 'Khata No.': '595'}: 2024-08-04 05:42:55
+Plot info: {'Survey No.': '84', 'Total Area': '1.7300', 'Pot kharaba': '0.0500', 'Owner Name': 'द्वारका बबन कडु', 'Khata No.': '58'}: 2024-08-04 05:42:59
+Plot info: {'Survey No.': '85', 'Total Area': '1.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'चंद्रशेखर बापुराव विधळे', 'Khata No.': '677'}: 2024-08-04 05:43:01
+Plot info: {'Survey No.': '86', 'Total Area': '0.9900', 'Pot kharaba': '0.0000', 'Owner Name': 'जया प्रदिप कोकाटे', 'Khata No.': '746'}: 2024-08-04 05:43:03
+Plot info: {'Survey No.': '87', 'Total Area': '1.0200', 'Pot kharaba': '0.0000', 'Owner Name': 'शीला मधुकर वैद्य', 'Khata No.': '587'}: 2024-08-04 05:43:06
+Plot info: {'Survey No.': '88', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'अर्चना चंद्रशेखर विधळे', 'Khata No.': '709'}: 2024-08-04 05:43:08
+Plot info: {'Survey No.': '89', 'Total Area': '1.4800', 'Pot kharaba': '0.0600', 'Owner Name': 'सहजानंद राजकुमार कोकाटे तर्फे अपाक म्हणुन वडील राजकुमार विनायक कोकाटे', 'Khata No.': '710'}: 2024-08-04 05:43:11
+Plot info: {'Survey No.': '9', 'Total Area': '0.7600', 'Pot kharaba': '0.0400', 'Owner Name': 'धनराज जानराव डहाके, मीनाबाई गंगाधर ठाकरे, राजकन्या श्रीकृष्ण कडू, विजय जानराव डहाके, हरिभाऊ जानराव डहाके, गजानन जानराव डहाके', 'Khata No.': '320'}: 2024-08-04 05:43:14
+Plot info: {'Survey No.': '90', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'मयुर मधुकर वैद्य', 'Khata No.': '590'}: 2024-08-04 05:43:18
+Plot info: {'Survey No.': '91', 'Total Area': '2.6700', 'Pot kharaba': '0.0400', 'Owner Name': 'अन्नपुर्णा दामोदर, त्र्यंबकराव दामोदर, मधुकर दौलतराव कोकाटे, श्रीधर दामोदर, महादेव तुकाराम कोकाटे', 'Khata No.': '132'}: 2024-08-04 05:43:21
+Plot info: {'Survey No.': '92', 'Total Area': '1.9800', 'Pot kharaba': '0.0000', 'Owner Name': 'जनार्दन महादेव कोकाटे, बापुराव महादेव कोकाटे, बाळु महादेव कोकाटे, मधुकर दौलत कोकाटे, रेखा नरेंद्र पांडे, कमलाबाई महादेव कोकाटे', 'Khata No.': '131'}: 2024-08-04 05:43:24
+Plot info: {'Survey No.': '93', 'Total Area': '2.0100', 'Pot kharaba': '0.0400', 'Owner Name': 'रामदास बापुराव डहाने, हनवंत सीताराम, वामन बापुराव डहाने', 'Khata No.': '183'}: 2024-08-04 05:43:27
+Plot info: {'Survey No.': '94', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'शरद रामाजी वरघट', 'Khata No.': '350'}: 2024-08-04 05:43:30
+Plot info: {'Survey No.': '95', 'Total Area': '1.4600', 'Pot kharaba': '0.0000', 'Owner Name': 'अनुसया नथ्थुजी गेडाम, अंबादास यशवंत पंधरे, इंदिरा शामराव पंधरे, जानराव यशवंत पंधरे, नितीन शामराव पंधरे, महादेव यशवंत पंधरे, शितल शामराव पंधरे, सचिन शामराव पंधरे, सहादेव यशवंत पंधरे, जनाबाई यशवंत पंधरे', 'Khata No.': '148'}: 2024-08-04 05:43:33
+Plot info: {'Survey No.': '96/2', 'Total Area': '2.7300', 'Pot kharaba': '0.2700', 'Owner Name': 'डिलेश्\u200dवरी वसंत निमजे', 'Khata No.': '232'}: 2024-08-04 05:43:36
+Plot info: {'Survey No.': '97', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'गौतम नामदेव वरघट, जयकुमार नामदेव वरघट, राजकुमार नामदेव वरघट', 'Khata No.': '609'}: 2024-08-04 05:43:39
+Plot info: {'Survey No.': '99/2', 'Total Area': '1.4600', 'Pot kharaba': '0.1100', 'Owner Name': 'वसंत हरीभाऊ अंबोरे', 'Khata No.': '775'}: 2024-08-04 05:43:42
+Village '270700090075920000 धानोरा कोकाटे' processed: 2024-08-04 05:43:42
+Time taken for village '270700090075920000 धानोरा कोकाटे': 1:01:29.098781: 2024-08-04 05:43:42
+Script completed for village '270700090075920000 धानोरा कोकाटे': 2024-08-04 05:43:44

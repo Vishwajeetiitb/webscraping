@@ -1,0 +1,54 @@
+Opened the webpage: 2024-08-05 00:08:34
+Page loaded: 2024-08-05 00:08:34
+District folder '07 अमरावती' created or already exists: 2024-08-05 00:08:40
+Taluka folder '08 तिवसा' created or already exists: 2024-08-05 00:08:41
+Plot info: {'Survey No.': '1', 'Total Area': '0.0000', 'Pot kharaba': '1.6200', 'Owner Name': 'सरकार', 'Khata No.': '20'}: 2024-08-05 00:08:48
+Plot info: {'Survey No.': '10', 'Total Area': '1.1500', 'Pot kharaba': '0.0600', 'Owner Name': 'संजय उत्तम रिठे', 'Khata No.': '225'}: 2024-08-05 00:08:49
+Plot info: {'Survey No.': '11/2', 'Total Area': '0.0000', 'Pot kharaba': '0.0300', 'Owner Name': 'कालवा (सरकार)', 'Khata No.': '211'}: 2024-08-05 00:09:04
+Plot info: {'Survey No.': '12/2', 'Total Area': '1.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'सुबाबाई बंसिलाल भुतडा, रमेशचंद्र बंसिलाल भुतडा', 'Khata No.': '33'}: 2024-08-05 00:09:20
+Plot info: {'Survey No.': '13/3', 'Total Area': '0.0000', 'Pot kharaba': '0.2000', 'Owner Name': 'कालवा (सरकार)', 'Khata No.': '211'}: 2024-08-05 00:09:41
+Plot info: {'Survey No.': '14', 'Total Area': '8.9000', 'Pot kharaba': '0.0000', 'Owner Name': 'सरकार , सि क्लास फॉरेस्ट', 'Khata No.': '78'}: 2024-08-05 00:10:03
+Plot info: {'Survey No.': '15', 'Total Area': '9.2200', 'Pot kharaba': '0.0000', 'Owner Name': 'सरकार , सि क्लास फॉरेस्ट', 'Khata No.': '78'}: 2024-08-05 00:10:30
+Plot info: {'Survey No.': '16', 'Total Area': '4.5300', 'Pot kharaba': '0.0000', 'Owner Name': 'सरकार , सि क्लास फॉरेस्ट', 'Khata No.': '78'}: 2024-08-05 00:10:58
+Plot info: {'Survey No.': '17/2', 'Total Area': '1.4500', 'Pot kharaba': '0.0000', 'Owner Name': 'सुनिता राजेंद्रकुमार पनपालिया', 'Khata No.': '238'}: 2024-08-05 00:11:31
+Plot info: {'Survey No.': '18/2', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'पुजा प्रदिप कळस्\u200dकर, विशाल प्रदिप कळस्\u200dकर, निकीता प्रदिप कळस्\u200dकर, लता प्रदिप कळस्\u200dकर', 'Khata No.': '84'}: 2024-08-05 00:12:05
+Plot info: {'Survey No.': '19/2', 'Total Area': '0.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'दादाराव दत्तराव रिठे', 'Khata No.': '179'}: 2024-08-05 00:12:43
+Plot info: {'Survey No.': '2/2', 'Total Area': '1.1900', 'Pot kharaba': '0.2200', 'Owner Name': 'सुरज शंकर राऊत, अवधुत महादेवराव राऊत, पार्वती महादेवराव राऊत, किसन महादेवराव राऊत, कौसल्या अशोक नेवारे, कमलाबाई शंकर राऊत, मारोती महादेवराव राऊत, सचिन शंकर राऊत', 'Khata No.': '41'}: 2024-08-05 00:13:22
+Plot info: {'Survey No.': '20/1/ब', 'Total Area': '1.0100', 'Pot kharaba': '0.0000', 'Owner Name': 'सुधाकर दत्तराव रिठे', 'Khata No.': '188'}: 2024-08-05 00:13:25
+Plot info: {'Survey No.': '21', 'Total Area': '8.3700', 'Pot kharaba': '0.0000', 'Owner Name': 'सरकार , सि क्लास फॉरेस्ट', 'Khata No.': '78'}: 2024-08-05 00:14:07
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 00:14:45
+Timeout waiting for plot info for village '270700080075970000 कोळवन[उजाड]', option: 213: 2024-08-05 00:14:45
+Plot info: {'Survey No.': '22', 'Total Area': '9.4900', 'Pot kharaba': '0.0000', 'Owner Name': 'सरकार , सि क्लास फॉरेस्ट', 'Khata No.': '78'}: 2024-08-05 00:15:11
+Plot info: {'Survey No.': '23', 'Total Area': '8.7000', 'Pot kharaba': '0.0000', 'Owner Name': 'सरकार , सि क्लास फॉरेस्ट', 'Khata No.': '78'}: 2024-08-05 00:15:51
+Plot info: {'Survey No.': '24/2', 'Total Area': '0.0000', 'Pot kharaba': '1.5800', 'Owner Name': 'कालवा (सरकार)', 'Khata No.': '211'}: 2024-08-05 00:16:38
+Plot info: {'Survey No.': '25/3', 'Total Area': '1.0900', 'Pot kharaba': '0.0000', 'Owner Name': 'रमेश भाउराव खटाळे, दिनेश भाउराव खटाळे', 'Khata No.': '212'}: 2024-08-05 00:17:33
+Plot info: {'Survey No.': '26', 'Total Area': '7.0400', 'Pot kharaba': '0.0000', 'Owner Name': 'सरकार , सि क्लास फॉरेस्ट', 'Khata No.': '78'}: 2024-08-05 00:18:22
+Plot info: {'Survey No.': '27/3/अ', 'Total Area': '1.9500', 'Pot kharaba': '0.0000', 'Owner Name': 'कलावंताबाई कृष्णराव बांबल', 'Khata No.': '178'}: 2024-08-05 00:19:17
+Plot info: {'Survey No.': '28/29', 'Total Area': '35.3200', 'Pot kharaba': '0.0000', 'Owner Name': 'सरकार , सि क्लास फॉरेस्ट', 'Khata No.': '78'}: 2024-08-05 00:20:15
+Plot info: {'Survey No.': '3', 'Total Area': '6.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'सरकार', 'Khata No.': '20'}: 2024-08-05 00:22:22
+Plot info: {'Survey No.': '30', 'Total Area': '9.4900', 'Pot kharaba': '0.0000', 'Owner Name': 'सरकार , सि क्लास फॉरेस्ट', 'Khata No.': '78'}: 2024-08-05 00:22:28
+Plot info: {'Survey No.': '31/2', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'सुशील रामदास भोंडे', 'Khata No.': '231'}: 2024-08-05 00:22:46
+Plot info: {'Survey No.': '32/33', 'Total Area': '14.9800', 'Pot kharaba': '0.0000', 'Owner Name': 'सरकार , सि क्लास फॉरेस्ट', 'Khata No.': '78'}: 2024-08-05 00:22:53
+Plot info: {'Survey No.': '34/2', 'Total Area': '1.2300', 'Pot kharaba': '0.0000', 'Owner Name': 'रविंद्र नामदेवराव कांदे', 'Khata No.': '193'}: 2024-08-05 00:23:05
+Plot info: {'Survey No.': '35/2/ब', 'Total Area': '0.5300', 'Pot kharaba': '0.0000', 'Owner Name': 'राजेंद्र दलपत बायस्कर, रंजना राजेंद्र बायस्कर', 'Khata No.': '219'}: 2024-08-05 00:23:11
+Plot info: {'Survey No.': '36/5', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'सरस्वती महादेवराव मते, रोशनी उमेश मते, वनिता विनोद चारमोडे, सविता महादेवराव मते, सोनाली उमेश मते', 'Khata No.': '97'}: 2024-08-05 00:23:18
+Plot info: {'Survey No.': '37/38', 'Total Area': '22.4000', 'Pot kharaba': '0.0000', 'Owner Name': 'सरकार एफ क्लास फॉरेस्ट', 'Khata No.': '77'}: 2024-08-05 00:23:24
+Plot info: {'Survey No.': '39/40/41', 'Total Area': '30.4000', 'Pot kharaba': '0.0000', 'Owner Name': 'सरकार एफ क्लास फॉरेस्ट', 'Khata No.': '77'}: 2024-08-05 00:23:36
+Plot info: {'Survey No.': '4/2', 'Total Area': '0.3300', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रभाकर तुळशिराम लुटे, नारायन तुळशिराम लुटे', 'Khata No.': '42'}: 2024-08-05 00:23:42
+Plot info: {'Survey No.': '42/43/44', 'Total Area': '32.3700', 'Pot kharaba': '0.0000', 'Owner Name': 'सरकार एफ क्लास फॉरेस्ट', 'Khata No.': '77'}: 2024-08-05 00:23:58
+Plot info: {'Survey No.': '45', 'Total Area': '9.3800', 'Pot kharaba': '0.0000', 'Owner Name': 'सरकार एफ क्लास फॉरेस्ट', 'Khata No.': '77'}: 2024-08-05 00:24:14
+Plot info: {'Survey No.': '46/4', 'Total Area': '1.0900', 'Pot kharaba': '0.0000', 'Owner Name': 'स्वप्नील रमेशराव कडू', 'Khata No.': '165'}: 2024-08-05 00:24:21
+Plot info: {'Survey No.': '47/3', 'Total Area': '0.8000', 'Pot kharaba': '0.0000', 'Owner Name': 'तुलसीदास देवसीभाई पटेल', 'Khata No.': '144'}: 2024-08-05 00:24:29
+Plot info: {'Survey No.': '48/2', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'वेदांत संजयराव जोल्हे', 'Khata No.': '242'}: 2024-08-05 00:24:37
+Plot info: {'Survey No.': '49/50', 'Total Area': '16.9200', 'Pot kharaba': '0.0000', 'Owner Name': 'सरकार , सि क्लास फॉरेस्ट', 'Khata No.': '78'}: 2024-08-05 00:24:44
+Plot info: {'Survey No.': '5/3', 'Total Area': '1.5000', 'Pot kharaba': '0.0700', 'Owner Name': 'नितीन दयारामजी राउत', 'Khata No.': '115'}: 2024-08-05 00:24:51
+Plot info: {'Survey No.': '51', 'Total Area': '12.9300', 'Pot kharaba': '0.0000', 'Owner Name': 'सरकार , सि क्लास फॉरेस्ट', 'Khata No.': '78'}: 2024-08-05 00:25:05
+Plot info: {'Survey No.': '52/2', 'Total Area': '1.0100', 'Pot kharaba': '0.0000', 'Owner Name': 'नंदा किसनराव धुर्वे', 'Khata No.': '220'}: 2024-08-05 00:25:12
+Plot info: {'Survey No.': '53', 'Total Area': '2.6000', 'Pot kharaba': '0.0000', 'Owner Name': 'तुकाराम विठोबा मराठी', 'Khata No.': '18'}: 2024-08-05 00:25:19
+Plot info: {'Survey No.': '54', 'Total Area': '0.0000', 'Pot kharaba': '0.4700', 'Owner Name': 'एफ क्लास सरकार', 'Khata No.': '146'}: 2024-08-05 00:25:26
+Plot info: {'Survey No.': '6/2', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'संध्या ज्ञानेश्वर इंगोले', 'Khata No.': '237'}: 2024-08-05 00:26:10
+Plot info: {'Survey No.': '7/2', 'Total Area': '0.0000', 'Pot kharaba': '1.5900', 'Owner Name': 'कालवा (सरकार)', 'Khata No.': '211'}: 2024-08-05 00:27:22
+Plot info: {'Survey No.': '8/2', 'Total Area': '0.8300', 'Pot kharaba': '0.0000', 'Owner Name': 'सुनंदा वैकुंठराव वनवे', 'Khata No.': '149'}: 2024-08-05 00:28:45
+Plot info: {'Survey No.': '9/3', 'Total Area': '2.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'सुभाष भाऊराव तवर', 'Khata No.': '51'}: 2024-08-05 00:30:14
+Error encountered: Invalid character [ found in sheet title: 2024-08-05 00:31:48
+Script completed for village '270700080075970000 कोळवन[उजाड]': 2024-08-05 00:31:52

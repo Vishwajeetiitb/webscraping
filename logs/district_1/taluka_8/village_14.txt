@@ -1,0 +1,71 @@
+Opened the webpage: 2024-08-05 04:17:02
+Page loaded: 2024-08-05 04:17:02
+District folder '07 अमरावती' created or already exists: 2024-08-05 04:17:10
+Taluka folder '14 धामणगाव' created or already exists: 2024-08-05 04:17:12
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 04:17:39
+Timeout waiting for plot info for village '270700140083350000 काशीखेड', option: 1: 2024-08-05 04:17:39
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 04:18:01
+Timeout waiting for plot info for village '270700140083350000 काशीखेड', option: 10: 2024-08-05 04:18:01
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 04:18:22
+Timeout waiting for plot info for village '270700140083350000 काशीखेड', option: 11: 2024-08-05 04:18:23
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 04:18:44
+Timeout waiting for plot info for village '270700140083350000 काशीखेड', option: 12: 2024-08-05 04:18:44
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 04:19:06
+Timeout waiting for plot info for village '270700140083350000 काशीखेड', option: 13: 2024-08-05 04:19:07
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 04:19:28
+Timeout waiting for plot info for village '270700140083350000 काशीखेड', option: 14: 2024-08-05 04:19:29
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 04:19:50
+Timeout waiting for plot info for village '270700140083350000 काशीखेड', option: 15: 2024-08-05 04:19:50
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 04:20:11
+Timeout waiting for plot info for village '270700140083350000 काशीखेड', option: 16: 2024-08-05 04:20:12
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 04:20:33
+Timeout waiting for plot info for village '270700140083350000 काशीखेड', option: 17: 2024-08-05 04:20:34
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 04:20:55
+Timeout waiting for plot info for village '270700140083350000 काशीखेड', option: 18: 2024-08-05 04:20:56
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 04:21:17
+Timeout waiting for plot info for village '270700140083350000 काशीखेड', option: 19: 2024-08-05 04:21:18
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 04:21:39
+Timeout waiting for plot info for village '270700140083350000 काशीखेड', option: 2: 2024-08-05 04:21:40
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 04:22:01
+Timeout waiting for plot info for village '270700140083350000 काशीखेड', option: 20: 2024-08-05 04:22:02
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 04:22:24
+Timeout waiting for plot info for village '270700140083350000 काशीखेड', option: 21: 2024-08-05 04:22:24
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 04:22:46
+Timeout waiting for plot info for village '270700140083350000 काशीखेड', option: 22: 2024-08-05 04:22:46
+Plot info: {'Survey No.': '20', 'Total Area': '0.0000', 'Pot kharaba': '0.1900', 'Owner Name': 'का.अ. उर्ध्व वर्धा कालवे विभाग क्र.१ अमरावती', 'Khata No.': '838'}: 2024-08-05 04:23:04
+Plot info: {'Survey No.': '24/2', 'Total Area': '1.9200', 'Pot kharaba': '0.0000', 'Owner Name': 'वेनुबाई कृष्णराव बोंदरे', 'Khata No.': '857'}: 2024-08-05 04:23:07
+Plot info: {'Survey No.': '25', 'Total Area': '1.5000', 'Pot kharaba': '0.0000', 'Owner Name': 'पुष्पाबाई सुधाकर सहारे', 'Khata No.': '700'}: 2024-08-05 04:23:09
+Plot info: {'Survey No.': '26', 'Total Area': '0.0000', 'Pot kharaba': '0.3100', 'Owner Name': 'का.अ. उर्ध्व वर्धा कालवे विभाग क्र.१ अमरावती', 'Khata No.': '838'}: 2024-08-05 04:23:11
+Plot info: {'Survey No.': '27', 'Total Area': '0.0000', 'Pot kharaba': '0.3900', 'Owner Name': 'का.अ. उर्ध्व वर्धा कालवे विभाग क्र.१ अमरावती', 'Khata No.': '838'}: 2024-08-05 04:23:13
+Plot info: {'Survey No.': '28', 'Total Area': '0.0000', 'Pot kharaba': '0.5100', 'Owner Name': 'का.अ. उर्ध्व वर्धा कालवे विभाग क्र.१ अमरावती', 'Khata No.': '838'}: 2024-08-05 04:23:15
+Plot info: {'Survey No.': '29', 'Total Area': '1.9200', 'Pot kharaba': '0.0000', 'Owner Name': 'भाऊराव बापुना अदमाने', 'Khata No.': '73'}: 2024-08-05 04:23:17
+Plot info: {'Survey No.': '3', 'Total Area': '1.1000', 'Pot kharaba': '0.0000', 'Owner Name': 'जयंत प्रभाकरराव देशमुख', 'Khata No.': '664'}: 2024-08-05 04:23:20
+Plot info: {'Survey No.': '30', 'Total Area': '1.9200', 'Pot kharaba': '0.0000', 'Owner Name': 'नंदु पांडुरंग आदमाने', 'Khata No.': '666'}: 2024-08-05 04:23:22
+Plot info: {'Survey No.': '31', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'मिना मनोहरराव लाकडे, मालता संजयराव कैकाडे', 'Khata No.': '823'}: 2024-08-05 04:23:24
+Plot info: {'Survey No.': '32', 'Total Area': '1.0600', 'Pot kharaba': '0.0000', 'Owner Name': 'रमेश हरीभाऊ अदमाने', 'Khata No.': '27'}: 2024-08-05 04:23:26
+Plot info: {'Survey No.': '33', 'Total Area': '1.0700', 'Pot kharaba': '0.0000', 'Owner Name': 'रमेश हरीभाऊ अदमाने', 'Khata No.': '27'}: 2024-08-05 04:23:28
+Plot info: {'Survey No.': '34', 'Total Area': '0.9000', 'Pot kharaba': '0.0000', 'Owner Name': 'केवल अरुणराव तराळे', 'Khata No.': '860'}: 2024-08-05 04:23:30
+Plot info: {'Survey No.': '35', 'Total Area': '1.6300', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक महादेवराव रंगारी, इंद्रकला भिमरावजी उके, जनार्दन महादेवराव रंगारी, शशिकला कृष्णराव तिरपुडे, चंद्रकला बंडूजी सोमकुवर', 'Khata No.': '118'}: 2024-08-05 04:23:32
+Plot info: {'Survey No.': '36', 'Total Area': '2.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'गजानन लक्ष्मण तराळे', 'Khata No.': '183'}: 2024-08-05 04:23:34
+Plot info: {'Survey No.': '37/2', 'Total Area': '1.2600', 'Pot kharaba': '0.0000', 'Owner Name': 'दिनेश शालिकराम तिवाडे', 'Khata No.': '138'}: 2024-08-05 04:23:37
+Plot info: {'Survey No.': '38/3', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'हरीष सुरजमल अग्रवाल', 'Khata No.': '248'}: 2024-08-05 04:23:39
+Plot info: {'Survey No.': '39/3', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'सुरेश चंद्रप्रकाश गुप्\u200dता', 'Khata No.': '255'}: 2024-08-05 04:23:42
+Plot info: {'Survey No.': '4', 'Total Area': '3.7200', 'Pot kharaba': '0.0000', 'Owner Name': 'अशिता जयन्त देशमुख', 'Khata No.': '773'}: 2024-08-05 04:23:44
+Plot info: {'Survey No.': '40', 'Total Area': '0.8300', 'Pot kharaba': '0.0000', 'Owner Name': 'उमा किसनराव निकुरे', 'Khata No.': '859'}: 2024-08-05 04:23:47
+Plot info: {'Survey No.': '41', 'Total Area': '2.2400', 'Pot kharaba': '0.0000', 'Owner Name': 'कौसल्या रामचंद्र देव्हारे', 'Khata No.': '24'}: 2024-08-05 04:23:49
+Plot info: {'Survey No.': '42', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'अजय एकनाथ साखरे', 'Khata No.': '708'}: 2024-08-05 04:23:52
+Plot info: {'Survey No.': '43', 'Total Area': '1.3200', 'Pot kharaba': '0.0000', 'Owner Name': 'श्रीमती पुष्पा एकनाथ साखरे, प्रशांत एकनाथ साखरे', 'Khata No.': '629'}: 2024-08-05 04:23:55
+Plot info: {'Survey No.': '44', 'Total Area': '0.0000', 'Pot kharaba': '0.7800', 'Owner Name': 'का.अ. उर्ध्व वर्धा कालवे विभाग क्र.१ अमरावती', 'Khata No.': '838'}: 2024-08-05 04:23:58
+Plot info: {'Survey No.': '45', 'Total Area': '2.0200', 'Pot kharaba': '0.0000', 'Owner Name': 'सुनिल पुंडलिक गावंडे, अनिल पुंडलिक गावंडे', 'Khata No.': '62'}: 2024-08-05 04:24:00
+Plot info: {'Survey No.': '46/3', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'शुभांगी आशिष बंड', 'Khata No.': '739'}: 2024-08-05 04:24:03
+Plot info: {'Survey No.': '47', 'Total Area': '2.0600', 'Pot kharaba': '0.0000', 'Owner Name': 'अ.चेतन गजानन कावळे, अ.पा.क.आई ज्योती गजानन कावळे, ज्योती गजानन कावळे, अ.तुळशीदास गजानन कावळे', 'Khata No.': '631'}: 2024-08-05 04:24:06
+Plot info: {'Survey No.': '48', 'Total Area': '1.5200', 'Pot kharaba': '0.0000', 'Owner Name': 'दिपक बळीराम हाडके', 'Khata No.': '256'}: 2024-08-05 04:24:09
+Plot info: {'Survey No.': '49', 'Total Area': '2.2600', 'Pot kharaba': '0.0000', 'Owner Name': 'संजय बापुराव कावळे', 'Khata No.': '200'}: 2024-08-05 04:24:12
+Plot info: {'Survey No.': '5', 'Total Area': '1.4300', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक नारायण अठोर, लुकमन नारायण अठोर, सौ. सुनीता दिवाकर तायडे', 'Khata No.': '309'}: 2024-08-05 04:24:16
+Plot info: {'Survey No.': '6', 'Total Area': '1.6600', 'Pot kharaba': '0.0000', 'Owner Name': 'सदाशिव दिनाजी निहटे', 'Khata No.': '732'}: 2024-08-05 04:24:19
+Plot info: {'Survey No.': '7', 'Total Area': '0.0000', 'Pot kharaba': '0.9200', 'Owner Name': 'का.अ. उर्ध्व वर्धा कालवे विभाग क्र.१ अमरावती', 'Khata No.': '838'}: 2024-08-05 04:24:22
+Plot info: {'Survey No.': '8', 'Total Area': '0.0000', 'Pot kharaba': '1.2100', 'Owner Name': 'सरकार', 'Khata No.': '153'}: 2024-08-05 04:24:25
+Plot info: {'Survey No.': '9', 'Total Area': '0.0000', 'Pot kharaba': '0.3900', 'Owner Name': 'का.अ. उर्ध्व वर्धा कालवे विभाग क्र.१ अमरावती', 'Khata No.': '838'}: 2024-08-05 04:24:28
+Village '270700140083350000 काशीखेड' processed: 2024-08-05 04:24:28
+Time taken for village '270700140083350000 काशीखेड': 0:07:31.085791: 2024-08-05 04:24:28
+Script completed for village '270700140083350000 काशीखेड': 2024-08-05 04:24:32

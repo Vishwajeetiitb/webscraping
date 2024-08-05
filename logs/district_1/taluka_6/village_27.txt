@@ -1,0 +1,22 @@
+Opened the webpage: 2024-08-05 00:32:06
+Page loaded: 2024-08-05 00:32:06
+District folder '07 अमरावती' created or already exists: 2024-08-05 00:32:14
+Taluka folder '08 तिवसा' created or already exists: 2024-08-05 00:32:16
+Plot info: {'Survey No.': '1/2', 'Total Area': '1.8600', 'Pot kharaba': '0.0000', 'Owner Name': 'अब्\u200dदुल रउफ शे आमद', 'Khata No.': '18'}: 2024-08-05 00:32:22
+Plot info: {'Survey No.': '10/4', 'Total Area': '1.0200', 'Pot kharaba': '0.0300', 'Owner Name': 'राजेंद्र पंडीतराव खंडारे', 'Khata No.': '91'}: 2024-08-05 00:32:23
+Plot info: {'Survey No.': '11/3', 'Total Area': '0.5600', 'Pot kharaba': '0.0000', 'Owner Name': 'चाँद सुलताना सै. नासीर मुसलमान', 'Khata No.': '8'}: 2024-08-05 00:32:24
+Plot info: {'Survey No.': '12/3', 'Total Area': '0.5000', 'Pot kharaba': '0.0000', 'Owner Name': 'नारायण तुकाराम शिंपी', 'Khata No.': '13'}: 2024-08-05 00:32:25
+Plot info: {'Survey No.': '13', 'Total Area': '1.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रशांत श्रीरामजी घोंगडे', 'Khata No.': '83'}: 2024-08-05 00:32:26
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 00:32:47
+Plot info: {'Survey No.': '14/4', 'Total Area': '0.1100', 'Pot kharaba': '0.0000', 'Owner Name': 'सै.अकबरअली सै.बशीर, सै.अफसरअली सै.बशीर, सै.कैसरअली सै.बशीर', 'Khata No.': '59'}: 2024-08-05 00:32:47
+Plot info: {'Survey No.': '2/2', 'Total Area': '1.5600', 'Pot kharaba': '0.3600', 'Owner Name': 'सैय्यद खुंदमीर सैय्यद फहीम अहेमद', 'Khata No.': '97'}: 2024-08-05 00:32:48
+Plot info: {'Survey No.': '3/2', 'Total Area': '2.9900', 'Pot kharaba': '0.0000', 'Owner Name': 'मो जाकीर अब्दुल रौफ', 'Khata No.': '55'}: 2024-08-05 00:32:50
+Plot info: {'Survey No.': '4/3', 'Total Area': '0.6000', 'Pot kharaba': '0.0000', 'Owner Name': 'अब्दुल रशीद अब्दुल करीम .', 'Khata No.': '92'}: 2024-08-05 00:32:51
+Plot info: {'Survey No.': '5/7', 'Total Area': '1.4200', 'Pot kharaba': '0.0000', 'Owner Name': 'सुभाष बकारामजी टिगणे', 'Khata No.': '19'}: 2024-08-05 00:32:52
+Plot info: {'Survey No.': '6/2', 'Total Area': '1.3200', 'Pot kharaba': '0.0000', 'Owner Name': 'सय्यद आशीक सय्यद हिदायत, सै. बशीर सै. लतीफ', 'Khata No.': '33'}: 2024-08-05 00:32:54
+Plot info: {'Survey No.': '7/2', 'Total Area': '1.0100', 'Pot kharaba': '0.0000', 'Owner Name': 'दिनेश रामदास शिष्टे', 'Khata No.': '90'}: 2024-08-05 00:32:55
+Plot info: {'Survey No.': '8/3', 'Total Area': '1.0100', 'Pot kharaba': '0.0000', 'Owner Name': 'अफसर बानो जाफर मिया, आफ्रीन अंजुम सय्यद इरफान, गुलनाज बानो जाफर मिया अ.पा.क.आई अफसर बानो जाफर मिया, फरजीन बानो सैय्यद फय्यान, सैय्यद फाजील मिया सैय्यद जफर मिया अ.पा.क.आई अफसर बानो जाफर मिया, वहाबमियॉ महमुदमियॉ, अनम अंजुम जाफर मिया अ.पा.क.आई अफसर बानो जाफर मिया', 'Khata No.': '57'}: 2024-08-05 00:32:56
+Plot info: {'Survey No.': '9/4', 'Total Area': '1.8000', 'Pot kharaba': '0.0200', 'Owner Name': 'अविनाश विजय दिवे', 'Khata No.': '93'}: 2024-08-05 00:32:59
+Village '270700080075920000 जगदीशपुर' processed: 2024-08-05 00:32:59
+Time taken for village '270700080075920000 जगदीशपुर': 0:00:57.810908: 2024-08-05 00:32:59
+Script completed for village '270700080075920000 जगदीशपुर': 2024-08-05 00:33:04

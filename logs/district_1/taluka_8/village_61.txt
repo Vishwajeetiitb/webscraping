@@ -1,0 +1,29 @@
+Opened the webpage: 2024-08-05 06:04:42
+Page loaded: 2024-08-05 06:04:42
+District folder '07 अमरावती' created or already exists: 2024-08-05 06:04:50
+Taluka folder '14 धामणगाव' created or already exists: 2024-08-05 06:04:51
+Plot info: {'Survey No.': '1', 'Total Area': '2.1400', 'Pot kharaba': '0.0000', 'Owner Name': 'पद्माकर वसंत भिरंगी, प्रविण वसंत भिरंगी, जयश्री जयवंत जोशी, विश्वेश सुभाष सरपटवार, विनोद वसंतराव भिरंगी, रेखा प्रमोद भाके', 'Khata No.': '133'}: 2024-08-05 06:04:59
+Plot info: {'Survey No.': '10/3', 'Total Area': '2.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रभाकर भदाजी काळे', 'Khata No.': '74'}: 2024-08-05 06:05:00
+Plot info: {'Survey No.': '11', 'Total Area': '0.4900', 'Pot kharaba': '0.1200', 'Owner Name': 'अविनाश कृष्णराव कुत्तरमारे', 'Khata No.': '114'}: 2024-08-05 06:05:01
+Plot info: {'Survey No.': '12', 'Total Area': '1.0100', 'Pot kharaba': '0.0000', 'Owner Name': 'सुधाकर वासुदेव गायकवाड', 'Khata No.': '122'}: 2024-08-05 06:05:02
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 06:05:23
+Plot info: {'Survey No.': '13/2', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'निर्मला अशोकराव चुटे', 'Khata No.': '65'}: 2024-08-05 06:05:23
+Plot info: {'Survey No.': '14', 'Total Area': '1.4600', 'Pot kharaba': '0.0000', 'Owner Name': 'संजय मनोहर हिमाने', 'Khata No.': '44'}: 2024-08-05 06:05:25
+Plot info: {'Survey No.': '15', 'Total Area': '1.2500', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक विष्णु चुटे', 'Khata No.': '31'}: 2024-08-05 06:05:26
+Plot info: {'Survey No.': '16', 'Total Area': '0.7800', 'Pot kharaba': '0.0000', 'Owner Name': 'मोहम्मद इर्शाद मोहम्मद वारीस, शफीकाबानो मोहम्मद वारीस', 'Khata No.': '90'}: 2024-08-05 06:05:27
+Plot info: {'Survey No.': '17', 'Total Area': '2.5300', 'Pot kharaba': '0.0000', 'Owner Name': 'मनोहर गोपाळ हिमाने, विश्वनाथ गोपाळ हिमाने', 'Khata No.': '52'}: 2024-08-05 06:05:28
+Plot info: {'Survey No.': '2', 'Total Area': '1.8700', 'Pot kharaba': '0.1000', 'Owner Name': 'प्रभाकर केशवराव भिरंगी', 'Khata No.': '127'}: 2024-08-05 06:05:30
+Plot info: {'Survey No.': '3', 'Total Area': '1.3300', 'Pot kharaba': '0.1000', 'Owner Name': 'नरेंद्र गंगाधर दिक्षीत, कृष्णराव गंगाधर दिक्षीत', 'Khata No.': '6'}: 2024-08-05 06:05:31
+Plot info: {'Survey No.': '4', 'Total Area': '2.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'दिलीप भिमराव गोलाईत, प्रदीप भिमराव गोलाईत, प्रुफुल भिमराव गोलाईत, गुणवंत भिमराव गोलाईत', 'Khata No.': '48'}: 2024-08-05 06:05:33
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 06:05:59
+Timeout waiting for plot info for village '270700140083640000 बहिरमपुर', option: 490: 2024-08-05 06:05:59
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 06:06:22
+Timeout waiting for plot info for village '270700140083640000 बहिरमपुर', option: 492: 2024-08-05 06:06:23
+Plot info: {'Survey No.': '5', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'रमेश नारायन जिरापुरे', 'Khata No.': '30'}: 2024-08-05 06:06:25
+Plot info: {'Survey No.': '6', 'Total Area': '0.9100', 'Pot kharaba': '0.0000', 'Owner Name': 'मनोज महादेवराव भुसारी', 'Khata No.': '112'}: 2024-08-05 06:06:27
+Plot info: {'Survey No.': '7', 'Total Area': '1.1000', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रल्हाद किसन पोवळेकर', 'Khata No.': '15'}: 2024-08-05 06:06:29
+Plot info: {'Survey No.': '8', 'Total Area': '1.4200', 'Pot kharaba': '0.0000', 'Owner Name': 'जमीला खाँ मुसाखाँ, भिकनखाँ मुसा खाँ, महंमद खाँ मुसाखाँ, सलमा बी मुसाखाँ, शहीदा मारुफ मलीद', 'Khata No.': '25'}: 2024-08-05 06:06:31
+Plot info: {'Survey No.': '9', 'Total Area': '2.9200', 'Pot kharaba': '0.0000', 'Owner Name': 'रुपेश रमेशराव धोबे', 'Khata No.': '67'}: 2024-08-05 06:06:33
+Village '270700140083640000 बहिरमपुर' processed: 2024-08-05 06:06:33
+Time taken for village '270700140083640000 बहिरमपुर': 0:01:53.823407: 2024-08-05 06:06:33
+Script completed for village '270700140083640000 बहिरमपुर': 2024-08-05 06:06:38

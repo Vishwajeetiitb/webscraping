@@ -1,0 +1,46 @@
+Error encountered: Message: Navigation timed out after 300000 ms
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+TimeoutError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:740:5
+bail@chrome://remote/content/marionette/sync.sys.mjs:211:19
+: 2024-08-04 07:36:53
+Opened the webpage: 2024-08-04 08:12:37
+Page loaded: 2024-08-04 08:12:37
+District folder '07 अमरावती' created or already exists: 2024-08-04 08:12:43
+Taluka folder '09 अमरावती' created or already exists: 2024-08-04 08:12:44
+Plot info: {'Survey No.': '1', 'Total Area': '2.7000', 'Pot kharaba': '0.0000', 'Owner Name': 'गोरखनाथ विश्वेश्वर कराळे', 'Khata No.': '8'}: 2024-08-04 08:12:46
+Plot info: {'Survey No.': '10/3', 'Total Area': '0.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'निश्चल अरुणराव काळे', 'Khata No.': '150'}: 2024-08-04 08:12:47
+Plot info: {'Survey No.': '11/5', 'Total Area': '1.3100', 'Pot kharaba': '0.0000', 'Owner Name': 'मुन्ना शालीक जाधव', 'Khata No.': '64'}: 2024-08-04 08:12:48
+Plot info: {'Survey No.': '12/3', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'निलक्षा बिलो भोसले', 'Khata No.': '23'}: 2024-08-04 08:12:49
+Plot info: {'Survey No.': '13', 'Total Area': '8.6100', 'Pot kharaba': '0.0000', 'Owner Name': 'सी. क्लास फॉरेस्ट', 'Khata No.': '65'}: 2024-08-04 08:12:50
+Plot info: {'Survey No.': '14', 'Total Area': '9.4100', 'Pot kharaba': '0.0000', 'Owner Name': 'सी. क्लास फॉरेस्ट', 'Khata No.': '65'}: 2024-08-04 08:12:51
+Plot info: {'Survey No.': '15', 'Total Area': '8.6900', 'Pot kharaba': '0.0000', 'Owner Name': 'सी. क्लास फॉरेस्ट', 'Khata No.': '65'}: 2024-08-04 08:12:52
+Plot info: {'Survey No.': '16', 'Total Area': '14.4000', 'Pot kharaba': '0.0000', 'Owner Name': 'सी. क्लास फॉरेस्ट', 'Khata No.': '65'}: 2024-08-04 08:12:53
+Plot info: {'Survey No.': '17', 'Total Area': '13.4200', 'Pot kharaba': '0.0000', 'Owner Name': 'सी. क्लास फॉरेस्ट', 'Khata No.': '65'}: 2024-08-04 08:12:54
+Plot info: {'Survey No.': '18/2', 'Total Area': '2.1800', 'Pot kharaba': '0.0000', 'Owner Name': 'पायल विनोद नानवाणी, विनोद हरीचंद नानवाणी', 'Khata No.': '82'}: 2024-08-04 08:12:55
+Plot info: {'Survey No.': '19/2', 'Total Area': '0.8800', 'Pot kharaba': '0.0000', 'Owner Name': 'सुशिलाबाई गोविंदराव राठोड, बतोबाई जयसिंग राठोड, पंचफुलाबाई श्रीरामजी चव्हाण, चंद्रकलाबाई गोविंदराव आडे, लाडोबाई नथ्थूजी जाधव', 'Khata No.': '97'}: 2024-08-04 08:12:56
+Plot info: {'Survey No.': '2', 'Total Area': '1.2300', 'Pot kharaba': '0.0500', 'Owner Name': 'कौसल्या भाष्करराव कराळे, जनार्दन भाष्करराव कराळे, ज्ञानेश्वर भाष्करराव कराळे, मुरलीधर भाष्करराव कराळे, वनीता विजय इंगोले, श्रीधर भास्करराव कराळे, सुनीता भाष्करराव कराळे, एकनाथ भास्करराव कराळे', 'Khata No.': '11'}: 2024-08-04 08:12:57
+Plot info: {'Survey No.': '20/2', 'Total Area': '4.0600', 'Pot kharaba': '0.0000', 'Owner Name': 'ज्योती गोवर्धन कटकतलवारे, दिगांबर गुलाब कटकतलवारे, नंदा गोवर्धन कटकतलवारे, भाउराव गुलाब कटकतलवारे, व्दारकाबाई गोवर्धन कटकतलवारे, दादाराव गुलाब कटकतलवारे, जानराव गोवर्धन कटकतलवारे', 'Khata No.': '16'}: 2024-08-04 08:12:58
+Plot info: {'Survey No.': '21/2', 'Total Area': '2.0200', 'Pot kharaba': '0.0000', 'Owner Name': 'सोनिया राजेश देशमुख, राजेश गुणवंतराव देशमुख', 'Khata No.': '169'}: 2024-08-04 08:12:59
+Plot info: {'Survey No.': '22/2', 'Total Area': '3.9900', 'Pot kharaba': '0.0600', 'Owner Name': 'हिराबाई सदाशिव अमदुरकर, शंकर सदाशिव अमदुरकर, वनिता प्रमोद हुड, तुळशिदास सदाशिव अमदुरकर, ओंकार सदाशिन अमदुरकर', 'Khata No.': '57'}: 2024-08-04 08:13:00
+Plot info: {'Survey No.': '23', 'Total Area': '7.3100', 'Pot kharaba': '0.0000', 'Owner Name': 'सी. क्लास फॉरेस्ट', 'Khata No.': '65'}: 2024-08-04 08:13:02
+Plot info: {'Survey No.': '24', 'Total Area': '8.8800', 'Pot kharaba': '0.0000', 'Owner Name': 'सी. क्लास फॉरेस्ट', 'Khata No.': '65'}: 2024-08-04 08:13:03
+Plot info: {'Survey No.': '25/3', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'शारदा मंगेश पवार, तोमेश निलो भोसले, दिनेश निलो भोसले, नारमलशा गीतील पवार, निलूस निलो भोसले, निलेशा सुदाम पवार, पुजा सन्या पवार, मनोज निलो भोसले, मोनू रविकुमार पवार, निलक्षाबाई निलो भोसले', 'Khata No.': '22'}: 2024-08-04 08:13:04
+Plot info: {'Survey No.': '26/3/अ', 'Total Area': '0.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'गोपाल रविंद्र जाधव', 'Khata No.': '153'}: 2024-08-04 08:13:05
+Plot info: {'Survey No.': '27', 'Total Area': '0.9400', 'Pot kharaba': '0.0000', 'Owner Name': 'हरिश मनोहरराव जोशी', 'Khata No.': '160'}: 2024-08-04 08:13:06
+Plot info: {'Survey No.': '28/3', 'Total Area': '1.7400', 'Pot kharaba': '0.0000', 'Owner Name': 'नवनाथ गोविंदराव कराळे', 'Khata No.': '106'}: 2024-08-04 08:13:07
+Plot info: {'Survey No.': '29/2', 'Total Area': '1.4800', 'Pot kharaba': '0.0000', 'Owner Name': 'देवयानी आशुतोष सिरभाते', 'Khata No.': '185'}: 2024-08-04 08:13:08
+Plot info: {'Survey No.': '3/2', 'Total Area': '1.2500', 'Pot kharaba': '0.0100', 'Owner Name': 'शोभा भिमराव डकरे, संगीता संजय नागपुरे, संदीप विनायक कराळे, सुमन विनायक कराळे, इंदिरा भाऊराव राऊत, कविता शरद पुंडकर, पंजाब माणिक कराळे, प्रविण विनायक कराळे, मंदा सुभाष माहोरे', 'Khata No.': '90'}: 2024-08-04 08:13:10
+Plot info: {'Survey No.': '30/1/9', 'Total Area': '0.00770000000000000000', 'Pot kharaba': '0.00000000000000000000', 'Owner Name': 'गजानन बळीरामसा शेरेकर', 'Khata No.': '144'}: 2024-08-04 08:13:11
+Plot info: {'Survey No.': '31', 'Total Area': '3.5100', 'Pot kharaba': '0.0300', 'Owner Name': 'सकस आहार केंद्र, महाराष्ट्र शासना तर्फे', 'Khata No.': '43'}: 2024-08-04 08:13:12
+Plot info: {'Survey No.': '32/2', 'Total Area': '0.0000', 'Pot kharaba': '0.4600', 'Owner Name': 'एफ क्लास गोठान खळवाडी', 'Khata No.': '66'}: 2024-08-04 08:13:13
+Plot info: {'Survey No.': '4/3', 'Total Area': '0.3300', 'Pot kharaba': '0.0000', 'Owner Name': 'रामदास रुपसिंग', 'Khata No.': '73'}: 2024-08-04 08:13:15
+Plot info: {'Survey No.': '5/2/अ', 'Total Area': '1.4000', 'Pot kharaba': '0.0100', 'Owner Name': 'अजय पुंडलिकराव कराळे', 'Khata No.': '69'}: 2024-08-04 08:13:16
+Plot info: {'Survey No.': '6/3', 'Total Area': '2.1200', 'Pot kharaba': '0.2500', 'Owner Name': 'प्रेमदास डोमाजी सरदार', 'Khata No.': '163'}: 2024-08-04 08:13:17
+Plot info: {'Survey No.': '7/3', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'मोहिनी सुरेंद्र कराळे', 'Khata No.': '154'}: 2024-08-04 08:13:19
+Plot info: {'Survey No.': '8/2', 'Total Area': '0.9300', 'Pot kharaba': '0.0000', 'Owner Name': 'आकाश विनायक बेलसरे', 'Khata No.': '142'}: 2024-08-04 08:13:20
+Plot info: {'Survey No.': '9/3', 'Total Area': '1.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'मनोहर मेघश्यामजी नानोटकर', 'Khata No.': '54'}: 2024-08-04 08:13:21
+Village '270700090076950000 मोगरा' processed: 2024-08-04 08:13:22
+Time taken for village '270700090076950000 मोगरा': 0:01:24.965912: 2024-08-04 08:13:22
+Script completed for village '270700090076950000 मोगरा': 2024-08-04 08:13:25

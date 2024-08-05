@@ -1,0 +1,25 @@
+Opened the webpage: 2024-08-05 04:27:59
+Page loaded: 2024-08-05 04:28:00
+District folder '07 अमरावती' created or already exists: 2024-08-05 04:28:07
+Taluka folder '14 धामणगाव' created or already exists: 2024-08-05 04:28:08
+Plot info: {'Survey No.': '1', 'Total Area': '0.0000', 'Pot kharaba': '2.3400', 'Owner Name': 'एफक्लास खऴवालीकरिता', 'Khata No.': '60'}: 2024-08-05 04:28:15
+Plot info: {'Survey No.': '10/8', 'Total Area': '0.9100', 'Pot kharaba': '0.0000', 'Owner Name': 'निर्मल साहेबराव भेले', 'Khata No.': '61'}: 2024-08-05 04:28:16
+Plot info: {'Survey No.': '11/3', 'Total Area': '3.2400', 'Pot kharaba': '0.0000', 'Owner Name': 'नितीन विनोद ठाकरे', 'Khata No.': '83'}: 2024-08-05 04:28:17
+Plot info: {'Survey No.': '12/4', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'सौ .छाया अनिल तिवाडे', 'Khata No.': '86'}: 2024-08-05 04:28:19
+Plot info: {'Survey No.': '13/5', 'Total Area': '1.0100', 'Pot kharaba': '0.1500', 'Owner Name': 'सविता अमित बनसोड', 'Khata No.': '127'}: 2024-08-05 04:28:20
+Plot info: {'Survey No.': '14', 'Total Area': '1.7700', 'Pot kharaba': '0.0700', 'Owner Name': 'प्रविण अविनाश बुटले', 'Khata No.': '114'}: 2024-08-05 04:28:22
+Plot info: {'Survey No.': '15/5', 'Total Area': '1.2900', 'Pot kharaba': '0.0000', 'Owner Name': 'मंदा सदाशिव वाघाडे, यशोदी अंबादास राजके, विकास सदाशिव वाघाडे, कृष्णा सदाशिव वाघाडे, रविंद्र सदाशिव वाघाडे', 'Khata No.': '54'}: 2024-08-05 04:28:24
+Plot info: {'Survey No.': '16/2', 'Total Area': '0.6600', 'Pot kharaba': '0.0200', 'Owner Name': 'इंदिराबाई सुधाकर गुढे', 'Khata No.': '91'}: 2024-08-05 04:28:25
+Plot info: {'Survey No.': '17', 'Total Area': '0.0000', 'Pot kharaba': '4.6400', 'Owner Name': 'सरकार ई क्लास गुरांना मोफत चारण्याकरिता', 'Khata No.': '125'}: 2024-08-05 04:28:27
+Plot info: {'Survey No.': '18/5', 'Total Area': '1.1000', 'Pot kharaba': '0.0000', 'Owner Name': 'बुध्देश्वर हंसराज गुढे', 'Khata No.': '31'}: 2024-08-05 04:28:28
+Plot info: {'Survey No.': '2/2', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'सुखदेव चंद्रभान भेले', 'Khata No.': '95'}: 2024-08-05 04:28:30
+Plot info: {'Survey No.': '3', 'Total Area': '0.0000', 'Pot kharaba': '0.9400', 'Owner Name': 'सरकार ई क्लास गुरांना मोफत चारण्याकरिता', 'Khata No.': '125'}: 2024-08-05 04:28:32
+Plot info: {'Survey No.': '4/5', 'Total Area': '1.2900', 'Pot kharaba': '0.0000', 'Owner Name': 'सुरज साहेबराव भेले', 'Khata No.': '128'}: 2024-08-05 04:28:34
+Plot info: {'Survey No.': '5/2', 'Total Area': '1.1200', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रदिप रामदास चौधरी, प्रफुल रामदास चौधरी, पुष्पा रामदास चौधरी', 'Khata No.': '98'}: 2024-08-05 04:28:35
+Plot info: {'Survey No.': '6/3', 'Total Area': '2.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रकाश अंबादास चौधरी', 'Khata No.': '1'}: 2024-08-05 04:28:37
+Plot info: {'Survey No.': '7/3', 'Total Area': '1.9700', 'Pot kharaba': '0.0000', 'Owner Name': 'रंजीत नामदेव पाटील, अनिल नामदेव पाटील, उद्देशन नामदेव पाटील, पंचशिला नामदेव पाटील, शकुंतला नामदेव पाटील', 'Khata No.': '64'}: 2024-08-05 04:28:38
+Plot info: {'Survey No.': '8/4', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'त्र्यंबक बळीराम भोयर', 'Khata No.': '17'}: 2024-08-05 04:28:40
+Plot info: {'Survey No.': '9/3', 'Total Area': '1.3900', 'Pot kharaba': '0.0000', 'Owner Name': 'उद्देशन नामदेव पाटील, शकुंतला नामदेव पाटील, रंजीत नामदेव पाटील, अनिल नामदेव पाटील, पंचशिला नामदेव पाटील', 'Khata No.': '64'}: 2024-08-05 04:28:42
+Village '270700140083530000 खानापुर' processed: 2024-08-05 04:28:42
+Time taken for village '270700140083530000 खानापुर': 0:00:46.832914: 2024-08-05 04:28:42
+Script completed for village '270700140083530000 खानापुर': 2024-08-05 04:28:47
