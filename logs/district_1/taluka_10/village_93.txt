@@ -1,0 +1,31 @@
+Error encountered: Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//mahabhunakasha.mahabhumi.gov.in/27/index.html&c=UTF-8&d=The%20server%20at%20mahabhunakasha.mahabhumi.gov.in%20is%20taking%20too%20long%20to%20respond.
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+UnknownError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:832:5
+checkReadyState@chrome://remote/content/marionette/navigate.sys.mjs:58:24
+onNavigation@chrome://remote/content/marionette/navigate.sys.mjs:330:39
+emit@resource://gre/modules/EventEmitter.sys.mjs:148:20
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteEventsParent.sys.mjs:33:25
+: 2024-08-05 15:16:37
+Opened the webpage: 2024-08-05 21:46:53
+Page loaded: 2024-08-05 21:46:53
+District folder '07 अमरावती' created or already exists: 2024-08-05 21:47:02
+Taluka folder '12 नांदगाव' created or already exists: 2024-08-05 21:47:03
+Plot info: {'Survey No.': '1/2/ब', 'Total Area': '1.5600', 'Pot kharaba': '0.0000', 'Owner Name': 'गणेश रामहरी इंझाळकर', 'Khata No.': '4'}: 2024-08-05 21:47:10
+Plot info: {'Survey No.': '10', 'Total Area': '0.0000', 'Pot kharaba': '77.9200', 'Owner Name': 'सी. क्लास फॉरेस्ट सरकार', 'Khata No.': '23'}: 2024-08-05 21:47:11
+Plot info: {'Survey No.': '11', 'Total Area': '0.0000', 'Pot kharaba': '5.4400', 'Owner Name': 'सी. क्लास फॉरेस्ट सरकार', 'Khata No.': '23'}: 2024-08-05 21:47:24
+Plot info: {'Survey No.': '12/3', 'Total Area': '0.8600', 'Pot kharaba': '0.0000', 'Owner Name': 'देवेद्र केशव सावदे', 'Khata No.': '35'}: 2024-08-05 21:47:50
+Plot info: {'Survey No.': '13', 'Total Area': '2.0000', 'Pot kharaba': '0.1300', 'Owner Name': 'मदन किसनगोपाल राठी', 'Khata No.': '225'}: 2024-08-05 21:48:02
+Plot info: {'Survey No.': '14', 'Total Area': '0.0000', 'Pot kharaba': '0.6800', 'Owner Name': 'सी. क्लास फॉरेस्ट सरकार', 'Khata No.': '23'}: 2024-08-05 21:48:13
+Plot info: {'Survey No.': '2/2', 'Total Area': '1.1000', 'Pot kharaba': '0.0100', 'Owner Name': 'निलेश विष्णु इंझळकर', 'Khata No.': '226'}: 2024-08-05 21:49:15
+Plot info: {'Survey No.': '3/3', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'मंजुळा राजेश पवार', 'Khata No.': '26'}: 2024-08-05 21:49:40
+Plot info: {'Survey No.': '4/2', 'Total Area': '6.0600', 'Pot kharaba': '0.2100', 'Owner Name': 'सनाऊल्ला खॉ सिकंदरखॉ', 'Khata No.': '221'}: 2024-08-05 21:49:58
+Plot info: {'Survey No.': '5', 'Total Area': '0.0000', 'Pot kharaba': '6.8500', 'Owner Name': 'सी. क्लास फॉरेस्ट सरकार', 'Khata No.': '23'}: 2024-08-05 21:50:18
+Plot info: {'Survey No.': '6', 'Total Area': '0.0000', 'Pot kharaba': '79.9500', 'Owner Name': 'सी. क्लास फॉरेस्ट सरकार', 'Khata No.': '23'}: 2024-08-05 21:50:39
+Plot info: {'Survey No.': '7/3', 'Total Area': '2.2500', 'Pot kharaba': '0.0000', 'Owner Name': 'शिला राजाभाऊ देशमुख, विलास गुणवंतराव देशमुख, राजेश गुणवंतराव देशमुख, अशोक गुणवंतराव देशमुख, गजानन गुणवंतराव देशमुख', 'Khata No.': '7'}: 2024-08-05 21:51:15
+Plot info: {'Survey No.': '8', 'Total Area': '0.0000', 'Pot kharaba': '14.1600', 'Owner Name': 'सी. क्लास फॉरेस्ट सरकार', 'Khata No.': '23'}: 2024-08-05 21:51:52
+Plot info: {'Survey No.': '9', 'Total Area': '0.0000', 'Pot kharaba': '7.7900', 'Owner Name': 'सी. क्लास फॉरेस्ट सरकार', 'Khata No.': '23'}: 2024-08-05 21:52:22
+Village '270700120081740000 बाखलापुर' processed: 2024-08-05 21:52:42
+Time taken for village '270700120081740000 बाखलापुर': 0:06:13.838415: 2024-08-05 21:52:42
+Script completed for village '270700120081740000 बाखलापुर': 2024-08-05 21:52:45

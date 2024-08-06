@@ -1,0 +1,35 @@
+Opened the webpage: 2024-08-05 13:18:43
+Page loaded: 2024-08-05 13:18:43
+District folder '07 अमरावती' created or already exists: 2024-08-05 13:18:56
+Taluka folder '12 नांदगाव' created or already exists: 2024-08-05 13:19:02
+Plot info: {'Survey No.': '1', 'Total Area': '0.0000', 'Pot kharaba': '1.7300', 'Owner Name': 'सरकार ई क्लास', 'Khata No.': '59'}: 2024-08-05 13:19:21
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 13:19:41
+Error encountered: name 'processed_villages' is not defined: 2024-08-05 13:19:41
+Script completed for village '270700120081600000 एकलासपुर': 2024-08-05 13:19:44
+Opened the webpage: 2024-08-05 14:04:11
+Page loaded: 2024-08-05 14:04:11
+District folder '07 अमरावती' created or already exists: 2024-08-05 14:04:28
+Taluka folder '12 नांदगाव' created or already exists: 2024-08-05 14:04:30
+Plot info: {'Survey No.': '1', 'Total Area': '0.0000', 'Pot kharaba': '1.7300', 'Owner Name': 'सरकार ई क्लास', 'Khata No.': '59'}: 2024-08-05 14:04:34
+Plot info: {'Survey No.': '10', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'शोभाताई निळकंठराव काडगाये', 'Khata No.': '18'}: 2024-08-05 14:04:39
+Plot info: {'Survey No.': '11', 'Total Area': '1.0100', 'Pot kharaba': '0.0000', 'Owner Name': 'रिमा प्रमोदराव धोटे, वनमाला रविंद्र भेंडे, नंदु बबनराव गोरले', 'Khata No.': '26'}: 2024-08-05 14:04:42
+Plot info: {'Survey No.': '12', 'Total Area': '1.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'शिल्\u200dपा श्रीकांत गांवडे', 'Khata No.': '76'}: 2024-08-05 14:04:57
+Plot info: {'Survey No.': '13', 'Total Area': '13.6700', 'Pot kharaba': '0.0000', 'Owner Name': 'अनीरुध्द बाळकृष्ण गावंडे, ज्योती भाष्करराव गावंडे, पंकज प्रभाकर गावंडे, प्रविण प्रभाकर गावंडे, रोहीणी विनायकराव गावंडे, वच्छलाबाई विनायकराव गावंडे, सुमती बाळकृष्ण गावंडे, दुर्गाधर बाळकृष्ण गावंडे', 'Khata No.': '1515'}: 2024-08-05 14:05:01
+Plot info: {'Survey No.': '14', 'Total Area': '1.1600', 'Pot kharaba': '0.0500', 'Owner Name': 'अमोल भाष्कर वंजारी', 'Khata No.': '1541'}: 2024-08-05 14:05:06
+Plot info: {'Survey No.': '15', 'Total Area': '2.6000', 'Pot kharaba': '0.0200', 'Owner Name': 'रमेश किसनराव वंजारी', 'Khata No.': '7'}: 2024-08-05 14:05:10
+Plot info: {'Survey No.': '16', 'Total Area': '0.9700', 'Pot kharaba': '0.0400', 'Owner Name': 'प्रगेश भाष्करराव बनसोड', 'Khata No.': '61'}: 2024-08-05 14:05:15
+Plot info: {'Survey No.': '17', 'Total Area': '1.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रगेश भाष्करराव बनसोड', 'Khata No.': '61'}: 2024-08-05 14:05:19
+Plot info: {'Survey No.': '18', 'Total Area': '1.6200', 'Pot kharaba': '0.1200', 'Owner Name': 'प्रविण विट्ठलराव इरतकर', 'Khata No.': '19'}: 2024-08-05 14:05:24
+Plot info: {'Survey No.': '19', 'Total Area': '1.2000', 'Pot kharaba': '0.0000', 'Owner Name': 'अमर मनोहरराव जवळकार', 'Khata No.': '43'}: 2024-08-05 14:05:30
+Plot info: {'Survey No.': '2', 'Total Area': '1.5300', 'Pot kharaba': '0.0000', 'Owner Name': 'अमर मनोहरराव जवळकार, पंकज मनोहरराव जवळकार', 'Khata No.': '60'}: 2024-08-05 14:05:34
+Plot info: {'Survey No.': '20', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'मनोहर यशवंत जवळकार', 'Khata No.': '32'}: 2024-08-05 14:05:45
+Plot info: {'Survey No.': '3', 'Total Area': '0.8000', 'Pot kharaba': '0.0200', 'Owner Name': 'सुनंदा संजयराव जवळकार', 'Khata No.': '1547'}: 2024-08-05 14:05:57
+Plot info: {'Survey No.': '4', 'Total Area': '1.7700', 'Pot kharaba': '0.0000', 'Owner Name': 'दिलीप जिवनराव गावंडे', 'Khata No.': '17'}: 2024-08-05 14:06:04
+Plot info: {'Survey No.': '5', 'Total Area': '1.9200', 'Pot kharaba': '0.0800', 'Owner Name': 'अभिजित दुर्गाधर गांवडे', 'Khata No.': '40'}: 2024-08-05 14:06:10
+Plot info: {'Survey No.': '6', 'Total Area': '1.0000', 'Pot kharaba': '0.0300', 'Owner Name': 'रुपाली अभिजित गांवडे', 'Khata No.': '88'}: 2024-08-05 14:06:18
+Plot info: {'Survey No.': '7', 'Total Area': '0.9600', 'Pot kharaba': '0.0500', 'Owner Name': 'दयाराम जानबा गोरले', 'Khata No.': '31'}: 2024-08-05 14:06:22
+Plot info: {'Survey No.': '8', 'Total Area': '0.7800', 'Pot kharaba': '0.0300', 'Owner Name': 'विलास वासुदेव बाबरे', 'Khata No.': '39'}: 2024-08-05 14:06:27
+Plot info: {'Survey No.': '9', 'Total Area': '1.3700', 'Pot kharaba': '0.0300', 'Owner Name': 'सिंधू वासुदेवराव बाबरे', 'Khata No.': '1535'}: 2024-08-05 14:06:32
+Village '270700120081600000 एकलासपुर' processed: 2024-08-05 14:06:32
+Time taken for village '270700120081600000 एकलासपुर': 0:02:45.512414: 2024-08-05 14:06:32
+Script completed for village '270700120081600000 एकलासपुर': 2024-08-05 14:06:35

@@ -24,15 +24,16 @@ def print_and_log_time(message, log_file):
         file.write(log_message + '\n')
 
 # Function to update the terminal output
-def update_terminal_output(progress_tracker, taluka_path, total_villages):
+def update_terminal_output(progress_tracker, taluka_path, total_villages, current_taluka_name, current_taluka_index):
     os.system('cls' if os.name == 'nt' else 'clear')
     completed_villages = len([file for file in os.listdir(taluka_path) if file.endswith('.xlsx')])
+    print(f"Taluka {current_taluka_index + 1}: {current_taluka_name}")
     print(f"Completed villages: {completed_villages}/{total_villages}\n")
     for key, value in progress_tracker.items():
         print(f"Instance {key}: {json.dumps(value, ensure_ascii=False)}")
 
 # Function to select an option by text with retries
-def select_option_by_text_with_retry(driver, select_element_id, option_text, log_file, instance_id, progress_tracker, taluka_path, total_villages, retries=3):
+def select_option_by_text_with_retry(driver, select_element_id, option_text, log_file, instance_id, progress_tracker, taluka_path, total_villages, current_taluka_name, current_taluka_index, retries=3):
     for attempt in range(retries):
         try:
             select_element = Select(driver.find_element(By.ID, select_element_id))
@@ -45,7 +46,7 @@ def select_option_by_text_with_retry(driver, select_element_id, option_text, log
             message = f"Error selecting option '{option_text}' on attempt {attempt + 1}/{retries}: {e}"
             print_and_log_time(message, log_file)
             progress_tracker[instance_id]['message'] = message
-            update_terminal_output(progress_tracker, taluka_path, total_villages)
+            update_terminal_output(progress_tracker, taluka_path, total_villages, current_taluka_name, current_taluka_index)
             time.sleep(1)
             if attempt < retries - 1:
                 # Re-locate the element without refreshing the page
@@ -81,7 +82,7 @@ def inject_mutation_observer(driver):
     driver.execute_script(script)
 
 # Function to wait for plot info update using MutationObserver
-def wait_for_plot_info_update(driver, log_file, instance_id, progress_tracker, taluka_path, total_villages, previous_plot_info, retries=1):
+def wait_for_plot_info_update(driver, log_file, instance_id, progress_tracker, taluka_path, total_villages, current_taluka_name, current_taluka_index, previous_plot_info, retries=1):
     for attempt in range(retries):
         try:
             inject_mutation_observer(driver)
@@ -94,7 +95,7 @@ def wait_for_plot_info_update(driver, log_file, instance_id, progress_tracker, t
             message = f"Timeout waiting for plot info update on attempt {attempt + 1}/{retries}"
             print_and_log_time(message, log_file)
             progress_tracker[instance_id]['message'] = message
-            update_terminal_output(progress_tracker, taluka_path, total_villages)
+            update_terminal_output(progress_tracker, taluka_path, total_villages, current_taluka_name, current_taluka_index)
             # Backup logic: compare with previous plot info
             try:
                 plot_info = driver.find_element(By.ID, 'plotinfo').text
@@ -140,7 +141,15 @@ def get_village_name_to_scrape(instance_id, villages, processed_villages, lock, 
                 return village_index, village_name
     return None, None
 
-def scrape_village(instance_id, district_index, taluka_index, progress_tracker, lock, villages, processed_villages, total_villages, taluka_path):
+def save_village_data(village_df, village_file_path, log_file, village_name):
+    try:
+        with pd.ExcelWriter(village_file_path) as writer:
+            village_df.to_excel(writer, sheet_name=village_name, index=False)
+        print_and_log_time(f"Village '{village_name}' data saved", log_file)
+    except Exception as e:
+        print_and_log_time(f"Error saving data for village '{village_name}': {e}", log_file)
+
+def scrape_village(instance_id, district_index, taluka_index, progress_tracker, lock, villages, processed_villages, total_villages, taluka_path, current_taluka_name, current_taluka_index):
     # Setup Firefox options
     firefox_options = Options()
     firefox_options.binary_location = r"C:\Program Files\Mozilla Firefox\firefox.exe"  # Update this path if necessary
@@ -162,6 +171,8 @@ def scrape_village(instance_id, district_index, taluka_index, progress_tracker, 
         
         driver = initialize_browser(webdriver_path, firefox_options, log_file)
         village_start_time = datetime.now()
+        plot_data = []
+
         try:
             # Open the webpage
             driver.get("https://mahabhunakasha.mahabhumi.gov.in/27/index.html")
@@ -227,7 +238,7 @@ def scrape_village(instance_id, district_index, taluka_index, progress_tracker, 
             WebDriverWait(driver, 20).until(
                 lambda d: len(village_select.options) > 1
             )
-            if not select_option_by_text_with_retry(driver, 'level_4', village_name, log_file, instance_id, progress_tracker, taluka_path, total_villages):
+            if not select_option_by_text_with_retry(driver, 'level_4', village_name, log_file, instance_id, progress_tracker, taluka_path, total_villages, current_taluka_name, current_taluka_index):
                 print_and_log_time(f"Village '{village_name}' not found", log_file)
                 continue
 
@@ -245,9 +256,6 @@ def scrape_village(instance_id, district_index, taluka_index, progress_tracker, 
             WebDriverWait(driver, 20).until(lambda d: len(Select(d.find_element(By.ID, 'surveyNumber')).options) > 1)
             plot_select = Select(driver.find_element(By.ID, 'surveyNumber'))
 
-            # Initialize a list to hold plot data
-            plot_data = []
-
             previous_plot_info = ""
             # Iterate over each plot option by index
             for plot_index in range(1, len(plot_select.options)):
@@ -259,14 +267,14 @@ def scrape_village(instance_id, district_index, taluka_index, progress_tracker, 
                     "plot_index": plot_index,
                     "plot_info": plot_option_text
                 }
-                update_terminal_output(progress_tracker, taluka_path, total_villages)
-                if not select_option_by_text_with_retry(driver, 'surveyNumber', plot_option_text, log_file, instance_id, progress_tracker, taluka_path, total_villages):  # Select the plot by text
+                update_terminal_output(progress_tracker, taluka_path, total_villages, current_taluka_name, current_taluka_index)
+                if not select_option_by_text_with_retry(driver, 'surveyNumber', plot_option_text, log_file, instance_id, progress_tracker, taluka_path, total_villages, current_taluka_name, current_taluka_index):  # Select the plot by text
                     print_and_log_time(f"Plot option '{plot_option_text}' not found for village '{village_name}'", log_file)
                     break
 
                 # Wait for the plot information to be updated
                 try:
-                    plot_info_text = wait_for_plot_info_update(driver, log_file, instance_id, progress_tracker, taluka_path, total_villages, previous_plot_info)
+                    plot_info_text = wait_for_plot_info_update(driver, log_file, instance_id, progress_tracker, taluka_path, total_villages, current_taluka_name, current_taluka_index, previous_plot_info)
                 except TimeoutException:
                     print_and_log_time(f"Timeout waiting for plot info for village '{village_name}', option: {plot_option_text}", log_file)
                     continue
@@ -305,8 +313,9 @@ def scrape_village(instance_id, district_index, taluka_index, progress_tracker, 
 
             # Save the current state of the Excel file
             village_file_path = os.path.join(taluka_path, f'{village_name}.xlsx')
-            with pd.ExcelWriter(village_file_path) as writer:
-                village_df.to_excel(writer, sheet_name=village_name, index=False)
+            print_and_log_time("Saving the xl file",log_file)
+            save_village_data(village_df, village_file_path, log_file, village_name)
+
 
             # Update processed_villages to include the saved village
             with lock:
@@ -318,14 +327,29 @@ def scrape_village(instance_id, district_index, taluka_index, progress_tracker, 
 
         except Exception as e:
             print_and_log_time(f"Error encountered: {e}", log_file)
+            # Save data if there is any error during processing
+            if plot_data:
+                village_df = pd.DataFrame(plot_data)
+                village_file_path = os.path.join(taluka_path, f'{village_name}.xlsx')
+                save_village_data(village_df, village_file_path, log_file, village_name)
 
         finally:
             # Close the browser
             driver.quit()
 
-        # Remove the instance from the progress tracker
-        progress_tracker.pop(instance_id)
-        update_terminal_output(progress_tracker, taluka_path, total_villages)
+            # Save data in the finally block as well
+            if plot_data:
+                print_and_log_time("lolllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll",log_file)
+                village_df = pd.DataFrame(plot_data)
+                village_file_path = os.path.join(taluka_path, f'{village_name}.xlsx')
+                save_village_data(village_df, village_file_path, log_file, village_name)
+            else:
+                print_and_log_time("plot data is empty",log_file)
+
+        # Remove the instance from the progress tracker if it exists
+        if instance_id in progress_tracker:
+            progress_tracker.pop(instance_id)
+        update_terminal_output(progress_tracker, taluka_path, total_villages, current_taluka_name, current_taluka_index)
 
         # Print overall time taken
         print_and_log_time(f"Script completed for village '{village_name}'", log_file)
@@ -412,19 +436,22 @@ if __name__ == "__main__":
     progress_tracker = manager.dict()
     lock = manager.Lock()
 
-    district_index = 1  # Adjust this to the desired district index
-    taluka_index = 12  # Adjust this to the desired taluka index
+    district_index = 5  # Adjust this to the desired district index
+    taluka_indices = [6]  # List of taluka indices
 
-    villages, district_name, taluka_name = get_villages(district_index, taluka_index)
-    total_villages = len(villages)
+    for current_taluka_index in taluka_indices:
+        villages, district_name, current_taluka_name = get_villages(district_index, current_taluka_index)
+        villages = [villages[54]]
+        total_villages = len(villages)
+        print(villages)
 
-    taluka_path = os.path.join(district_name, taluka_name)
-    processed_villages = manager.list(get_already_processed_villages(taluka_path))
+        taluka_path = os.path.join(district_name, current_taluka_name)
+        processed_villages = manager.list(get_already_processed_villages(taluka_path))
 
-    num_instances = 6  # Number of instances to run in parallel
+        num_instances = 6  # Number of instances to run in parallel
 
-    with multiprocessing.Pool(processes=num_instances) as pool:
-        pool.starmap(scrape_village, [
-            (instance_id, district_index, taluka_index, progress_tracker, lock, villages, processed_villages, total_villages, taluka_path)
-            for instance_id in range(num_instances)
-        ])
+        with multiprocessing.Pool(processes=num_instances) as pool:
+            pool.starmap(scrape_village, [
+                (instance_id, district_index, current_taluka_index, progress_tracker, lock, villages, processed_villages, total_villages, taluka_path, current_taluka_name, current_taluka_index)
+                for instance_id in range(num_instances)
+            ])

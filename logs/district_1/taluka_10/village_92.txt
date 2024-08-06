@@ -1,0 +1,30 @@
+Error encountered: Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//mahabhunakasha.mahabhumi.gov.in/27/index.html&c=UTF-8&d=The%20server%20at%20mahabhunakasha.mahabhumi.gov.in%20is%20taking%20too%20long%20to%20respond.
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+UnknownError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:832:5
+checkReadyState@chrome://remote/content/marionette/navigate.sys.mjs:58:24
+onNavigation@chrome://remote/content/marionette/navigate.sys.mjs:330:39
+emit@resource://gre/modules/EventEmitter.sys.mjs:148:20
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteEventsParent.sys.mjs:33:25
+: 2024-08-05 15:16:37
+Opened the webpage: 2024-08-05 21:46:35
+Page loaded: 2024-08-05 21:46:35
+District folder '07 अमरावती' created or already exists: 2024-08-05 21:46:43
+Taluka folder '12 नांदगाव' created or already exists: 2024-08-05 21:46:45
+Plot info: {'Survey No.': '1/1/अ', 'Total Area': '5.2000', 'Pot kharaba': '0.1600', 'Owner Name': 'अनुराग विरेंद्र खापरी', 'Khata No.': '1'}: 2024-08-05 21:46:52
+Plot info: {'Survey No.': '10/2', 'Total Area': '1.3600', 'Pot kharaba': '0.0000', 'Owner Name': 'अज्ञान सतिश महादेव ब्राम्हणवाडे, अज्ञान किशोर महादेव ब्राम्हणवाडे, श्रीकृष्ण महादेव ब्राम्हणवाडे', 'Khata No.': '8'}: 2024-08-05 21:46:54
+Plot info: {'Survey No.': '11/4', 'Total Area': '1.8000', 'Pot kharaba': '0.0700', 'Owner Name': 'नरेंद्र बाबाराव कणसे', 'Khata No.': '23'}: 2024-08-05 21:46:55
+Plot info: {'Survey No.': '12/4', 'Total Area': '1.9600', 'Pot kharaba': '0.0000', 'Owner Name': 'स्वप्ंनील नरेंद्र कणसे', 'Khata No.': '973'}: 2024-08-05 21:46:56
+Plot info: {'Survey No.': '13', 'Total Area': '0.0000', 'Pot kharaba': '5.2500', 'Owner Name': 'इ क्लास सरकारी पडीत', 'Khata No.': '38'}: 2024-08-05 21:46:57
+Plot info: {'Survey No.': '2/2/2', 'Total Area': '1.8000', 'Pot kharaba': '0.0200', 'Owner Name': 'छाया राजेंद्र पोफळे', 'Khata No.': '969'}: 2024-08-05 21:46:58
+Plot info: {'Survey No.': '3/4/अ', 'Total Area': '2.5600', 'Pot kharaba': '0.0000', 'Owner Name': 'नागोराव शंकरराव रावेकर', 'Khata No.': '60'}: 2024-08-05 21:47:00
+Plot info: {'Survey No.': '4/3', 'Total Area': '1.5200', 'Pot kharaba': '0.0300', 'Owner Name': 'सुभाष चंद्रभान सोनोने, पांडुरंग चंद्रभान सोनोने', 'Khata No.': '987'}: 2024-08-05 21:47:03
+Plot info: {'Survey No.': '5/3', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'महेंद्र पुंडलिक टोंगळे', 'Khata No.': '975'}: 2024-08-05 21:47:04
+Plot info: {'Survey No.': '6/4', 'Total Area': '1.2300', 'Pot kharaba': '0.0200', 'Owner Name': 'रहेमान खॉ उसमान खॉ', 'Khata No.': '26'}: 2024-08-05 21:47:05
+Plot info: {'Survey No.': '7', 'Total Area': '1.1700', 'Pot kharaba': '0.0300', 'Owner Name': 'शहीद खॉ उस्मान खॉ', 'Khata No.': '980'}: 2024-08-05 21:47:07
+Plot info: {'Survey No.': '8', 'Total Area': '0.0000', 'Pot kharaba': '2.4300', 'Owner Name': 'इ क्लास सरकारी पडीत', 'Khata No.': '38'}: 2024-08-05 21:47:09
+Plot info: {'Survey No.': '9', 'Total Area': '3.0700', 'Pot kharaba': '0.0400', 'Owner Name': 'पन्नालाल मुलचंद जैन', 'Khata No.': '52'}: 2024-08-05 21:47:10
+Village '270700120081730000 बछरापुर' processed: 2024-08-05 21:47:10
+Time taken for village '270700120081730000 बछरापुर': 0:01:00.004968: 2024-08-05 21:47:10
+Script completed for village '270700120081730000 बछरापुर': 2024-08-05 21:47:13

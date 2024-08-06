@@ -1,0 +1,22 @@
+Opened the webpage: 2024-08-05 23:20:04
+Page loaded: 2024-08-05 23:20:04
+District folder '07 अमरावती' created or already exists: 2024-08-05 23:20:13
+Taluka folder '06 मोर्शी' created or already exists: 2024-08-05 23:20:15
+Plot info: {'Survey No.': '1/2', 'Total Area': '1.1600', 'Pot kharaba': '0.0000', 'Owner Name': 'सविता साहेबराव उंद्रे', 'Khata No.': '19'}: 2024-08-05 23:20:23
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 23:21:57
+Timeout waiting for plot info for village '270700060073920000 भावसिंगपुर', option: 126: 2024-08-05 23:21:57
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 23:23:29
+Timeout waiting for plot info for village '270700060073920000 भावसिंगपुर', option: 145: 2024-08-05 23:23:29
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 23:25:20
+Timeout waiting for plot info for village '270700060073920000 भावसिंगपुर', option: 168: 2024-08-05 23:25:20
+Plot info: {'Survey No.': '2/3', 'Total Area': '1.2600', 'Pot kharaba': '0.0000', 'Owner Name': 'कांताबाई विनायक काळे', 'Khata No.': '6'}: 2024-08-05 23:27:51
+Plot info: {'Survey No.': '3/6', 'Total Area': '1.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'जिवन मारोतराव गाडे', 'Khata No.': '51'}: 2024-08-05 23:29:01
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 23:29:37
+Timeout waiting for plot info for village '270700060073920000 भावसिंगपुर', option: 32: 2024-08-05 23:29:37
+Plot info: {'Survey No.': '4/3/अ', 'Total Area': '0.9300', 'Pot kharaba': '0.0000', 'Owner Name': 'सुधीर अमृतराव देशमुख, कलावंती अमृतराव देशमुख, छत्रपती अमृतराव देशमुख, वनिता दिलीपराव वानखडे', 'Khata No.': '20'}: 2024-08-05 23:30:23
+Plot info: {'Survey No.': '5/2/ब', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'कल्पना हरिचंद्र बुरघाटे, पुष्पा नंदकिशोर पोहोकार, सारंग अवधुत काळे', 'Khata No.': '3'}: 2024-08-05 23:31:37
+Plot info: {'Survey No.': '6/3', 'Total Area': '0.8500', 'Pot kharaba': '0.0300', 'Owner Name': 'दिलीप शंकरराव धनाडे', 'Khata No.': '7'}: 2024-08-05 23:32:39
+Plot info: {'Survey No.': '7/2', 'Total Area': '1.3300', 'Pot kharaba': '0.0700', 'Owner Name': 'अक्षय सुभाषराव यावले', 'Khata No.': '55'}: 2024-08-05 23:34:00
+Village '270700060073920000 भावसिंगपुर' processed: 2024-08-05 23:39:55
+Time taken for village '270700060073920000 भावसिंगपुर': 0:19:58.270493: 2024-08-05 23:39:55
+Script completed for village '270700060073920000 भावसिंगपुर': 2024-08-05 23:40:02

@@ -1,0 +1,38 @@
+Opened the webpage: 2024-08-05 12:43:46
+Page loaded: 2024-08-05 12:43:46
+Error encountered: Message: Could not locate element with index 0; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+: 2024-08-05 12:43:52
+Opened the webpage: 2024-08-05 13:08:47
+Page loaded: 2024-08-05 13:08:47
+District folder '07 अमरावती' created or already exists: 2024-08-05 13:09:00
+Taluka folder '12 नांदगाव' created or already exists: 2024-08-05 13:09:03
+Plot info: {'Survey No.': '1/2', 'Total Area': '1.0100', 'Pot kharaba': '0.0000', 'Owner Name': 'नानीबाई रामभाउ इतापूरे', 'Khata No.': '76'}: 2024-08-05 13:09:10
+Plot info: {'Survey No.': '10/2', 'Total Area': '1.1900', 'Pot kharaba': '0.0000', 'Owner Name': 'मिनल आशिष भोयर', 'Khata No.': '592'}: 2024-08-05 13:09:18
+Plot info: {'Survey No.': '11/4', 'Total Area': '1.3600', 'Pot kharaba': '0.0500', 'Owner Name': 'ईकरा फातेमा अजमत खा अपाक आई निशात अंजुम, निशात अंजुम अजमत खा, हाफिज खॉ सैफुल्लाखॉ', 'Khata No.': '99'}: 2024-08-05 13:09:24
+Plot info: {'Survey No.': '12/2/ब', 'Total Area': '1.1300', 'Pot kharaba': '0.0000', 'Owner Name': 'इमरान खान मजीद खान', 'Khata No.': '616'}: 2024-08-05 13:09:30
+Plot info: {'Survey No.': '13/2/ब', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'गजानन गोविंदराव इंगळकर', 'Khata No.': '603'}: 2024-08-05 13:09:38
+Plot info: {'Survey No.': '14/4', 'Total Area': '0.7300', 'Pot kharaba': '0.0000', 'Owner Name': 'नारायण पाडुरंग फरकाडे', 'Khata No.': '92'}: 2024-08-05 13:09:46
+Plot info: {'Survey No.': '15/2', 'Total Area': '3.1000', 'Pot kharaba': '0.0000', 'Owner Name': 'आदित्य विनोदराव मोरे', 'Khata No.': '604'}: 2024-08-05 13:09:49
+Plot info: {'Survey No.': '16/2', 'Total Area': '8.0600', 'Pot kharaba': '0.0000', 'Owner Name': 'सोमेश्वर रंगराव मोरे, चंद्रशेखर रंगराव मोरे, कासाबाई रंगराव मोरे, अशोक रंगराव मोरे, नरेंद्र रंगराव मोरे, मदा वसंत बंडले, योगेश्वर रंगराव मोरे, शंकर रंगराव मोरे', 'Khata No.': '57'}: 2024-08-05 13:09:53
+Plot info: {'Survey No.': '17/2', 'Total Area': '1.8900', 'Pot kharaba': '0.0000', 'Owner Name': 'कुंदन केशव राऊत', 'Khata No.': '618'}: 2024-08-05 13:09:59
+Plot info: {'Survey No.': '18', 'Total Area': '0.7100', 'Pot kharaba': '0.0000', 'Owner Name': 'चंपाबाई सोनराज सिगंई', 'Khata No.': '90'}: 2024-08-05 13:10:02
+Plot info: {'Survey No.': '19', 'Total Area': '2.4600', 'Pot kharaba': '0.0600', 'Owner Name': 'अय्युब खॉ शकुर खॉ', 'Khata No.': '223'}: 2024-08-05 13:10:07
+Plot info: {'Survey No.': '2', 'Total Area': '0.0000', 'Pot kharaba': '3.7600', 'Owner Name': 'चे पंच शिवराम तेली, महादेव संस्थान वेणी गणेशपूर', 'Khata No.': '42'}: 2024-08-05 13:10:14
+Plot info: {'Survey No.': '20/2/ब', 'Total Area': '1.2000', 'Pot kharaba': '0.0000', 'Owner Name': 'जयराम रामंचद्र काबंळे', 'Khata No.': '206'}: 2024-08-05 13:10:18
+Plot info: {'Survey No.': '21/2', 'Total Area': '1.6200', 'Pot kharaba': '0.0800', 'Owner Name': 'आशा कैलाश नेवारे, दुर्गाबाई किसन शेंद्रे, सुधाकर किसन शेंद्रे, सारजाबाई राघो शेंद्रे, लता किशोर नेवारे, मिराबाई मारोतराव राउत, मधुकर किसन शेंद्रे, पुष्पा संजय वाघाडे, गजानन किसन शेंद्रे', 'Khata No.': '10'}: 2024-08-05 13:10:23
+Plot info: {'Survey No.': '22/2', 'Total Area': '4.4000', 'Pot kharaba': '0.0100', 'Owner Name': 'विवेक ऊर्फ गजानन रामराव मोरे', 'Khata No.': '226'}: 2024-08-05 13:10:30
+Plot info: {'Survey No.': '23/9', 'Total Area': '0.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'गिरजा चंद्रकांत डोंगरे', 'Khata No.': '15'}: 2024-08-05 13:10:39
+Plot info: {'Survey No.': '24/4', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'सुशिला परमेश्वर ठाकरे, अन्नपुर्णा शंकर भोयर, कोकीळा भिमराव राऊत, दिगाबंर शंकर भोयर, विश्वभंर शंकर भोयर, विष्णु शंकर भोयर', 'Khata No.': '239'}: 2024-08-05 13:10:52
+Plot info: {'Survey No.': '25/3', 'Total Area': '0.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'लक्ष्मीबाई सखाराम गजभिये, मारोती सखाराम गजभिये', 'Khata No.': '91'}: 2024-08-05 13:11:01
+Plot info: {'Survey No.': '26', 'Total Area': '0.0000', 'Pot kharaba': '10.9000', 'Owner Name': 'ई क्लास सरकार', 'Khata No.': '100'}: 2024-08-05 13:11:06
+Plot info: {'Survey No.': '27', 'Total Area': '0.0000', 'Pot kharaba': '0.7200', 'Owner Name': 'एफ क्लास सरकार', 'Khata No.': '556'}: 2024-08-05 13:11:12
+Plot info: {'Survey No.': '3', 'Total Area': '0.0000', 'Pot kharaba': '4.8500', 'Owner Name': 'रघुनाथ दिनाजी रघुते', 'Khata No.': '46'}: 2024-08-05 13:11:17
+Plot info: {'Survey No.': '4/3', 'Total Area': '0.9800', 'Pot kharaba': '0.0200', 'Owner Name': 'सुनिता संजय जयस्वाल', 'Khata No.': '220'}: 2024-08-05 13:11:21
+Plot info: {'Survey No.': '5/2/अ', 'Total Area': '0.9500', 'Pot kharaba': '0.0500', 'Owner Name': 'राजकला जगलाल जयस्वाल', 'Khata No.': '260'}: 2024-08-05 13:11:27
+Plot info: {'Survey No.': '6/3', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'गौतम यादवराव नागदिवे', 'Khata No.': '253'}: 2024-08-05 13:11:39
+Plot info: {'Survey No.': '7/2', 'Total Area': '2.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'नागपुर -मुंबई सुपर कम्युनिकेशन एक्सप्रेसवे लिमिटेड', 'Khata No.': '595'}: 2024-08-05 13:11:55
+Plot info: {'Survey No.': '8/2/ब', 'Total Area': '0.9600', 'Pot kharaba': '0.0000', 'Owner Name': 'नारायण नथ्थुजी इतापुरे', 'Khata No.': '601'}: 2024-08-05 13:12:06
+Plot info: {'Survey No.': '9/4', 'Total Area': '0.0400', 'Pot kharaba': '0.0000', 'Owner Name': 'नागपुर -मुंबई सुपर कम्युनिकेशन एक्सप्रेसवे लिमिटेड', 'Khata No.': '595'}: 2024-08-05 13:12:16
+Village '270700120081570000 अदितापुर' processed: 2024-08-05 13:12:16
+Time taken for village '270700120081570000 अदितापुर': 0:03:47.686639: 2024-08-05 13:12:16
+Script completed for village '270700120081570000 अदितापुर': 2024-08-05 13:12:19

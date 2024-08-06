@@ -1,0 +1,28 @@
+Opened the webpage: 2024-08-05 12:43:46
+Page loaded: 2024-08-05 12:43:46
+Error encountered: Message: Could not locate element with index 0; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+: 2024-08-05 12:43:51
+Opened the webpage: 2024-08-05 13:08:46
+Page loaded: 2024-08-05 13:08:46
+District folder '07 अमरावती' created or already exists: 2024-08-05 13:08:55
+Taluka folder '12 नांदगाव' created or already exists: 2024-08-05 13:09:00
+Plot info: {'Survey No.': '1/3', 'Total Area': '0.8600', 'Pot kharaba': '0.0000', 'Owner Name': 'ज्ञानेश्वर परसराम ठाकरे', 'Khata No.': '46'}: 2024-08-05 13:09:06
+Plot info: {'Survey No.': '10/2', 'Total Area': '3.2500', 'Pot kharaba': '0.1100', 'Owner Name': 'दुर्गाबाई पुंडलिकआप्पा गंजीवाले, सारंग पुंडलिकआप्पा गंजीवाले, सुधाकर पुंडलिकआप्पा गंजीवाले, सुरेश पुंडलिकआप्पा गंजीवाले', 'Khata No.': '14'}: 2024-08-05 13:09:16
+Plot info: {'Survey No.': '11/4', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'मनोज शामराव राणे', 'Khata No.': '322'}: 2024-08-05 13:09:22
+Plot info: {'Survey No.': '12/2', 'Total Area': '0.1500', 'Pot kharaba': '0.0000', 'Owner Name': 'विदर्भ पाटबंधारे विकास महामंडळ नागपूर', 'Khata No.': '319'}: 2024-08-05 13:09:28
+Plot info: {'Survey No.': '13/2/ब', 'Total Area': '0.1100', 'Pot kharaba': '0.0000', 'Owner Name': 'विदर्भ पाटबंधारे विकास महामंडळ नागपूर', 'Khata No.': '319'}: 2024-08-05 13:09:33
+Plot info: {'Survey No.': '14/5', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रीती चक्रधर वानखडे', 'Khata No.': '321'}: 2024-08-05 13:09:44
+Plot info: {'Survey No.': '15/3', 'Total Area': '1.7000', 'Pot kharaba': '0.0000', 'Owner Name': 'दादाराव दौलतराव शंभरकर, उत्तमराव दौलतराव शंभरकर', 'Khata No.': '8'}: 2024-08-05 13:09:47
+Plot info: {'Survey No.': '16/3', 'Total Area': '0.7200', 'Pot kharaba': '0.0000', 'Owner Name': 'हिमंत शामराव ठाकरे', 'Khata No.': '45'}: 2024-08-05 13:09:53
+Plot info: {'Survey No.': '17', 'Total Area': '0.0000', 'Pot kharaba': '1.3200', 'Owner Name': 'सरकारी क वर्ग गुरांचा तळ', 'Khata No.': '294'}: 2024-08-05 13:09:57
+Plot info: {'Survey No.': '2/3', 'Total Area': '1.4800', 'Pot kharaba': '0.0000', 'Owner Name': 'नारायण चंपत घाटे', 'Khata No.': '12'}: 2024-08-05 13:10:01
+Plot info: {'Survey No.': '3', 'Total Area': '0.0000', 'Pot kharaba': '7.3400', 'Owner Name': 'सरकारी ई वर्ग मोफत कुरण', 'Khata No.': '52'}: 2024-08-05 13:10:05
+Plot info: {'Survey No.': '4/4', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'वंसत शंकरराव राणे', 'Khata No.': '31'}: 2024-08-05 13:10:12
+Plot info: {'Survey No.': '5/4', 'Total Area': '1.4400', 'Pot kharaba': '0.0000', 'Owner Name': 'संतोष रामकृष्ण पवार', 'Khata No.': '56'}: 2024-08-05 13:10:17
+Plot info: {'Survey No.': '6', 'Total Area': '0.6500', 'Pot kharaba': '0.0200', 'Owner Name': 'नामदेव जागो देशमुख', 'Khata No.': '9'}: 2024-08-05 13:10:23
+Plot info: {'Survey No.': '7/3', 'Total Area': '0.0000', 'Pot kharaba': '2.3600', 'Owner Name': 'विदर्भ पाटबंधारे विकास महामंडळ नागपूर', 'Khata No.': '319'}: 2024-08-05 13:10:30
+Plot info: {'Survey No.': '8/2', 'Total Area': '1.2500', 'Pot kharaba': '0.0500', 'Owner Name': 'उकंडा विठोबा देशमुख', 'Khata No.': '63'}: 2024-08-05 13:10:39
+Plot info: {'Survey No.': '9', 'Total Area': '0.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'विदर्भ पाटबंधारे विकास महामंडळ नागपूर', 'Khata No.': '319'}: 2024-08-05 13:10:51
+Village '270700120081560000 अंमदापुर' processed: 2024-08-05 13:10:53
+Time taken for village '270700120081560000 अंमदापुर': 0:02:24.191178: 2024-08-05 13:10:53
+Script completed for village '270700120081560000 अंमदापुर': 2024-08-05 13:10:55

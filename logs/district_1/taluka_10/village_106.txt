@@ -1,0 +1,18 @@
+Opened the webpage: 2024-08-05 21:59:07
+Page loaded: 2024-08-05 21:59:07
+District folder '07 अमरावती' created or already exists: 2024-08-05 21:59:15
+Taluka folder '12 नांदगाव' created or already exists: 2024-08-05 21:59:15
+Plot info: {'Survey No.': '1/1/2', 'Total Area': '5.4900', 'Pot kharaba': '0.0000', 'Owner Name': 'हर्षा नरेश मंडलीक', 'Khata No.': '36'}: 2024-08-05 21:59:23
+Plot info: {'Survey No.': '2/3/ब', 'Total Area': '1.5900', 'Pot kharaba': '0.0300', 'Owner Name': 'अ.मजहर अ.कादर', 'Khata No.': '154'}: 2024-08-05 21:59:29
+Plot info: {'Survey No.': '3/2', 'Total Area': '3.0000', 'Pot kharaba': '0.0400', 'Owner Name': 'अ. हमीद शे. अमानत', 'Khata No.': '37'}: 2024-08-05 21:59:34
+Plot info: {'Survey No.': '4/5', 'Total Area': '0.5600', 'Pot kharaba': '0.0000', 'Owner Name': 'म.अशपाक शे.मुसा', 'Khata No.': '18'}: 2024-08-05 21:59:40
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 22:00:25
+Timeout waiting for plot info for village '270700120081760000 मुंड गुरव', option: 48: 2024-08-05 22:00:25
+Plot info: {'Survey No.': '6/3', 'Total Area': '0.7500', 'Pot kharaba': '0.1200', 'Owner Name': 'ज्ञानेश्वर बापुराव वैद्य', 'Khata No.': '186'}: 2024-08-05 22:00:55
+Plot info: {'Survey No.': '7/4', 'Total Area': '1.0600', 'Pot kharaba': '0.0400', 'Owner Name': 'अमित भिमराव परसनकर', 'Khata No.': '189'}: 2024-08-05 22:00:59
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 22:01:20
+Timeout waiting for plot info for village '270700120081760000 मुंड गुरव', option: 8: 2024-08-05 22:01:20
+Plot info: {'Survey No.': '8', 'Total Area': '2.1000', 'Pot kharaba': '0.1900', 'Owner Name': 'अनीस खान तमीज खान, तैहसीन खान तमीज खान, फिरोज खान तमीज खान, रजिया बी तमीज खान, शगुफ्ता यास्मीन मोहम्मद वकील, शबाना परवीन मो जमील, आरिफ खान तमीज खान', 'Khata No.': '8'}: 2024-08-05 22:01:25
+Village '270700120081760000 मुंड गुरव' processed: 2024-08-05 22:01:25
+Time taken for village '270700120081760000 मुंड गुरव': 0:04:36.290361: 2024-08-05 22:01:25
+Script completed for village '270700120081760000 मुंड गुरव': 2024-08-05 22:01:27

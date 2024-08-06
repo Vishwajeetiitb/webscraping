@@ -1,0 +1,17 @@
+Opened the webpage: 2024-08-05 18:38:49
+Page loaded: 2024-08-05 18:38:49
+District folder '07 अमरावती' created or already exists: 2024-08-05 18:38:58
+Taluka folder '10 भातकुली' created or already exists: 2024-08-05 18:39:00
+Plot info: {'Survey No.': '1/2', 'Total Area': '1.2300', 'Pot kharaba': '0.0000', 'Owner Name': 'मनोहर रायसिंग सोळंके', 'Khata No.': '1'}: 2024-08-05 18:39:05
+Plot info: {'Survey No.': '2/6', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'आदित्य दिवाकरराव डोंगरे', 'Khata No.': '65'}: 2024-08-05 18:39:27
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 18:40:01
+Timeout waiting for plot info for village '270700100077220000 जयतापूर', option: 29: 2024-08-05 18:40:01
+Plot info: {'Survey No.': '3/7', 'Total Area': '0.0000', 'Pot kharaba': '0.0300', 'Owner Name': 'मा.कार्यकारी अभियंता विशेष प्रकल्प सा.बां. विभाग क्रमांक 2 दर्यापूर', 'Khata No.': '61'}: 2024-08-05 18:40:18
+Plot info: {'Survey No.': '4/2/अ', 'Total Area': '4.0400', 'Pot kharaba': '0.0000', 'Owner Name': 'नंदकिशोर श्रीवल्लभ राठी', 'Khata No.': '6'}: 2024-08-05 18:40:46
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 18:41:32
+Timeout waiting for plot info for village '270700100077220000 जयतापूर', option: 46: 2024-08-05 18:41:32
+Plot info: {'Survey No.': '5/3', 'Total Area': '0.0000', 'Pot kharaba': '0.1300', 'Owner Name': 'मा.कार्यकारी अभियंता विशेष प्रकल्प सा.बां. विभाग क्रमांक 2 दर्यापूर', 'Khata No.': '61'}: 2024-08-05 18:41:57
+Plot info: {'Survey No.': '6/4', 'Total Area': '0.0000', 'Pot kharaba': '0.0500', 'Owner Name': 'मा.कार्यकारी अभियंता विशेष प्रकल्प सा.बां. विभाग क्रमांक 2 दर्यापूर', 'Khata No.': '61'}: 2024-08-05 18:42:12
+Village '270700100077220000 जयतापूर' processed: 2024-08-05 18:43:07
+Time taken for village '270700100077220000 जयतापूर': 0:04:49.204079: 2024-08-05 18:43:07
+Script completed for village '270700100077220000 जयतापूर': 2024-08-05 18:43:09

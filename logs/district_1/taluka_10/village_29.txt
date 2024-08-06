@@ -1,0 +1,45 @@
+Error encountered: Message: Reached error page: about:neterror?e=connectionFailure&u=https%3A//mahabhunakasha.mahabhumi.gov.in/27/index.html&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20mahabhunakasha.mahabhumi.gov.in.
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+UnknownError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:832:5
+checkReadyState@chrome://remote/content/marionette/navigate.sys.mjs:58:24
+onNavigation@chrome://remote/content/marionette/navigate.sys.mjs:330:39
+emit@resource://gre/modules/EventEmitter.sys.mjs:148:20
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteEventsParent.sys.mjs:33:25
+: 2024-08-05 13:36:34
+Opened the webpage: 2024-08-05 14:14:36
+Page loaded: 2024-08-05 14:14:36
+District folder '07 अमरावती' created or already exists: 2024-08-05 14:14:48
+Taluka folder '12 नांदगाव' created or already exists: 2024-08-05 14:14:52
+Plot info: {'Survey No.': '1/1/अ', 'Total Area': '1.4300', 'Pot kharaba': '0.1200', 'Owner Name': 'दिगांबर रामराव चौधरी', 'Khata No.': '21'}: 2024-08-05 14:15:00
+Plot info: {'Survey No.': '10/3/अ', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'गोविंदा श्रीराम टीकले', 'Khata No.': '11'}: 2024-08-05 14:15:04
+Plot info: {'Survey No.': '11/5', 'Total Area': '1.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'ज्ञानेश्वर पंढरी डोंगरे, ताराचंद्र पंढरी डोंगरे, रेखा तुळशिराम सोनकुवर, विमल साहेबराव रामटेके', 'Khata No.': '128'}: 2024-08-05 14:15:07
+Plot info: {'Survey No.': '12/3', 'Total Area': '3.3300', 'Pot kharaba': '0.0000', 'Owner Name': 'बेबीबाई सुधाकर घोडाम, भगवान प्रल्हाद मडावी, भास्कर उदेभान मडावी, यमुना नारायण कोवे, मधुकर उदेभान मडावी, वनिता राजू सुरपाम, देविदास तुळशिराम मडावी, सुधाकर उदेभान मडावी, राईबाई प्रल्हाद मडावी, सुरेश तुळशिराम मडावी, सोनाबाई उदेभान मडावी', 'Khata No.': '34'}: 2024-08-05 14:15:11
+Plot info: {'Survey No.': '13/2', 'Total Area': '0.8700', 'Pot kharaba': '0.0000', 'Owner Name': 'पंडित सुर्यभान दहातोंडे', 'Khata No.': '33'}: 2024-08-05 14:15:13
+Plot info: {'Survey No.': '14/5', 'Total Area': '1.0100', 'Pot kharaba': '0.0000', 'Owner Name': 'महादेव डोमाजी चवरे', 'Khata No.': '51'}: 2024-08-05 14:15:17
+Plot info: {'Survey No.': '15/5/अ', 'Total Area': '1.7300', 'Pot kharaba': '0.7300', 'Owner Name': 'शे. मुस्तफा शे खैराती', 'Khata No.': '157'}: 2024-08-05 14:15:21
+Plot info: {'Survey No.': '16/5', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'सुखदेव नामदेव सोळंके, वासुदेव नामदेव सोळंके, नर्मदा सुरेश खानंदे, केशरबाई नामदेव सोळंके, सुरेश नामदेव सोळंके', 'Khata No.': '25'}: 2024-08-05 14:15:24
+Plot info: {'Survey No.': '17/3/ब', 'Total Area': '1.1800', 'Pot kharaba': '0.0300', 'Owner Name': 'अरुण विठ्ठलराव वडगांवकर', 'Khata No.': '2'}: 2024-08-05 14:15:27
+Plot info: {'Survey No.': '18', 'Total Area': '1.1500', 'Pot kharaba': '0.0000', 'Owner Name': 'निलेश कृष्णराव पोच्छी', 'Khata No.': '190'}: 2024-08-05 14:15:29
+Plot info: {'Survey No.': '19/3', 'Total Area': '1.5300', 'Pot kharaba': '0.0000', 'Owner Name': 'सुरेश नारायण सानप', 'Khata No.': '75'}: 2024-08-05 14:15:31
+Plot info: {'Survey No.': '2/2', 'Total Area': '0.7500', 'Pot kharaba': '0.3000', 'Owner Name': 'अंकुश शंकर गुल्हाने', 'Khata No.': '41'}: 2024-08-05 14:15:33
+Plot info: {'Survey No.': '20/2', 'Total Area': '2.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'गौरव अनिल चौधरी, अ.पा.क.अनिल महादेव चौधरी', 'Khata No.': '27'}: 2024-08-05 14:15:36
+Plot info: {'Survey No.': '21/2/अ', 'Total Area': '1.5600', 'Pot kharaba': '0.0000', 'Owner Name': 'पुंडलिक विश्वनाथ चौधरी', 'Khata No.': '32'}: 2024-08-05 14:15:40
+Plot info: {'Survey No.': '22', 'Total Area': '1.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'आकांशा किशोर गुल्हाने अ.पा.क. आई शारदा किशोर गुल्हाने', 'Khata No.': '178'}: 2024-08-05 14:15:45
+Plot info: {'Survey No.': '23', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'भारती मोहन सानप', 'Khata No.': '89'}: 2024-08-05 14:15:49
+Plot info: {'Survey No.': '24/2/ब', 'Total Area': '0.4400', 'Pot kharaba': '0.0000', 'Owner Name': 'सुनिल उर्फ विठ्ठल विश्वनाथ पोच्छी', 'Khata No.': '77'}: 2024-08-05 14:15:51
+Plot info: {'Survey No.': '25', 'Total Area': '1.2300', 'Pot kharaba': '0.0000', 'Owner Name': 'निलेश कृष्णराव पोच्छी', 'Khata No.': '190'}: 2024-08-05 14:15:54
+Plot info: {'Survey No.': '26/4', 'Total Area': '0.2400', 'Pot kharaba': '0.3600', 'Owner Name': 'सिंधु गणेश पोच्छी', 'Khata No.': '72'}: 2024-08-05 14:15:58
+Plot info: {'Survey No.': '27/2', 'Total Area': '0.9800', 'Pot kharaba': '0.0300', 'Owner Name': 'प्रविन प्रकाश सानप', 'Khata No.': '123'}: 2024-08-05 14:16:01
+Plot info: {'Survey No.': '28', 'Total Area': '0.8600', 'Pot kharaba': '0.0000', 'Owner Name': 'एफ क्लास', 'Khata No.': '100'}: 2024-08-05 14:16:07
+Plot info: {'Survey No.': '3/4', 'Total Area': '1.8700', 'Pot kharaba': '0.0000', 'Owner Name': 'सुधीर गंगाधर महल्ले', 'Khata No.': '165'}: 2024-08-05 14:16:14
+Plot info: {'Survey No.': '4/3', 'Total Area': '1.1800', 'Pot kharaba': '0.0000', 'Owner Name': 'सुवर्णा सुधीर महल्ले', 'Khata No.': '164'}: 2024-08-05 14:16:20
+Plot info: {'Survey No.': '5/3', 'Total Area': '1.1200', 'Pot kharaba': '0.0000', 'Owner Name': 'ज्ञानदेव वामनराव चौधरी, नारायण वामनराव चौधरी, मधुकर वामनराव चौधरी', 'Khata No.': '37'}: 2024-08-05 14:16:25
+Plot info: {'Survey No.': '6', 'Total Area': '4.2600', 'Pot kharaba': '0.4400', 'Owner Name': 'भाग्येश ईश्वर चौधरी', 'Khata No.': '188'}: 2024-08-05 14:16:31
+Plot info: {'Survey No.': '7/2', 'Total Area': '2.3600', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रल्हाद बळीराम सानप', 'Khata No.': '39'}: 2024-08-05 14:16:34
+Plot info: {'Survey No.': '8/3', 'Total Area': '3.2400', 'Pot kharaba': '0.0000', 'Owner Name': 'नाना संगीतराव सानप, अक्षय किशोर सानप', 'Khata No.': '97'}: 2024-08-05 14:16:39
+Plot info: {'Survey No.': '9/2', 'Total Area': '1.8400', 'Pot kharaba': '0.1600', 'Owner Name': 'पुजा तेजेश्वर कडु', 'Khata No.': '142'}: 2024-08-05 14:16:45
+Village '270700120081650000 गणेशपुर' processed: 2024-08-05 14:16:45
+Time taken for village '270700120081650000 गणेशपुर': 0:02:13.232785: 2024-08-05 14:16:45
+Script completed for village '270700120081650000 गणेशपुर': 2024-08-05 14:16:48

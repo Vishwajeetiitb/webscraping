@@ -245,3 +245,20 @@ Timeout waiting for plot info update on attempt 1/1: 2024-08-05 21:14:38
 Plot info: {'Survey No.': '84', 'Total Area': '0.2200', 'Pot kharaba': '0.0000', 'Owner Name': 'कुंदा गोविंद कराळे', 'Khata No.': '797'}: 2024-08-05 21:14:38
 Plot info: {'Survey No.': '85', 'Total Area': '0.9700', 'Pot kharaba': '0.0000', 'Owner Name': 'गोविंद वामनराव कराळे', 'Khata No.': '828'}: 2024-08-05 21:14:42
 Plot info: {'Survey No.': '86/3', 'Total Area': '0.9300', 'Pot kharaba': '0.0000', 'Owner Name': 'गोविंद वामनराव कराळे', 'Khata No.': '828'}: 2024-08-05 21:14:47
+Plot info: {'Survey No.': '87/2', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रमोद रामकिसन पाल', 'Khata No.': '713'}: 2024-08-05 21:14:55
+Plot info: {'Survey No.': '88/2', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रविण गोविंदराव चौधरी', 'Khata No.': '889'}: 2024-08-05 21:14:58
+Plot info: {'Survey No.': '89', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'रमेश रामचंद्र ठाकरे', 'Khata No.': '237'}: 2024-08-05 21:15:01
+Plot info: {'Survey No.': '9', 'Total Area': '0.0000', 'Pot kharaba': '6.6500', 'Owner Name': 'ई क्लास ई क्लास ई क्लास ई क्लास', 'Khata No.': '348'}: 2024-08-05 21:15:08
+Plot info: {'Survey No.': '90/3', 'Total Area': '1.9000', 'Pot kharaba': '0.0000', 'Owner Name': 'विजय नामदेव ढोके', 'Khata No.': '253'}: 2024-08-05 21:15:12
+Plot info: {'Survey No.': '91', 'Total Area': '6.2200', 'Pot kharaba': '0.0000', 'Owner Name': 'गुलाबराव गेंदाजी पोहोकार, गोविंद तुकाराम चौधरी, नाना नागोराव बाहेकार, प्रवीण गोविंदराव चौधरी (अध्यक्ष ), बबन शंकरराव राउत, श्री मारोती महाराज संस्थान', 'Khata No.': '199'}: 2024-08-05 21:15:16
+Plot info: {'Survey No.': '92/3', 'Total Area': '0.9900', 'Pot kharaba': '0.0000', 'Owner Name': 'अंकुश दादाराव तेटु', 'Khata No.': '298'}: 2024-08-05 21:15:20
+Plot info: {'Survey No.': '93/3', 'Total Area': '1.4600', 'Pot kharaba': '0.0000', 'Owner Name': 'जिजाबाई विजयराव पुंड', 'Khata No.': '57'}: 2024-08-05 21:15:23
+Plot info: {'Survey No.': '94/4', 'Total Area': '0.9500', 'Pot kharaba': '0.0000', 'Owner Name': 'सुलोचना विलासराव राहाटे, हेमलता बाळकृष्ण खेडकर, गजानन शामरावजी जायले, गूणाबाई वासूदेव आवारे, चंदा गुणवंतराव पांडे, देविदास भिमराव गौरखेडे, नाना रूपराव झाडे, पिसाबाई मारोतराव झाडे, मनोहर रूपराव झाडे, मंदा सुभाषराव फुके, रामदास भिमराव गौरखेडे, लक्ष्मी विद्याधर काळे, शालिनी डिगांबर ठाकरे, शिला नाना चांगोले, सुनिता ज्ञानेश्वर खेरे, सुनंदा अशोक दिवाण', 'Khata No.': '225'}: 2024-08-05 21:15:27
+Plot info: {'Survey No.': '95', 'Total Area': '4.2800', 'Pot kharaba': '0.0000', 'Owner Name': 'राजेश नाना बाहेकार', 'Khata No.': '218'}: 2024-08-05 21:15:34
+Plot info: {'Survey No.': '96/2', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'भैय्या मोहनराव पोहोकार', 'Khata No.': '769'}: 2024-08-05 21:15:39
+Plot info: {'Survey No.': '97/2', 'Total Area': '2.9900', 'Pot kharaba': '0.0000', 'Owner Name': 'मनोहरराव रुपराव झाडे', 'Khata No.': '714'}: 2024-08-05 21:15:44
+Plot info: {'Survey No.': '98/4', 'Total Area': '1.1200', 'Pot kharaba': '0.0000', 'Owner Name': 'गं.भा.देवकाबाई भिमराव मोकसे, सौ.संगिता महेंद्र काळे, सौ.प्रतिभा कृष्णराव चिकटे, पंकज भिमराव मोकसे', 'Khata No.': '715'}: 2024-08-05 21:15:53
+Plot info: {'Survey No.': '99/1/अ', 'Total Area': '5.4900', 'Pot kharaba': '0.0000', 'Owner Name': 'किशोरकुमार जुगलकूमार मुंदडा', 'Khata No.': '27'}: 2024-08-05 21:15:58
+Village '270700060071980000 उदखेड' processed: 2024-08-05 21:16:05
+Time taken for village '270700060071980000 उदखेड': 0:10:32.879438: 2024-08-05 21:16:05
+Script completed for village '270700060071980000 उदखेड': 2024-08-05 21:16:08

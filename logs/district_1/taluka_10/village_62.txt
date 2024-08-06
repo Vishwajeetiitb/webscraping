@@ -1,0 +1,32 @@
+Opened the webpage: 2024-08-05 14:52:15
+Page loaded: 2024-08-05 14:52:15
+District folder '07 अमरावती' created or already exists: 2024-08-05 14:52:29
+Taluka folder '12 नांदगाव' created or already exists: 2024-08-05 14:53:08
+Plot info: {'Survey No.': '1', 'Total Area': '0.0000', 'Pot kharaba': '3.7400', 'Owner Name': 'ई क्\u200dलास सरकार', 'Khata No.': '545'}: 2024-08-05 14:53:23
+Plot info: {'Survey No.': '10', 'Total Area': '1.7200', 'Pot kharaba': '0.0000', 'Owner Name': 'योगेश रमेश गुगाने', 'Khata No.': '1811'}: 2024-08-05 14:53:34
+Plot info: {'Survey No.': '11', 'Total Area': '0.8900', 'Pot kharaba': '0.0000', 'Owner Name': 'गजानन ज्ञानदेव कडु', 'Khata No.': '161'}: 2024-08-05 14:53:48
+Plot info: {'Survey No.': '12', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'शीवदास ज्ञानदेव कडु', 'Khata No.': '72'}: 2024-08-05 14:53:56
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 14:54:17
+Error encountered: name 'processed_villages' is not defined: 2024-08-05 14:54:17
+Script completed for village '270700120081300000 देऊळगव्हाण': 2024-08-05 14:54:19
+Opened the webpage: 2024-08-05 21:27:00
+Page loaded: 2024-08-05 21:27:00
+District folder '07 अमरावती' created or already exists: 2024-08-05 21:27:09
+Taluka folder '12 नांदगाव' created or already exists: 2024-08-05 21:27:11
+Plot info: {'Survey No.': '1', 'Total Area': '0.0000', 'Pot kharaba': '3.7400', 'Owner Name': 'ई क्\u200dलास सरकार', 'Khata No.': '545'}: 2024-08-05 21:27:25
+Plot info: {'Survey No.': '10', 'Total Area': '1.7200', 'Pot kharaba': '0.0000', 'Owner Name': 'योगेश रमेश गुगाने', 'Khata No.': '1811'}: 2024-08-05 21:27:27
+Plot info: {'Survey No.': '11', 'Total Area': '0.8900', 'Pot kharaba': '0.0000', 'Owner Name': 'गजानन ज्ञानदेव कडु', 'Khata No.': '161'}: 2024-08-05 21:27:28
+Plot info: {'Survey No.': '12', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'शीवदास ज्ञानदेव कडु', 'Khata No.': '72'}: 2024-08-05 21:27:31
+Plot info: {'Survey No.': '13', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'जीजा सतिश कुणबीथोप, रत्नकला मनोहरराव पाखरे, कमलाबाई भिमराव चौके', 'Khata No.': '1648'}: 2024-08-05 21:27:33
+Plot info: {'Survey No.': '14', 'Total Area': '1.2200', 'Pot kharaba': '0.0000', 'Owner Name': 'रेखा यादवराव काळे', 'Khata No.': '612'}: 2024-08-05 21:27:36
+Plot info: {'Survey No.': '2', 'Total Area': '0.0000', 'Pot kharaba': '2.1100', 'Owner Name': 'ई क्\u200dलास सरकार', 'Khata No.': '545'}: 2024-08-05 21:27:40
+Plot info: {'Survey No.': '3', 'Total Area': '0.0000', 'Pot kharaba': '3.6600', 'Owner Name': 'ई क्\u200dलास सरकार', 'Khata No.': '545'}: 2024-08-05 21:27:41
+Plot info: {'Survey No.': '4', 'Total Area': '0.0000', 'Pot kharaba': '7.6900', 'Owner Name': 'ई क्\u200dलास सरकार', 'Khata No.': '545'}: 2024-08-05 21:27:42
+Plot info: {'Survey No.': '5', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'विनायक विश्वनाथ चौके', 'Khata No.': '621'}: 2024-08-05 21:27:43
+Plot info: {'Survey No.': '6', 'Total Area': '0.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'सुरेश नामदेव पाळतकर', 'Khata No.': '58'}: 2024-08-05 21:27:44
+Plot info: {'Survey No.': '7', 'Total Area': '1.5600', 'Pot kharaba': '0.0000', 'Owner Name': 'विनोद शेषराव लळे', 'Khata No.': '1785'}: 2024-08-05 21:27:46
+Plot info: {'Survey No.': '8', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रविण शेषराव लळे, वर्षा शेषराव लळे, विनोद शेषराव लळे, कांताबाई शेषराव लळे', 'Khata No.': '137'}: 2024-08-05 21:27:48
+Plot info: {'Survey No.': '9', 'Total Area': '1.2900', 'Pot kharaba': '0.0000', 'Owner Name': 'विनोद शेषराव लळे', 'Khata No.': '89'}: 2024-08-05 21:27:50
+Village '270700120081300000 देऊळगव्हाण' processed: 2024-08-05 21:27:50
+Time taken for village '270700120081300000 देऊळगव्हाण': 0:01:36.303103: 2024-08-05 21:27:50
+Script completed for village '270700120081300000 देऊळगव्हाण': 2024-08-05 21:27:53

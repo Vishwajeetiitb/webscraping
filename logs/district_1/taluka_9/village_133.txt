@@ -1,0 +1,44 @@
+Opened the webpage: 2024-08-05 10:28:47
+Page loaded: 2024-08-05 10:28:47
+Error encountered: Message: Could not locate element with index 0; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+: 2024-08-05 10:28:52
+Opened the webpage: 2024-08-05 11:09:57
+Page loaded: 2024-08-05 11:09:57
+District folder '07 अमरावती' created or already exists: 2024-08-05 11:10:05
+Taluka folder '01 धारणी' created or already exists: 2024-08-05 11:10:07
+Plot info: {'Survey No.': '1', 'Total Area': '1.0500', 'Pot kharaba': '0.0000', 'Owner Name': 'तुळशीराम बाटु धिकार', 'Khata No.': '4'}: 2024-08-05 11:10:09
+Plot info: {'Survey No.': '10', 'Total Area': '2.6500', 'Pot kharaba': '0.0000', 'Owner Name': 'महाराष्ट्र शासन वनविभाग', 'Khata No.': '27'}: 2024-08-05 11:10:11
+Plot info: {'Survey No.': '11/ब', 'Total Area': '1.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'महाराष्ट्र शासन वनविभाग', 'Khata No.': '27'}: 2024-08-05 11:10:12
+Plot info: {'Survey No.': '13/अ', 'Total Area': '0.4500', 'Pot kharaba': '0.0000', 'Owner Name': 'मनाजी भुरा धांडे', 'Khata No.': '32'}: 2024-08-05 11:10:13
+Plot info: {'Survey No.': '14', 'Total Area': '0.8700', 'Pot kharaba': '0.0000', 'Owner Name': 'भुराय भाऊ भिलावेकर, मोतीराम भाऊ भिलावेकर, रामप्यारी मुंशी चिमोटे, हिरा भाऊ भिलावेकर', 'Khata No.': '11'}: 2024-08-05 11:10:15
+Plot info: {'Survey No.': '15', 'Total Area': '1.3200', 'Pot kharaba': '0.0000', 'Owner Name': 'तुळशीराम बाटु धिकार', 'Khata No.': '4'}: 2024-08-05 11:10:15
+Plot info: {'Survey No.': '16', 'Total Area': '0.0000', 'Pot kharaba': '5.5400', 'Owner Name': 'महाराष्ट्र शासन वनविभाग', 'Khata No.': '27'}: 2024-08-05 11:10:16
+Plot info: {'Survey No.': '17/अ', 'Total Area': '0.8700', 'Pot kharaba': '0.0000', 'Owner Name': 'मनाजी भुरा धांडे', 'Khata No.': '32'}: 2024-08-05 11:10:17
+Plot info: {'Survey No.': '18', 'Total Area': '0.0000', 'Pot kharaba': '1.6900', 'Owner Name': 'महाराष्ट्र शासन वनविभाग', 'Khata No.': '27'}: 2024-08-05 11:10:18
+Plot info: {'Survey No.': '19', 'Total Area': '0.0000', 'Pot kharaba': '2.8200', 'Owner Name': 'महाराष्ट्र शासन वनविभाग', 'Khata No.': '27'}: 2024-08-05 11:10:20
+Plot info: {'Survey No.': '2', 'Total Area': '1.0300', 'Pot kharaba': '0.0000', 'Owner Name': 'झुनी संतु कास्देकर, बाबुलाल बिसराम सावलकर, बालाजी बिसराम सावलकर, लालजी बिसराम सावलकर, साबुलाल बिसराम सावलकर', 'Khata No.': '6'}: 2024-08-05 11:10:21
+Plot info: {'Survey No.': '20', 'Total Area': '0.0000', 'Pot kharaba': '2.9400', 'Owner Name': 'महाराष्ट्र शासन वनविभाग', 'Khata No.': '27'}: 2024-08-05 11:10:21
+Plot info: {'Survey No.': '21', 'Total Area': '0.6300', 'Pot kharaba': '0.0000', 'Owner Name': 'भुरय बुडा सावलकर, मानकू बाबुलाल चिमोटे, मोतीलाल ओंकार भिलावेकर, बालाजी ओंकार', 'Khata No.': '26'}: 2024-08-05 11:10:22
+Plot info: {'Survey No.': '22', 'Total Area': '0.3700', 'Pot kharaba': '0.0000', 'Owner Name': 'केन्डे भुरा', 'Khata No.': '2'}: 2024-08-05 11:10:23
+Plot info: {'Survey No.': '23', 'Total Area': '0.0000', 'Pot kharaba': '0.1100', 'Owner Name': 'महाराष्ट्र शासन वनविभाग', 'Khata No.': '27'}: 2024-08-05 11:10:24
+Plot info: {'Survey No.': '25/ब', 'Total Area': '0.0900', 'Pot kharaba': '0.0000', 'Owner Name': 'बालजी ओंकार', 'Khata No.': '23'}: 2024-08-05 11:10:25
+Plot info: {'Survey No.': '26', 'Total Area': '0.0000', 'Pot kharaba': '0.9200', 'Owner Name': 'महाराष्ट्र शासन वनविभाग', 'Khata No.': '27'}: 2024-08-05 11:10:26
+Plot info: {'Survey No.': '27', 'Total Area': '0.4400', 'Pot kharaba': '0.0000', 'Owner Name': 'महाराष्ट्र शासन वनविभाग', 'Khata No.': '27'}: 2024-08-05 11:10:27
+Plot info: {'Survey No.': '28', 'Total Area': '0.0000', 'Pot kharaba': '4.2500', 'Owner Name': 'महाराष्ट्र शासन वनविभाग', 'Khata No.': '27'}: 2024-08-05 11:10:28
+Plot info: {'Survey No.': '29/ब', 'Total Area': '0.3500', 'Pot kharaba': '0.0000', 'Owner Name': 'मोतीलाल ओंकार भिलावेकर', 'Khata No.': '24'}: 2024-08-05 11:10:29
+Plot info: {'Survey No.': '3', 'Total Area': '0.7800', 'Pot kharaba': '0.0000', 'Owner Name': 'बुडा भैय्या', 'Khata No.': '9'}: 2024-08-05 11:10:30
+Plot info: {'Survey No.': '30', 'Total Area': '1.1500', 'Pot kharaba': '0.0000', 'Owner Name': 'महाराष्ट्र शासन वनविभाग', 'Khata No.': '27'}: 2024-08-05 11:10:30
+Plot info: {'Survey No.': '31', 'Total Area': '0.0000', 'Pot kharaba': '1.5400', 'Owner Name': 'महाराष्ट्र शासन वनविभाग', 'Khata No.': '27'}: 2024-08-05 11:10:32
+Plot info: {'Survey No.': '32', 'Total Area': '1.9400', 'Pot kharaba': '0.0000', 'Owner Name': 'ओंकार भगवान बेठेकर, जानो भगवान बेठेकर, नंदलाल भगवान बेठेकर, रामकुबाई बापुराव, सोनाय महाजन, छोटेलाल भगवान बेठेकर', 'Khata No.': '20'}: 2024-08-05 11:10:33
+Plot info: {'Survey No.': '33', 'Total Area': '0.0000', 'Pot kharaba': '1.6300', 'Owner Name': 'महाराष्ट्र शासन वनविभाग', 'Khata No.': '27'}: 2024-08-05 11:10:35
+Plot info: {'Survey No.': '34', 'Total Area': '0.0000', 'Pot kharaba': '0.6300', 'Owner Name': 'महाराष्ट्र शासन वनविभाग', 'Khata No.': '27'}: 2024-08-05 11:10:36
+Plot info: {'Survey No.': '35', 'Total Area': '0.0000', 'Pot kharaba': '0.2100', 'Owner Name': 'महाराष्ट्र शासन वनविभाग', 'Khata No.': '27'}: 2024-08-05 11:10:37
+Plot info: {'Survey No.': '4/ब', 'Total Area': '0.3700', 'Pot kharaba': '0.0000', 'Owner Name': 'बालजी ओंकार', 'Khata No.': '23'}: 2024-08-05 11:10:38
+Plot info: {'Survey No.': '5', 'Total Area': '0.9600', 'Pot kharaba': '0.0000', 'Owner Name': 'आसय रामकिशोर, झिमाय मौजीलाल दहीकर, झुनय मानू, मनकाय अमरलाल, मिरकाय रतिराम, मुन्नी भिल्या, रुखमा सुखराम, सुखराय छोटेलाल, श्यामलाल छोटेलाल', 'Khata No.': '18'}: 2024-08-05 11:10:39
+Plot info: {'Survey No.': '6', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'हिरालाल तुमला', 'Khata No.': '3'}: 2024-08-05 11:10:40
+Plot info: {'Survey No.': '7', 'Total Area': '2.0400', 'Pot kharaba': '0.0000', 'Owner Name': 'साबुलाल भैय्या धिकार, सोमा भैय्या धिकार, हिराजी भैय्या धिकार', 'Khata No.': '10'}: 2024-08-05 11:10:41
+Plot info: {'Survey No.': '8/ब', 'Total Area': '0.4500', 'Pot kharaba': '0.0000', 'Owner Name': 'साबुलाल बाबु जामुनकर', 'Khata No.': '29'}: 2024-08-05 11:10:42
+Plot info: {'Survey No.': '9', 'Total Area': '1.2600', 'Pot kharaba': '0.0000', 'Owner Name': 'किशोर मोतीराम मावस्कर, चंदु बाटू, मुंगीलाल बाटू मावस्कर, मंगराय साबुलाल, लाडकी ., सोनकली सालकू, किसन मोतीराम मावस्कर', 'Khata No.': '15'}: 2024-08-05 11:10:43
+Village '270700010064790000 रोरा' processed: 2024-08-05 11:10:44
+Time taken for village '270700010064790000 रोरा': 0:00:57.851535: 2024-08-05 11:10:44
+Script completed for village '270700010064790000 रोरा': 2024-08-05 11:10:47

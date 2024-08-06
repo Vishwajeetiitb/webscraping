@@ -1,0 +1,37 @@
+Error encountered: Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//mahabhunakasha.mahabhumi.gov.in/27/index.html&c=UTF-8&d=The%20server%20at%20mahabhunakasha.mahabhumi.gov.in%20is%20taking%20too%20long%20to%20respond.
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+UnknownError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:832:5
+checkReadyState@chrome://remote/content/marionette/navigate.sys.mjs:58:24
+onNavigation@chrome://remote/content/marionette/navigate.sys.mjs:330:39
+emit@resource://gre/modules/EventEmitter.sys.mjs:148:20
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteEventsParent.sys.mjs:33:25
+: 2024-08-05 15:16:36
+Opened the webpage: 2024-08-05 21:45:31
+Page loaded: 2024-08-05 21:45:31
+District folder '07 अमरावती' created or already exists: 2024-08-05 21:45:52
+Taluka folder '12 नांदगाव' created or already exists: 2024-08-05 21:45:54
+Plot info: {'Survey No.': '1/2', 'Total Area': '2.3700', 'Pot kharaba': '0.0000', 'Owner Name': 'कार्यकारी अभियंता अमरावती', 'Khata No.': '101'}: 2024-08-05 21:46:00
+Plot info: {'Survey No.': '10/2/ब', 'Total Area': '1.6700', 'Pot kharaba': '0.0000', 'Owner Name': 'कार्यकारी अभियंता अमरावती', 'Khata No.': '101'}: 2024-08-05 21:46:00
+Plot info: {'Survey No.': '11/2', 'Total Area': '1.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'महाविर मनोज जैन', 'Khata No.': '3388'}: 2024-08-05 21:46:01
+Plot info: {'Survey No.': '12/5', 'Total Area': '0.7800', 'Pot kharaba': '0.0300', 'Owner Name': 'कार्यकारी अभियंता अमरावती', 'Khata No.': '101'}: 2024-08-05 21:46:02
+Plot info: {'Survey No.': '13/2/ब', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'कार्यकारी अभियंता अमरावती', 'Khata No.': '101'}: 2024-08-05 21:46:03
+Plot info: {'Survey No.': '15/3', 'Total Area': '0.8300', 'Pot kharaba': '0.0000', 'Owner Name': 'कार्यकारी अभियंता अमरावती', 'Khata No.': '101'}: 2024-08-05 21:46:04
+Plot info: {'Survey No.': '16/4', 'Total Area': '1.2600', 'Pot kharaba': '0.0000', 'Owner Name': 'कार्यकारी अभियंता अमरावती', 'Khata No.': '101'}: 2024-08-05 21:46:05
+Plot info: {'Survey No.': '17', 'Total Area': '0.0000', 'Pot kharaba': '2.6800', 'Owner Name': 'ई क्लास चराई', 'Khata No.': '2012'}: 2024-08-05 21:46:05
+Plot info: {'Survey No.': '18/2/ब', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'श्रीकांत विजय येवले', 'Khata No.': '3387'}: 2024-08-05 21:46:06
+Plot info: {'Survey No.': '19', 'Total Area': '0.0000', 'Pot kharaba': '3.3800', 'Owner Name': 'कार्यकारी अभियंता अमरावती', 'Khata No.': '101'}: 2024-08-05 21:46:07
+Plot info: {'Survey No.': '2/5/ब', 'Total Area': '0.8300', 'Pot kharaba': '0.8300', 'Owner Name': 'कार्यकारी अभियंता अमरावती', 'Khata No.': '101'}: 2024-08-05 21:46:08
+Plot info: {'Survey No.': '20/3', 'Total Area': '1.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'तुषार दिवाकर शेटे', 'Khata No.': '3361'}: 2024-08-05 21:46:10
+Plot info: {'Survey No.': '21/2', 'Total Area': '0.8300', 'Pot kharaba': '0.0000', 'Owner Name': 'नमन अंकुश शेटे अ. पा. क. आई अश्विनी अंकुश शेटे', 'Khata No.': '3402'}: 2024-08-05 21:46:11
+Plot info: {'Survey No.': '22', 'Total Area': '0.7700', 'Pot kharaba': '0.0000', 'Owner Name': 'कार्यकारी अभियंता अमरावती', 'Khata No.': '101'}: 2024-08-05 21:46:13
+Plot info: {'Survey No.': '3', 'Total Area': '6.8400', 'Pot kharaba': '0.1500', 'Owner Name': 'कार्यकारी अभियंता अमरावती', 'Khata No.': '101'}: 2024-08-05 21:46:14
+Plot info: {'Survey No.': '5/4', 'Total Area': '1.0900', 'Pot kharaba': '0.0500', 'Owner Name': 'कार्यकारी अभियंता अमरावती', 'Khata No.': '101'}: 2024-08-05 21:46:15
+Plot info: {'Survey No.': '6/3', 'Total Area': '2.9700', 'Pot kharaba': '0.0500', 'Owner Name': 'कार्यकारी अभियंता अमरावती', 'Khata No.': '101'}: 2024-08-05 21:46:16
+Plot info: {'Survey No.': '7/2/ब', 'Total Area': '1.2500', 'Pot kharaba': '0.0000', 'Owner Name': 'पुरुषोत्तम हरिनारायण शेटे', 'Khata No.': '56'}: 2024-08-05 21:46:18
+Plot info: {'Survey No.': '8/2', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'राजाराम विठु काजे', 'Khata No.': '3354'}: 2024-08-05 21:46:20
+Plot info: {'Survey No.': '9/5', 'Total Area': '1.1000', 'Pot kharaba': '0.0200', 'Owner Name': 'कार्यकारी अभियंता अमरावती', 'Khata No.': '101'}: 2024-08-05 21:46:22
+Village '270700120080670000 फतेपुर' processed: 2024-08-05 21:46:22
+Time taken for village '270700120080670000 फतेपुर': 0:01:54.564201: 2024-08-05 21:46:22
+Script completed for village '270700120080670000 फतेपुर': 2024-08-05 21:46:24

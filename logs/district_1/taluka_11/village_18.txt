@@ -1,0 +1,18 @@
+Opened the webpage: 2024-08-05 16:53:56
+Page loaded: 2024-08-05 16:53:57
+District folder '07 अमरावती' created or already exists: 2024-08-05 16:54:21
+Taluka folder '10 भातकुली' created or already exists: 2024-08-05 16:54:29
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 16:54:59
+Timeout waiting for plot info for village '270700100077680000 काकरखेडा', option: 1: 2024-08-05 16:54:59
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 16:55:19
+Timeout waiting for plot info for village '270700100077680000 काकरखेडा', option: 2: 2024-08-05 16:55:19
+Plot info: {'Survey No.': '1', 'Total Area': '6.2400', 'Pot kharaba': '0.0000', 'Owner Name': 'सुनील दामोदर सोरटी, संजीव दामोदर सोरटी', 'Khata No.': '12'}: 2024-08-05 16:55:20
+Plot info: {'Survey No.': '2/3', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रकाश दत्तात्रय पांडे', 'Khata No.': '19'}: 2024-08-05 16:55:25
+Plot info: {'Survey No.': '4/5', 'Total Area': '0.3300', 'Pot kharaba': '0.0000', 'Owner Name': 'गोवर्धन दुर्योधन खेडकर, कृष्णाबाई नामदेव जुंबळे, पांडुरंग दुर्योधन खेडकर, मंजूरा शंकरराव गाडे, लिला श्रीकृष्ण खडसे', 'Khata No.': '14'}: 2024-08-05 16:55:30
+Plot info: {'Survey No.': '3/2', 'Total Area': '2.1400', 'Pot kharaba': '0.0000', 'Owner Name': 'सुधाकर देवराव देशमुख', 'Khata No.': '16'}: 2024-08-05 16:55:32
+Plot info: {'Survey No.': '5/4', 'Total Area': '0.8000', 'Pot kharaba': '0.0000', 'Owner Name': 'अनुसया रामराव भुजाडे', 'Khata No.': '68'}: 2024-08-05 16:55:35
+Plot info: {'Survey No.': '6/2', 'Total Area': '0.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'अ. वहीद शे. दुला', 'Khata No.': '4'}: 2024-08-05 16:55:43
+Plot info: {'Survey No.': '7/2', 'Total Area': '2.0800', 'Pot kharaba': '0.0000', 'Owner Name': 'फिरोज खान कैसर खान', 'Khata No.': '86'}: 2024-08-05 16:55:47
+Village '270700100077680000 काकरखेडा' processed: 2024-08-05 16:55:47
+Time taken for village '270700100077680000 काकरखेडा': 0:02:36.478079: 2024-08-05 16:55:47
+Script completed for village '270700100077680000 काकरखेडा': 2024-08-05 16:55:50

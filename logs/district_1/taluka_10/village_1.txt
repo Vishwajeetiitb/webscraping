@@ -1,0 +1,35 @@
+Opened the webpage: 2024-08-05 12:43:45
+Page loaded: 2024-08-05 12:43:45
+Error encountered: Message: Could not locate element with index 0; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+: 2024-08-05 12:43:51
+Opened the webpage: 2024-08-05 13:08:46
+Page loaded: 2024-08-05 13:08:46
+District folder '07 अमरावती' created or already exists: 2024-08-05 13:08:56
+Taluka folder '12 नांदगाव' created or already exists: 2024-08-05 13:09:01
+Plot info: {'Survey No.': '1/3', 'Total Area': '1.3500', 'Pot kharaba': '0.0000', 'Owner Name': 'सिंधु ज्ञानेश्वर वानखडे', 'Khata No.': '68'}: 2024-08-05 13:09:11
+Plot info: {'Survey No.': '10/3', 'Total Area': '1.6000', 'Pot kharaba': '0.0000', 'Owner Name': 'सविताबाई अशोक कणसे', 'Khata No.': '103'}: 2024-08-05 13:09:19
+Plot info: {'Survey No.': '11/3', 'Total Area': '1.0600', 'Pot kharaba': '0.0400', 'Owner Name': 'सचिन चंद्रभान देवतळे, सुषमा दिनेश बडवाईक, लता चंद्रभान देवतळे', 'Khata No.': '8'}: 2024-08-05 13:09:25
+Plot info: {'Survey No.': '12/5', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'रमेश यशवंत शिंदे', 'Khata No.': '81'}: 2024-08-05 13:09:32
+Plot info: {'Survey No.': '13/4', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'तिरुबाई मधुकर मेश्राम', 'Khata No.': '19'}: 2024-08-05 13:09:42
+Plot info: {'Survey No.': '14/4', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'मुरलीधर नारायणराव दामाडे', 'Khata No.': '67'}: 2024-08-05 13:09:46
+Plot info: {'Survey No.': '15/2', 'Total Area': '0.9100', 'Pot kharaba': '0.1000', 'Owner Name': 'सुनंदा नारायणराव स्थूल', 'Khata No.': '1103'}: 2024-08-05 13:09:51
+Plot info: {'Survey No.': '16/3', 'Total Area': '0.7800', 'Pot kharaba': '0.0300', 'Owner Name': 'अविनाश महादेव मेश्राम', 'Khata No.': '1099'}: 2024-08-05 13:09:55
+Plot info: {'Survey No.': '17/3', 'Total Area': '2.4200', 'Pot kharaba': '0.0000', 'Owner Name': 'बाळकृष्ण गोविदराव फुके', 'Khata No.': '1004'}: 2024-08-05 13:10:01
+Plot info: {'Survey No.': '18', 'Total Area': '0.0000', 'Pot kharaba': '7.1400', 'Owner Name': 'सरकार ई क्लास पडीत मोफत चराई', 'Khata No.': '1144'}: 2024-08-05 13:10:06
+Plot info: {'Survey No.': '19', 'Total Area': '5.3500', 'Pot kharaba': '1.7000', 'Owner Name': 'सरकार ई क्लास पडीत मोफत चराई', 'Khata No.': '1144'}: 2024-08-05 13:10:14
+Plot info: {'Survey No.': '2/6', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'सुधाकर बाळकृष्ण देवतळे', 'Khata No.': '51'}: 2024-08-05 13:10:18
+Plot info: {'Survey No.': '20/4', 'Total Area': '1.2000', 'Pot kharaba': '0.0000', 'Owner Name': 'मारोती चिंधु तेली वाघमारे, पाझर तलाव', 'Khata No.': '107'}: 2024-08-05 13:10:23
+Plot info: {'Survey No.': '21/4', 'Total Area': '1.2200', 'Pot kharaba': '0.0000', 'Owner Name': 'शांताबाई लक्ष्मण वाघमारे', 'Khata No.': '99'}: 2024-08-05 13:10:32
+Plot info: {'Survey No.': '22/3', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'शे.महमुद शे. रहिम', 'Khata No.': '49'}: 2024-08-05 13:10:42
+Plot info: {'Survey No.': '23/2', 'Total Area': '2.1100', 'Pot kharaba': '0.0900', 'Owner Name': 'गुनवंत पुंजाराम इटनकर', 'Khata No.': '26'}: 2024-08-05 13:10:56
+Plot info: {'Survey No.': '24', 'Total Area': '0.0000', 'Pot kharaba': '1.1400', 'Owner Name': 'एफ क्लास सरकारी पडीत', 'Khata No.': '1145'}: 2024-08-05 13:11:03
+Plot info: {'Survey No.': '3/2', 'Total Area': '1.6400', 'Pot kharaba': '0.0000', 'Owner Name': 'ओम गुणवंत इटनकर अ.पा.क आजोबा पुंजाराम नारायण इटनकर', 'Khata No.': '1114'}: 2024-08-05 13:11:10
+Plot info: {'Survey No.': '4/2/ब', 'Total Area': '2.0200', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक शामरावजी कनसे', 'Khata No.': '1087'}: 2024-08-05 13:11:16
+Plot info: {'Survey No.': '5/3/ब', 'Total Area': '1.1500', 'Pot kharaba': '0.0000', 'Owner Name': 'रोशन सुधाकर देवतळे', 'Khata No.': '1111'}: 2024-08-05 13:11:19
+Plot info: {'Survey No.': '6/3', 'Total Area': '1.7800', 'Pot kharaba': '0.0000', 'Owner Name': 'कल्पना योगेशे फुके', 'Khata No.': '1067'}: 2024-08-05 13:11:26
+Plot info: {'Survey No.': '7/5', 'Total Area': '1.2200', 'Pot kharaba': '0.0100', 'Owner Name': 'यमुना सुखदेव बारसे, वनिता सुरेश लिंगायत, राहुल सुखदेव बारसे, अशोक सुर्यभान बारसे', 'Khata No.': '75'}: 2024-08-05 13:11:38
+Plot info: {'Survey No.': '8/2/अ', 'Total Area': '0.9900', 'Pot kharaba': '0.0000', 'Owner Name': 'शालु लक्ष्मण रावेकर', 'Khata No.': '1158'}: 2024-08-05 13:11:55
+Plot info: {'Survey No.': '9/3', 'Total Area': '0.7500', 'Pot kharaba': '0.0000', 'Owner Name': 'यादवराव धनाजी बारसे', 'Khata No.': '1153'}: 2024-08-05 13:12:08
+Village '270700120081590000 अजमतपुर' processed: 2024-08-05 13:12:08
+Time taken for village '270700120081590000 अजमतपुर': 0:03:39.587108: 2024-08-05 13:12:08
+Script completed for village '270700120081590000 अजमतपुर': 2024-08-05 13:12:11

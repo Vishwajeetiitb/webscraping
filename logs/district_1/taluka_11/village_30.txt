@@ -1,0 +1,25 @@
+Opened the webpage: 2024-08-05 17:48:37
+Page loaded: 2024-08-05 17:48:37
+District folder '07 अमरावती' created or already exists: 2024-08-05 17:48:43
+Taluka folder '10 भातकुली' created or already exists: 2024-08-05 17:48:44
+Plot info: {'Survey No.': '1', 'Total Area': '1.7700', 'Pot kharaba': '0.0000', 'Owner Name': 'अमोल प्रभाकरराव कोराट, प्रतिभा नरेंद्र डाहाके, रत्नकला मधुकर कोराट, रविंद्र मधुकर कोराट, र्सा.ताई शेषराव डोगरे, सौ मंदा रामकृष्\u200dण डाखोरे, संतोष मधुकर कोराट, संदीप प्रभाकरराव कोराट, बेबीताई प्रभाकरराव कोराट', 'Khata No.': '2'}: 2024-08-05 17:48:49
+Plot info: {'Survey No.': '10', 'Total Area': '0.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'श्रीराम शंकर मानकर', 'Khata No.': '31'}: 2024-08-05 17:48:50
+Plot info: {'Survey No.': '12', 'Total Area': '1.8000', 'Pot kharaba': '0.0200', 'Owner Name': 'आत्\u200dमाराम शंकरराव मानकर', 'Khata No.': '30'}: 2024-08-05 17:48:50
+Plot info: {'Survey No.': '13', 'Total Area': '1.8300', 'Pot kharaba': '0.0200', 'Owner Name': 'शोभाताई श्रीकुष्ण चावरे', 'Khata No.': '11'}: 2024-08-05 17:48:51
+Plot info: {'Survey No.': '14/अ', 'Total Area': '0.6000', 'Pot kharaba': '0.0000', 'Owner Name': 'राजेद्र विठठलराव कोराट', 'Khata No.': '10'}: 2024-08-05 17:49:00
+Plot info: {'Survey No.': '15', 'Total Area': '2.3200', 'Pot kharaba': '0.0000', 'Owner Name': 'शोभाताई श्रीकुष्ण चावरे', 'Khata No.': '11'}: 2024-08-05 17:49:00
+Plot info: {'Survey No.': '16', 'Total Area': '1.2000', 'Pot kharaba': '0.0000', 'Owner Name': 'ऋषिकेश गजानन वानखडे', 'Khata No.': '42'}: 2024-08-05 17:49:03
+Plot info: {'Survey No.': '17', 'Total Area': '0.3800', 'Pot kharaba': '0.0500', 'Owner Name': 'गजानन वामन चावरे, धनराज वामन चावरे, सौ.सुनिता गजानन भिसे, लिलाबाई वामन चावरे', 'Khata No.': '12'}: 2024-08-05 17:49:04
+Plot info: {'Survey No.': '18', 'Total Area': '2.1000', 'Pot kharaba': '0.0000', 'Owner Name': 'मारोती नामदेव कोराट', 'Khata No.': '8'}: 2024-08-05 17:49:05
+Plot info: {'Survey No.': '2', 'Total Area': '0.8000', 'Pot kharaba': '0.0000', 'Owner Name': 'अमोल प्रभाकरराव कोराट, संदीप प्रभाकरराव कोराट, बेबीताई प्रभाकरराव कोराट', 'Khata No.': '5'}: 2024-08-05 17:49:06
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 17:49:26
+Plot info: {'Survey No.': '3', 'Total Area': '2.3700', 'Pot kharaba': '0.0000', 'Owner Name': 'काशीनाथ सुखदेव धांडगे', 'Khata No.': '1'}: 2024-08-05 17:49:26
+Plot info: {'Survey No.': '4', 'Total Area': '0.0000', 'Pot kharaba': '1.2000', 'Owner Name': 'सरकार (गावठाण)', 'Khata No.': '34'}: 2024-08-05 17:49:27
+Plot info: {'Survey No.': '5', 'Total Area': '1.2100', 'Pot kharaba': '0.1700', 'Owner Name': 'रमाबाई नागोराव मानकर', 'Khata No.': '7'}: 2024-08-05 17:49:28
+Plot info: {'Survey No.': '6', 'Total Area': '1.5400', 'Pot kharaba': '0.0000', 'Owner Name': 'गोपाळ नागोराव मानकर', 'Khata No.': '22'}: 2024-08-05 17:49:30
+Plot info: {'Survey No.': '7', 'Total Area': '1.4400', 'Pot kharaba': '0.0000', 'Owner Name': 'निवृत्ती वासुदेव मानकर, श्रीमती रत्ना ज वासुदेव मानकर, सोपान वासुदेव मानकर, सौ ज्योती विनोद चुनतकार, ज्ञानदेव वासुदेव मानकर', 'Khata No.': '9'}: 2024-08-05 17:49:30
+Plot info: {'Survey No.': '8', 'Total Area': '1.1400', 'Pot kharaba': '0.0000', 'Owner Name': 'नागोराव गोविदं मानकर', 'Khata No.': '3'}: 2024-08-05 17:49:31
+Plot info: {'Survey No.': '9', 'Total Area': '0.6300', 'Pot kharaba': '0.0000', 'Owner Name': 'बाबाराव कीसनराव मानकर', 'Khata No.': '19'}: 2024-08-05 17:49:32
+Village '270700100078670000 खानापुर' processed: 2024-08-05 17:49:32
+Time taken for village '270700100078670000 खानापुर': 0:00:59.019220: 2024-08-05 17:49:32
+Script completed for village '270700100078670000 खानापुर': 2024-08-05 17:49:35

@@ -1,0 +1,18 @@
+Opened the webpage: 2024-08-05 21:48:08
+Page loaded: 2024-08-05 21:48:08
+District folder '07 अमरावती' created or already exists: 2024-08-05 21:48:16
+Taluka folder '06 मोर्शी' created or already exists: 2024-08-05 21:48:19
+Plot info: {'Survey No.': '1/4', 'Total Area': '0.9700', 'Pot kharaba': '0.0000', 'Owner Name': 'सूधाकर अजाब लूंगे', 'Khata No.': '8'}: 2024-08-05 21:48:29
+Plot info: {'Survey No.': '10/8', 'Total Area': '1.0100', 'Pot kharaba': '0.0000', 'Owner Name': 'निता सूभाष ठवळी, पवन सूभाष ठवळी, चंदा सूभाष ठवळी, गजानन सूभाष ठवळी', 'Khata No.': '37'}: 2024-08-05 21:48:30
+Plot info: {'Survey No.': '2/4', 'Total Area': '0.4400', 'Pot kharaba': '0.0000', 'Owner Name': 'गंगाधर मधुकरराव लुंगे, वर्षा दिवाकर पाथरे, अजय मधुकरराव लुंगे, अनुसया मधुकरराव लुंगे, प्रदिप मधुकरराव लुंगे', 'Khata No.': '21'}: 2024-08-05 21:48:31
+Plot info: {'Survey No.': '3', 'Total Area': '0.9600', 'Pot kharaba': '0.0000', 'Owner Name': 'शालीकराम पंजाब नाखले', 'Khata No.': '94'}: 2024-08-05 21:48:32
+Plot info: {'Survey No.': '4/3', 'Total Area': '0.0000', 'Pot kharaba': '0.0400', 'Owner Name': 'कार्यकारी अभियंता , सार्वजनिक बांधकाम विभाग , अमरावती', 'Khata No.': '76'}: 2024-08-05 21:48:34
+Plot info: {'Survey No.': '5', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'सतीश नथ्थूजी काळे', 'Khata No.': '45'}: 2024-08-05 21:48:36
+Plot info: {'Survey No.': '6/2', 'Total Area': '1.7700', 'Pot kharaba': '0.0000', 'Owner Name': 'वैशाली राजेंद्र वानखडे', 'Khata No.': '80'}: 2024-08-05 21:48:37
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 21:48:59
+Plot info: {'Survey No.': '7/3', 'Total Area': '1.8100', 'Pot kharaba': '0.0500', 'Owner Name': 'सुवर्णा राजेंद्र निघोट, चंद्रकला रामदास निघोट', 'Khata No.': '6'}: 2024-08-05 21:49:00
+Plot info: {'Survey No.': '8/2/अ', 'Total Area': '1.4600', 'Pot kharaba': '0.0500', 'Owner Name': 'नलीनीबाई शिवाजी थापे', 'Khata No.': '90'}: 2024-08-05 21:49:02
+Plot info: {'Survey No.': '9/7', 'Total Area': '0.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक अजाबराव उंदरे', 'Khata No.': '20'}: 2024-08-05 21:49:05
+Village '270700060073580000 जयमलपूर' processed: 2024-08-05 21:49:05
+Time taken for village '270700060073580000 जयमलपूर': 0:02:01.604039: 2024-08-05 21:49:05
+Script completed for village '270700060073580000 जयमलपूर': 2024-08-05 21:49:12

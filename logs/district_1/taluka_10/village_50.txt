@@ -1,0 +1,43 @@
+Opened the webpage: 2024-08-05 14:39:37
+Page loaded: 2024-08-05 14:39:37
+District folder '07 अमरावती' created or already exists: 2024-08-05 14:39:49
+Taluka folder '12 नांदगाव' created or already exists: 2024-08-05 14:39:52
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 14:40:18
+Error encountered: name 'processed_villages' is not defined: 2024-08-05 14:40:18
+Script completed for village '270700120080870000 टाकळी गिलबा': 2024-08-05 14:40:21
+Opened the webpage: 2024-08-05 21:21:17
+Page loaded: 2024-08-05 21:21:17
+District folder '07 अमरावती' created or already exists: 2024-08-05 21:21:25
+Taluka folder '12 नांदगाव' created or already exists: 2024-08-05 21:21:26
+Plot info: {'Survey No.': '1', 'Total Area': '1.5300', 'Pot kharaba': '0.0000', 'Owner Name': 'एफ क्लास .', 'Khata No.': '90'}: 2024-08-05 21:21:29
+Plot info: {'Survey No.': '10/3', 'Total Area': '0.8400', 'Pot kharaba': '0.0000', 'Owner Name': 'रंजित रामदास दंदे', 'Khata No.': '45'}: 2024-08-05 21:21:31
+Plot info: {'Survey No.': '11/2/ब', 'Total Area': '1.1900', 'Pot kharaba': '0.0000', 'Owner Name': 'अजय सुभाष अढाऊ', 'Khata No.': '1637'}: 2024-08-05 21:21:32
+Plot info: {'Survey No.': '12/4', 'Total Area': '0.8600', 'Pot kharaba': '0.0000', 'Owner Name': 'अनिल बाबुसिंग पवार', 'Khata No.': '1605'}: 2024-08-05 21:21:33
+Plot info: {'Survey No.': '13/2', 'Total Area': '3.3700', 'Pot kharaba': '0.0000', 'Owner Name': 'कमलाबाई धनराज तलवारे', 'Khata No.': '10'}: 2024-08-05 21:21:34
+Plot info: {'Survey No.': '14', 'Total Area': '5.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'आशिष धनराज तलवारे, उज्वला धनराज तलवारे, चैतन्\u200dय धनराज तलवारे, प्रीतीबाला प्रशांत खिराडे, मनिष धनराज तलवारे', 'Khata No.': '150'}: 2024-08-05 21:21:35
+Plot info: {'Survey No.': '15/1/ब', 'Total Area': '0.8600', 'Pot kharaba': '0.0000', 'Owner Name': 'कन्हैया संजय गिलबे अपाक निर्मला संजय गिलबे', 'Khata No.': '1609'}: 2024-08-05 21:21:35
+Plot info: {'Survey No.': '16/2', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'अंबादास आनंदराव कटके', 'Khata No.': '1'}: 2024-08-05 21:21:36
+Plot info: {'Survey No.': '17', 'Total Area': '7.4900', 'Pot kharaba': '0.0000', 'Owner Name': 'एफ क्लास .', 'Khata No.': '90'}: 2024-08-05 21:21:37
+Plot info: {'Survey No.': '18/2', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'युवराज रामदास पवार', 'Khata No.': '58'}: 2024-08-05 21:21:38
+Plot info: {'Survey No.': '19/3', 'Total Area': '0.4100', 'Pot kharaba': '0.0000', 'Owner Name': 'सौ ललिता वासुदेव आडे', 'Khata No.': '25'}: 2024-08-05 21:21:39
+Plot info: {'Survey No.': '2/2/ब', 'Total Area': '0.8600', 'Pot kharaba': '0.0000', 'Owner Name': 'तुळशीराम चंपत इंगोले, अतुल तुळशीराम इंगोले, निलेश तुळशीराम इंगोले, सौ प्रगती रत्नेश सोनोने', 'Khata No.': '84'}: 2024-08-05 21:21:40
+Plot info: {'Survey No.': '20/7', 'Total Area': '0.8300', 'Pot kharaba': '0.0300', 'Owner Name': 'रामजी लक्ष्\u200dमण चव्\u200dहाण', 'Khata No.': '1631'}: 2024-08-05 21:21:41
+Plot info: {'Survey No.': '21/2', 'Total Area': '10.4300', 'Pot kharaba': '0.0000', 'Owner Name': 'काशिनाथ रामराव भडगे, श्री मारोती संस्थान पिंप्री तर्फे गुनाबाई, सचिन माणिकराव रिठे, नरेश मनोहर उईके', 'Khata No.': '44'}: 2024-08-05 21:21:43
+Plot info: {'Survey No.': '22/2', 'Total Area': '1.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'बाबुसिंग भिकराम पवार', 'Khata No.': '6'}: 2024-08-05 21:21:43
+Plot info: {'Survey No.': '23/2', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'शामराव भिकराम पवार', 'Khata No.': '78'}: 2024-08-05 21:21:45
+Plot info: {'Survey No.': '24/2', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'वसंत चंपत मांडवगडे', 'Khata No.': '1665'}: 2024-08-05 21:21:46
+Plot info: {'Survey No.': '25', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रशांत उत्तमराव निंघोट', 'Khata No.': '98'}: 2024-08-05 21:21:48
+Plot info: {'Survey No.': '26/5', 'Total Area': '1.3100', 'Pot kharaba': '0.0000', 'Owner Name': 'मधुकर हरीरामजी गायगोले', 'Khata No.': '1670'}: 2024-08-05 21:21:48
+Plot info: {'Survey No.': '27/2', 'Total Area': '1.5200', 'Pot kharaba': '0.1200', 'Owner Name': 'ऋचा संजिव पांडे, ऋग्वेद संजिव पांडे, क्षमा संजिव पांडे', 'Khata No.': '17'}: 2024-08-05 21:21:50
+Plot info: {'Survey No.': '28/2', 'Total Area': '3.2300', 'Pot kharaba': '0.0000', 'Owner Name': 'शालीकराम माणिकराव गिलबे', 'Khata No.': '1611'}: 2024-08-05 21:21:51
+Plot info: {'Survey No.': '29', 'Total Area': '2.8200', 'Pot kharaba': '0.3600', 'Owner Name': 'कांता दिनकर टाले, गुलाब बापूराव गिलबे, ताराबाई गणेश बोरकर, दत्ता रघुनाथ गिलबे, दादाराव दवलत गिलबे, पांडुरंग चंद्रभान गिलबे, पंजाब बापूराव गिलबे, प्रकाश रघुनाथ गिलबे, बाबाराव बापूराव गिलबे, बेबी सुरेश मुंदे, भिमराव भगवान, मनकर्णा महादेव डुकरे, मनोहर दवलत गिलबे, महादेव अवधुत गिलबे, माणीक अवधुत गिलबे, मिरा सुधाकर म्हसके, मोतीराम भगवान, लताबाई सुभाष बारड, वच्छला दवलत गिलबे, शामराव भगवान, शंकरराव दवलत गिलबे, सहदेव अवधुत गिलबे, सुमित्रा रघुनाथ गिलबे, सौ गुंफा रामेश्वर काजे, गयाबाई बापूराव गिलबे', 'Khata No.': '9'}: 2024-08-05 21:21:53
+Plot info: {'Survey No.': '3/2/ब', 'Total Area': '1.6000', 'Pot kharaba': '0.0000', 'Owner Name': 'चंद्रशेखर दौलत अढाऊ, प्रदिप दौलत अढाऊ', 'Khata No.': '143'}: 2024-08-05 21:21:54
+Plot info: {'Survey No.': '4/3/ब', 'Total Area': '0.8300', 'Pot kharaba': '0.0000', 'Owner Name': 'शांताबाई ज चिंतामण ढबाले', 'Khata No.': '79'}: 2024-08-05 21:21:55
+Plot info: {'Survey No.': '5/2/ब', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'महेंन्द्र रामदास दंदे', 'Khata No.': '31'}: 2024-08-05 21:21:56
+Plot info: {'Survey No.': '6/2', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रविन अमरसिंग पवार, सुनिता अमरसिंग पवार, उषा अमरसिंग पवार', 'Khata No.': '113'}: 2024-08-05 21:21:58
+Plot info: {'Survey No.': '7/2', 'Total Area': '1.6900', 'Pot kharaba': '0.0000', 'Owner Name': 'जया अमोल म्हस्के', 'Khata No.': '1627'}: 2024-08-05 21:21:59
+Plot info: {'Survey No.': '8', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'शितल प्रकाश मंडवधरे, कोमल प्रकाश मंडवधरे, मधुकर पुंडलिकराव मंडवधरे, पंकज प्रकाश मंडवधरे, शालू प्रकाश मंडवधरे', 'Khata No.': '155'}: 2024-08-05 21:22:00
+Plot info: {'Survey No.': '9/4', 'Total Area': '1.7600', 'Pot kharaba': '0.0000', 'Owner Name': 'रामदास हरीभाऊ दंदे', 'Khata No.': '23'}: 2024-08-05 21:22:01
+Village '270700120080870000 टाकळी गिलबा' processed: 2024-08-05 21:22:02
+Time taken for village '270700120080870000 टाकळी गिलबा': 0:01:22.552136: 2024-08-05 21:22:02
+Script completed for village '270700120080870000 टाकळी गिलबा': 2024-08-05 21:22:04

@@ -1,0 +1,77 @@
+Opened the webpage: 2024-08-05 15:04:08
+Page loaded: 2024-08-05 15:04:08
+District folder '07 अमरावती' created or already exists: 2024-08-05 15:04:17
+Taluka folder '12 नांदगाव' created or already exists: 2024-08-05 15:04:20
+Plot info: {'Survey No.': '1/2', 'Total Area': '0.5400', 'Pot kharaba': '0.0000', 'Owner Name': 'उषा राजेन्\u200dद्र गोरले, किशोर निळकंठ भेंडे, कु प्रमिला निळकंठ भेंडे, कुमुद सतीश भेंडे, कु.स्नेहल सतीश भेंडे, गं.भा.विमलाबाई अन्नाजी भेंडे, अरुणा राजेन्\u200dद्र कोल्\u200dहे, निळकंठ नामदेव भेंडे, प्रतिभा अनिल खडसे, प्रतीक सतीश भेंडे, भगवान निळकंठ भेंडे, सौ.छाया भगवंत इंगोले, सौ.माया अशोक कानफाडे, प्रदिप अन्ना भेंडे, दिपक निळकंठ भेंडे, अ.पा.क.आई कुमुद सतीश भेंडे', 'Khata No.': '87'}: 2024-08-05 15:04:28
+Plot info: {'Survey No.': '10/2/अ', 'Total Area': '1.4200', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रभाकर उध्दव सरदार', 'Khata No.': '37'}: 2024-08-05 15:04:33
+Plot info: {'Survey No.': '11/4', 'Total Area': '5.3800', 'Pot kharaba': '0.0700', 'Owner Name': 'शोभा शाम भेंडे', 'Khata No.': '194'}: 2024-08-05 15:04:37
+Plot info: {'Survey No.': '12/5/ब', 'Total Area': '1.0100', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रविण हरिनारायण भेंडे', 'Khata No.': '1601'}: 2024-08-05 15:04:41
+Plot info: {'Survey No.': '13', 'Total Area': '3.3200', 'Pot kharaba': '0.0000', 'Owner Name': 'पुष्पा अजय गोयल', 'Khata No.': '1631'}: 2024-08-05 15:04:42
+Plot info: {'Survey No.': '14/3', 'Total Area': '1.0800', 'Pot kharaba': '0.0000', 'Owner Name': 'नथ्थु आकाराम अढायके', 'Khata No.': '31'}: 2024-08-05 15:04:44
+Plot info: {'Survey No.': '15', 'Total Area': '5.7200', 'Pot kharaba': '0.0000', 'Owner Name': 'शाम शाहुराव भेंडे', 'Khata No.': '79'}: 2024-08-05 15:04:46
+Plot info: {'Survey No.': '16/8', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'संतोष अंबादास खरड', 'Khata No.': '96'}: 2024-08-05 15:04:49
+Plot info: {'Survey No.': '17', 'Total Area': '2.4200', 'Pot kharaba': '0.0000', 'Owner Name': 'देविदास किसनराव बांडाबुचे', 'Khata No.': '1620'}: 2024-08-05 15:04:52
+Plot info: {'Survey No.': '18', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'निर्मला विलासराव कदम, सरला प्रभाकरराव ठाकरे', 'Khata No.': '1567'}: 2024-08-05 15:04:54
+Plot info: {'Survey No.': '19/2', 'Total Area': '2.1600', 'Pot kharaba': '0.0000', 'Owner Name': 'ऋषिकेश मिलिंद बान्ते, कुसुम नारायण बान्ते, वृषाली मिलिंद बान्ते, सुनिता मिलिंद बान्ते, सुशील नारायण बान्ते, संगिता नारायण बान्ते', 'Khata No.': '1569'}: 2024-08-05 15:04:56
+Plot info: {'Survey No.': '2/3', 'Total Area': '0.7700', 'Pot kharaba': '0.0400', 'Owner Name': 'भगवंत निळकंठ भेंडे', 'Khata No.': '50'}: 2024-08-05 15:05:00
+Plot info: {'Survey No.': '20', 'Total Area': '10.9900', 'Pot kharaba': '0.0000', 'Owner Name': 'मिलींद प्रभाकर भेंडे', 'Khata No.': '62'}: 2024-08-05 15:05:04
+Plot info: {'Survey No.': '21', 'Total Area': '4.4500', 'Pot kharaba': '0.0600', 'Owner Name': 'ऋतुजा प्रदीप भेंडे, संकेत प्रदीप भेंडे, शैला प्रदीप भेंडे', 'Khata No.': '548'}: 2024-08-05 15:05:15
+Plot info: {'Survey No.': '22/2', 'Total Area': '2.4000', 'Pot kharaba': '0.0000', 'Owner Name': 'अरुणा रविंद्र कोल्हे', 'Khata No.': '1615'}: 2024-08-05 15:05:24
+Plot info: {'Survey No.': '23/4', 'Total Area': '1.5500', 'Pot kharaba': '0.0700', 'Owner Name': 'दिपक वासुदेवराव उरकुडकार', 'Khata No.': '1530'}: 2024-08-05 15:05:38
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 15:05:58
+Error encountered: name 'processed_villages' is not defined: 2024-08-05 15:05:58
+Script completed for village '270700120080250000 निरसाना': 2024-08-05 15:06:01
+Opened the webpage: 2024-08-05 21:34:11
+Page loaded: 2024-08-05 21:34:11
+District folder '07 अमरावती' created or already exists: 2024-08-05 21:34:19
+Taluka folder '12 नांदगाव' created or already exists: 2024-08-05 21:34:20
+Plot info: {'Survey No.': '1/2', 'Total Area': '0.5400', 'Pot kharaba': '0.0000', 'Owner Name': 'उषा राजेन्\u200dद्र गोरले, किशोर निळकंठ भेंडे, कु प्रमिला निळकंठ भेंडे, कुमुद सतीश भेंडे, कु.स्नेहल सतीश भेंडे, गं.भा.विमलाबाई अन्नाजी भेंडे, अरुणा राजेन्\u200dद्र कोल्\u200dहे, निळकंठ नामदेव भेंडे, प्रतिभा अनिल खडसे, प्रतीक सतीश भेंडे, भगवान निळकंठ भेंडे, सौ.छाया भगवंत इंगोले, सौ.माया अशोक कानफाडे, प्रदिप अन्ना भेंडे, दिपक निळकंठ भेंडे, अ.पा.क.आई कुमुद सतीश भेंडे', 'Khata No.': '87'}: 2024-08-05 21:34:26
+Plot info: {'Survey No.': '10/2/अ', 'Total Area': '1.4200', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रभाकर उध्दव सरदार', 'Khata No.': '37'}: 2024-08-05 21:34:27
+Plot info: {'Survey No.': '11/4', 'Total Area': '5.3800', 'Pot kharaba': '0.0700', 'Owner Name': 'शोभा शाम भेंडे', 'Khata No.': '194'}: 2024-08-05 21:34:28
+Plot info: {'Survey No.': '12/5/ब', 'Total Area': '1.0100', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रविण हरिनारायण भेंडे', 'Khata No.': '1601'}: 2024-08-05 21:34:29
+Plot info: {'Survey No.': '13', 'Total Area': '3.3200', 'Pot kharaba': '0.0000', 'Owner Name': 'पुष्पा अजय गोयल', 'Khata No.': '1631'}: 2024-08-05 21:34:30
+Plot info: {'Survey No.': '14/3', 'Total Area': '1.0800', 'Pot kharaba': '0.0000', 'Owner Name': 'नथ्थु आकाराम अढायके', 'Khata No.': '31'}: 2024-08-05 21:34:30
+Plot info: {'Survey No.': '15', 'Total Area': '5.7200', 'Pot kharaba': '0.0000', 'Owner Name': 'शाम शाहुराव भेंडे', 'Khata No.': '79'}: 2024-08-05 21:34:31
+Plot info: {'Survey No.': '16/8', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'संतोष अंबादास खरड', 'Khata No.': '96'}: 2024-08-05 21:34:32
+Plot info: {'Survey No.': '17', 'Total Area': '2.4200', 'Pot kharaba': '0.0000', 'Owner Name': 'देविदास किसनराव बांडाबुचे', 'Khata No.': '1620'}: 2024-08-05 21:34:33
+Plot info: {'Survey No.': '18', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'निर्मला विलासराव कदम, सरला प्रभाकरराव ठाकरे', 'Khata No.': '1567'}: 2024-08-05 21:34:34
+Plot info: {'Survey No.': '19/2', 'Total Area': '2.1600', 'Pot kharaba': '0.0000', 'Owner Name': 'ऋषिकेश मिलिंद बान्ते, कुसुम नारायण बान्ते, वृषाली मिलिंद बान्ते, सुनिता मिलिंद बान्ते, सुशील नारायण बान्ते, संगिता नारायण बान्ते', 'Khata No.': '1569'}: 2024-08-05 21:34:35
+Plot info: {'Survey No.': '2/3', 'Total Area': '0.7700', 'Pot kharaba': '0.0400', 'Owner Name': 'भगवंत निळकंठ भेंडे', 'Khata No.': '50'}: 2024-08-05 21:34:36
+Plot info: {'Survey No.': '20', 'Total Area': '10.9900', 'Pot kharaba': '0.0000', 'Owner Name': 'मिलींद प्रभाकर भेंडे', 'Khata No.': '62'}: 2024-08-05 21:34:37
+Plot info: {'Survey No.': '21', 'Total Area': '4.4500', 'Pot kharaba': '0.0600', 'Owner Name': 'ऋतुजा प्रदीप भेंडे, संकेत प्रदीप भेंडे, शैला प्रदीप भेंडे', 'Khata No.': '548'}: 2024-08-05 21:34:38
+Plot info: {'Survey No.': '22/2', 'Total Area': '2.4000', 'Pot kharaba': '0.0000', 'Owner Name': 'अरुणा रविंद्र कोल्हे', 'Khata No.': '1615'}: 2024-08-05 21:34:38
+Plot info: {'Survey No.': '23/4', 'Total Area': '1.5500', 'Pot kharaba': '0.0700', 'Owner Name': 'दिपक वासुदेवराव उरकुडकार', 'Khata No.': '1530'}: 2024-08-05 21:34:39
+Plot info: {'Survey No.': '24/3', 'Total Area': '1.4700', 'Pot kharaba': '0.0000', 'Owner Name': 'भगवंत निळकंठ भेंडे', 'Khata No.': '50'}: 2024-08-05 21:34:40
+Plot info: {'Survey No.': '25/2', 'Total Area': '2.0200', 'Pot kharaba': '0.0000', 'Owner Name': 'सुभाष टिल्लूलाल यादव', 'Khata No.': '1554'}: 2024-08-05 21:34:41
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 21:35:02
+Plot info: {'Survey No.': '26', 'Total Area': '6.9700', 'Pot kharaba': '0.0000', 'Owner Name': 'अभय प्रभाकर भेंडे', 'Khata No.': '2'}: 2024-08-05 21:35:02
+Plot info: {'Survey No.': '27/4', 'Total Area': '1.4700', 'Pot kharaba': '0.2700', 'Owner Name': 'प्रेमिला रामदास टाले, राजेंद्र रामदास टाले, उज्वला राजेश काळे, कल्पना विजय टाले, गौरी विजय टाले अ पा क आई कल्पना विजय टाले, पायल विजय टाले अ पा क आई कल्पना विजय टाले', 'Khata No.': '1639'}: 2024-08-05 21:35:04
+Plot info: {'Survey No.': '28/6', 'Total Area': '0.8600', 'Pot kharaba': '0.0000', 'Owner Name': 'दिवाकर शेषराव भोयर', 'Khata No.': '7'}: 2024-08-05 21:35:05
+Plot info: {'Survey No.': '29', 'Total Area': '0.0000', 'Pot kharaba': '7.3200', 'Owner Name': 'सरकार ई क्लास', 'Khata No.': '120'}: 2024-08-05 21:35:06
+Plot info: {'Survey No.': '3/2', 'Total Area': '1.9800', 'Pot kharaba': '0.0000', 'Owner Name': 'पल्लवी प्रशांत भेंडे', 'Khata No.': '1637'}: 2024-08-05 21:35:08
+Plot info: {'Survey No.': '30', 'Total Area': '0.1900', 'Pot kharaba': '0.0000', 'Owner Name': 'अभय प्रभाकर भेंडे, मिलींद प्रभाकर भेंडे, सुचिताबाई प्रभाकर भेंडे, मनोज प्रभाकर भेंडे', 'Khata No.': '56'}: 2024-08-05 21:35:10
+Plot info: {'Survey No.': '31', 'Total Area': '0.0000', 'Pot kharaba': '7.0100', 'Owner Name': 'सरकार ई क्लास', 'Khata No.': '120'}: 2024-08-05 21:35:11
+Plot info: {'Survey No.': '32', 'Total Area': '0.0000', 'Pot kharaba': '2.0400', 'Owner Name': 'सरकार ई क्लास', 'Khata No.': '120'}: 2024-08-05 21:35:12
+Plot info: {'Survey No.': '33/3', 'Total Area': '1.6100', 'Pot kharaba': '0.0000', 'Owner Name': 'आकाश रामदास सैरीसे', 'Khata No.': '1593'}: 2024-08-05 21:35:23
+Plot info: {'Survey No.': '34/3/अ', 'Total Area': '1.1000', 'Pot kharaba': '0.0000', 'Owner Name': 'अर्चना नरेश अघम', 'Khata No.': '1608'}: 2024-08-05 21:35:30
+Plot info: {'Survey No.': '35', 'Total Area': '0.0000', 'Pot kharaba': '1.2400', 'Owner Name': 'सरकार ई क्लास', 'Khata No.': '120'}: 2024-08-05 21:35:36
+Plot info: {'Survey No.': '36', 'Total Area': '0.0000', 'Pot kharaba': '9.6200', 'Owner Name': 'सरकार ई क्लास', 'Khata No.': '120'}: 2024-08-05 21:35:41
+Plot info: {'Survey No.': '37', 'Total Area': '0.0000', 'Pot kharaba': '9.1100', 'Owner Name': 'सरकार ई क्लास', 'Khata No.': '120'}: 2024-08-05 21:35:51
+Plot info: {'Survey No.': '38', 'Total Area': '3.4400', 'Pot kharaba': '0.0000', 'Owner Name': 'सकस आहार योजना ग्रा प खिरसाना', 'Khata No.': '1582'}: 2024-08-05 21:35:59
+Plot info: {'Survey No.': '39', 'Total Area': '5.6800', 'Pot kharaba': '0.0000', 'Owner Name': 'सरिता मिलिंद भेंडे', 'Khata No.': '57'}: 2024-08-05 21:36:06
+Plot info: {'Survey No.': '4/2', 'Total Area': '3.1300', 'Pot kharaba': '0.0000', 'Owner Name': 'अलकाबाई रत्नाकरआप्पा पंतगराय', 'Khata No.': '1509'}: 2024-08-05 21:36:08
+Plot info: {'Survey No.': '40/4/अ', 'Total Area': '0.9200', 'Pot kharaba': '0.0000', 'Owner Name': 'ज्योती देविदास खरड', 'Khata No.': '1609'}: 2024-08-05 21:36:09
+Plot info: {'Survey No.': '41/3', 'Total Area': '0.8100', 'Pot kharaba': '0.0800', 'Owner Name': 'जिवन मधुकरराव भेंडे', 'Khata No.': '1610'}: 2024-08-05 21:36:10
+Plot info: {'Survey No.': '42', 'Total Area': '0.0000', 'Pot kharaba': '2.5700', 'Owner Name': 'सरकार ई क्लास', 'Khata No.': '120'}: 2024-08-05 21:36:14
+Plot info: {'Survey No.': '43', 'Total Area': '2.1100', 'Pot kharaba': '0.0000', 'Owner Name': 'दिलीप केशव भेंडे', 'Khata No.': '26'}: 2024-08-05 21:36:15
+Plot info: {'Survey No.': '44/3', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'श्रीकृष्ण नारायण पोहोकार', 'Khata No.': '86'}: 2024-08-05 21:36:16
+Plot info: {'Survey No.': '45/5', 'Total Area': '1.1300', 'Pot kharaba': '0.0800', 'Owner Name': 'रेखा मनोहर ठाकरे, विनोद जानराव काळे, शरद जानराव काळे', 'Khata No.': '49'}: 2024-08-05 21:36:17
+Plot info: {'Survey No.': '46/2', 'Total Area': '1.2600', 'Pot kharaba': '0.0400', 'Owner Name': 'अनिल शंकर कटकतलवारे, गुणवंत शंकर कटकतलवारे, पुष्पा राजू खडसे, वंदना विजय वानखडे, कलावंती शंकर कटकतलवारे', 'Khata No.': '122'}: 2024-08-05 21:36:18
+Plot info: {'Survey No.': '5/7', 'Total Area': '1.2300', 'Pot kharaba': '0.0000', 'Owner Name': 'भिमराव जयराम सयाम', 'Khata No.': '53'}: 2024-08-05 21:36:22
+Plot info: {'Survey No.': '6/2', 'Total Area': '3.2500', 'Pot kharaba': '0.0000', 'Owner Name': 'निखील सुरेशआप्पा पतंगराय, मिलिंद सुरेशआप्पा पतंगराय', 'Khata No.': '90'}: 2024-08-05 21:36:26
+Plot info: {'Survey No.': '7/2/ब', 'Total Area': '0.9300', 'Pot kharaba': '0.0000', 'Owner Name': 'श्रीश जितेंन्द्र गजबे', 'Khata No.': '1640'}: 2024-08-05 21:36:28
+Plot info: {'Survey No.': '8/4', 'Total Area': '3.3200', 'Pot kharaba': '0.0700', 'Owner Name': 'जिवन मधुकर भेंडे', 'Khata No.': '1634'}: 2024-08-05 21:36:30
+Plot info: {'Survey No.': '9/4/ब', 'Total Area': '1.6300', 'Pot kharaba': '0.0000', 'Owner Name': 'नंदू मारोतराव आमले', 'Khata No.': '35'}: 2024-08-05 21:36:31
+Village '270700120080250000 निरसाना' processed: 2024-08-05 21:36:31
+Time taken for village '270700120080250000 निरसाना': 0:03:43.169337: 2024-08-05 21:36:31
+Script completed for village '270700120080250000 निरसाना': 2024-08-05 21:36:34

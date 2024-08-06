@@ -1,0 +1,400 @@
+Opened the webpage: 2024-08-05 19:11:54
+Page loaded: 2024-08-05 19:11:54
+District folder '07 अमरावती' created or already exists: 2024-08-05 19:12:00
+Taluka folder '10 भातकुली' created or already exists: 2024-08-05 19:12:01
+Plot info: {'Survey No.': '1', 'Total Area': '0.0000', 'Pot kharaba': '2.7800', 'Owner Name': 'सरकारी एफ क्लास', 'Khata No.': '252'}: 2024-08-05 19:12:06
+Plot info: {'Survey No.': '10', 'Total Area': '1.4700', 'Pot kharaba': '0.1500', 'Owner Name': 'पराग हेमचंद्र गावंडे .', 'Khata No.': '347'}: 2024-08-05 19:12:07
+Plot info: {'Survey No.': '100', 'Total Area': '10.3300', 'Pot kharaba': '0.0100', 'Owner Name': 'शाम पंजाबराव गावंडे .', 'Khata No.': '27'}: 2024-08-05 19:12:08
+Plot info: {'Survey No.': '101', 'Total Area': '2.2200', 'Pot kharaba': '0.0000', 'Owner Name': 'शाम पंजाबराव गावंडे .', 'Khata No.': '27'}: 2024-08-05 19:12:08
+Plot info: {'Survey No.': '102', 'Total Area': '2.2300', 'Pot kharaba': '0.0000', 'Owner Name': 'पराग हेमचंद्र गावंडे, पियुष हेमचंद्र गावंडे, नयना हेमचंद्र गावंडे', 'Khata No.': '304'}: 2024-08-05 19:12:09
+Plot info: {'Survey No.': '103', 'Total Area': '2.2200', 'Pot kharaba': '0.0000', 'Owner Name': 'सुरेश पंजाबराव गावंडे', 'Khata No.': '200'}: 2024-08-05 19:12:10
+Plot info: {'Survey No.': '104', 'Total Area': '1.5700', 'Pot kharaba': '0.4000', 'Owner Name': 'वसंतकुमार त्रिभुवनदास मालपानी', 'Khata No.': '161'}: 2024-08-05 19:12:11
+Plot info: {'Survey No.': '105', 'Total Area': '2.9700', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रददुमकुमार वसंत मालपाणी', 'Khata No.': '154'}: 2024-08-05 19:12:12
+Plot info: {'Survey No.': '106', 'Total Area': '0.5500', 'Pot kharaba': '0.0000', 'Owner Name': 'दादाराव शंकरराव गावंडे, प्रभाकर महादेव गावंडे, माधव शंकरराव गावंडे, राखी प्रकाश कोहळे, वासंताबाई जगनराव तायडे, सचिन वसंतराव गावंडे, सारीका संदिप इंगोले, साहेबराव शंकरराव गावंडे, सुधाकर महादेवराव गावंडे, सुमनबाई साहेबराव कोल्\u200dहे, कलावंताबाई महादेवराव गावंडे', 'Khata No.': '127'}: 2024-08-05 19:12:12
+Plot info: {'Survey No.': '107', 'Total Area': '0.5200', 'Pot kharaba': '0.0000', 'Owner Name': 'शाम पंजाबराव गावंडे .', 'Khata No.': '27'}: 2024-08-05 19:12:13
+Plot info: {'Survey No.': '108', 'Total Area': '1.3500', 'Pot kharaba': '0.0000', 'Owner Name': 'शाम पंजाबराव गावंडे .', 'Khata No.': '27'}: 2024-08-05 19:12:14
+Plot info: {'Survey No.': '109', 'Total Area': '1.6800', 'Pot kharaba': '0.0000', 'Owner Name': 'निशांत विजयराव गावंडे', 'Khata No.': '320'}: 2024-08-05 19:12:15
+Plot info: {'Survey No.': '11', 'Total Area': '1.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'अर्चना दादाराव गावंडे, चंद्रकला दादाराव गावंडे, विद्यावती दादाराव गावंडे, संतोष दादाराव गावंडे, बंडु दादाराव गावंडे', 'Khata No.': '54'}: 2024-08-05 19:12:16
+Plot info: {'Survey No.': '110', 'Total Area': '1.6800', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रकाश माणिकराव गावंडे .', 'Khata No.': '369'}: 2024-08-05 19:12:17
+Plot info: {'Survey No.': '111', 'Total Area': '4.0700', 'Pot kharaba': '0.0000', 'Owner Name': 'पराग हेमचंद्र गावंडे .', 'Khata No.': '347'}: 2024-08-05 19:12:18
+Plot info: {'Survey No.': '112', 'Total Area': '5.6000', 'Pot kharaba': '0.0000', 'Owner Name': 'वसंतकुमार त्रिभुवनदास मालपानी', 'Khata No.': '161'}: 2024-08-05 19:12:18
+Plot info: {'Survey No.': '113', 'Total Area': '8.7300', 'Pot kharaba': '0.0000', 'Owner Name': 'अनिशा सुनिल राठी', 'Khata No.': '958'}: 2024-08-05 19:12:19
+Plot info: {'Survey No.': '114', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'मायाताई ज्ञानेश्वर इंगोले', 'Khata No.': '59'}: 2024-08-05 19:12:20
+Plot info: {'Survey No.': '115', 'Total Area': '1.5200', 'Pot kharaba': '0.0000', 'Owner Name': 'गोपाल उत्\u200dतमराव गावंडे, पुष्\u200dपा चंद्रशेखर वानखडे, अनिता अशोकराव धर्माळे', 'Khata No.': '944'}: 2024-08-05 19:12:21
+Plot info: {'Survey No.': '116', 'Total Area': '1.5200', 'Pot kharaba': '0.0000', 'Owner Name': 'रमेश भिमराव गावंडे', 'Khata No.': '137'}: 2024-08-05 19:12:22
+Plot info: {'Survey No.': '117', 'Total Area': '0.8800', 'Pot kharaba': '0.0000', 'Owner Name': 'हरीभाऊ प्रल्हादराव शहापुरे', 'Khata No.': '1025'}: 2024-08-05 19:12:23
+Plot info: {'Survey No.': '118', 'Total Area': '0.8000', 'Pot kharaba': '0.0000', 'Owner Name': 'किशोर दिंगांबर विधाते', 'Khata No.': '356'}: 2024-08-05 19:12:24
+Plot info: {'Survey No.': '119', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'रामभाउ मारोतराव अब्रुक', 'Khata No.': '47'}: 2024-08-05 19:12:25
+Plot info: {'Survey No.': '12', 'Total Area': '1.8200', 'Pot kharaba': '0.1700', 'Owner Name': 'गूंफाबाई ज सहदेव, बाबुराव शेषराव भोकरे, लिलाबाई ज केशवराव, लिला शेषराव भोकरे, विनायक शेषराव भोकरे, सुनंदा पिता शेषराव भोकरे, सुरेश शेषराव भोकरे, मनोहर शेषराव भोकरे', 'Khata No.': '188'}: 2024-08-05 19:12:25
+Plot info: {'Survey No.': '120', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'अनंता रामभाउ अब्रक, छाया रामेश्वर कोलते, ज्योती प्रफुल्ल इंगळे, तारा गजानन कानफाडे, देविदास रामभाउ अब्रक, भगवंता रामभाउ अब्रक, श्रीमती कुमुद शंकरराव अब्रक, शिवदास रामभाउ अब्रक', 'Khata No.': '926'}: 2024-08-05 19:12:26
+Plot info: {'Survey No.': '121', 'Total Area': '0.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'अजय वासुदेव गजभिये, अनिता महेंद्रकुमार मीना, कमलाबाई वासुदेव गजभिये, सुनिता बबन ढोके, सुरेखा सुनिल पाटील, अरूण महादेव भोवते', 'Khata No.': '8'}: 2024-08-05 19:12:27
+Plot info: {'Survey No.': '122', 'Total Area': '2.0200', 'Pot kharaba': '0.0000', 'Owner Name': 'रुख्\u200dमीणी अंबादासराव चापके', 'Khata No.': '975'}: 2024-08-05 19:12:28
+Plot info: {'Survey No.': '123', 'Total Area': '1.2100', 'Pot kharaba': '0.0100', 'Owner Name': 'प्रददुमकुमार वसंत मालपाणी', 'Khata No.': '154'}: 2024-08-05 19:12:29
+Plot info: {'Survey No.': '124', 'Total Area': '2.0700', 'Pot kharaba': '0.0000', 'Owner Name': 'छायाबाई अरूण कुमार गावंडे, समीर अरुणकुमार गावंडे .', 'Khata No.': '2'}: 2024-08-05 19:12:30
+Plot info: {'Survey No.': '125', 'Total Area': '3.3800', 'Pot kharaba': '0.0000', 'Owner Name': 'विनायक मोतीराम गावंडे', 'Khata No.': '922'}: 2024-08-05 19:12:31
+Plot info: {'Survey No.': '126', 'Total Area': '5.4000', 'Pot kharaba': '0.0100', 'Owner Name': 'अर्चना राजेश ठाकरे, आशिष रामदास गावंडे, रंजना रामदास गावंडे, विद्या रामदास गावंडे', 'Khata No.': '149'}: 2024-08-05 19:12:32
+Plot info: {'Survey No.': '127', 'Total Area': '5.1500', 'Pot kharaba': '0.0000', 'Owner Name': 'सुनिल रामकृष्\u200dण देशमुख, अनिल रामकृष्\u200dण देशमुख', 'Khata No.': '960'}: 2024-08-05 19:12:33
+Plot info: {'Survey No.': '128', 'Total Area': '5.1600', 'Pot kharaba': '0.0000', 'Owner Name': 'राजेंद्र वामनराव गावंडे, श्रीमती सुलोचना वामनराव गावंडे, सतिश वामनराव गावंडे, उमेशचंद्र वामनराव गावंडे', 'Khata No.': '165'}: 2024-08-05 19:12:34
+Plot info: {'Survey No.': '129', 'Total Area': '5.0700', 'Pot kharaba': '0.0000', 'Owner Name': 'सुनिलकुमार जुगलकिशोर राठी', 'Khata No.': '196'}: 2024-08-05 19:12:35
+Plot info: {'Survey No.': '13', 'Total Area': '1.8200', 'Pot kharaba': '0.1100', 'Owner Name': 'भिमराव चंपत मेश्राम, रेखा प्रेमदास गजभिये, भिवराबाई चंपत मेश्राम', 'Khata No.': '38'}: 2024-08-05 19:12:36
+Plot info: {'Survey No.': '130', 'Total Area': '6.7700', 'Pot kharaba': '0.0000', 'Owner Name': 'रश्मी बबनराव विघे, अपर्णा बबनराव विघे', 'Khata No.': '1024'}: 2024-08-05 19:12:37
+Plot info: {'Survey No.': '131', 'Total Area': '0.4200', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक जानराव हाडके, दिपक जानराव हाडके, प्रकाश जानराव हाडके, बेबीताई केशवराव कावरे, पुष्\u200dपा बाबुराव चौधरी', 'Khata No.': '43'}: 2024-08-05 19:12:38
+Plot info: {'Survey No.': '132/2', 'Total Area': '2.4500', 'Pot kharaba': '0.0500', 'Owner Name': 'जयंत जनार्दनराव वडस्कर', 'Khata No.': '1032'}: 2024-08-05 19:12:39
+Plot info: {'Survey No.': '133', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'सुवर्णा सोहन वाघ', 'Khata No.': '952'}: 2024-08-05 19:12:40
+Plot info: {'Survey No.': '134', 'Total Area': '1.7800', 'Pot kharaba': '0.0000', 'Owner Name': 'सोहन शिवदास वाघ', 'Khata No.': '956'}: 2024-08-05 19:12:41
+Plot info: {'Survey No.': '135', 'Total Area': '2.3200', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक जानराव हाडके, दिपक जानराव हाडके, प्रकाश जानराव हाडके, बेबीताई केशवराव कावरे, पुष्\u200dपा बाबुराव चौधरी', 'Khata No.': '43'}: 2024-08-05 19:12:42
+Plot info: {'Survey No.': '136', 'Total Area': '0.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक दौलतराव गावंडे', 'Khata No.': '962'}: 2024-08-05 19:12:43
+Plot info: {'Survey No.': '137', 'Total Area': '1.5500', 'Pot kharaba': '0.0000', 'Owner Name': 'कल्\u200dयाणी राहूलराव चौधरी', 'Khata No.': '383'}: 2024-08-05 19:12:44
+Plot info: {'Survey No.': '138', 'Total Area': '0.9600', 'Pot kharaba': '0.0000', 'Owner Name': 'गौरी गजाननराव अब्रुक, चित्रा गजाननराव अब्रुक, दिलीप दशरथ अब्रुक, नानीबाई दशरथ अब्रुक, निकीता गजाननराव अब्रुक, महेश गजाननराव अब्रुक, विना ज्ञानेश्\u200dवरराव वानखडे', 'Khata No.': '51'}: 2024-08-05 19:12:45
+Plot info: {'Survey No.': '139', 'Total Area': '1.3900', 'Pot kharaba': '0.0000', 'Owner Name': 'हरीओम पंजाबराव अब्रुक', 'Khata No.': '74'}: 2024-08-05 19:12:46
+Plot info: {'Survey No.': '14', 'Total Area': '1.8200', 'Pot kharaba': '0.1200', 'Owner Name': 'किशोर पांडुरंग गणवीर, नलु मुकिंदा गजभिये, बेबी विश्वनाथ गजभिये, विक्रम पांडुरंग गणवीर, सुरेश पांडुरंग गणवीर', 'Khata No.': '928'}: 2024-08-05 19:12:47
+Plot info: {'Survey No.': '140', 'Total Area': '3.2200', 'Pot kharaba': '0.1100', 'Owner Name': 'दिपक माणिकराव गावंडे, दिपाली दिलीपराव देशमुख, प्रकाश माणिकराव गावंडे, आदित्\u200dय रमेश गावंडे, अंकिता रमेशराव गावंडे, कल्\u200dपना रमेशराव गावंडे', 'Khata No.': '872'}: 2024-08-05 19:12:48
+Plot info: {'Survey No.': '141', 'Total Area': '5.1600', 'Pot kharaba': '0.0000', 'Owner Name': 'दिपा देविदास कावरे, प्रविण यादवराव चव्हान, ललीता मिलिंद बनसोड, वनिता दिलीप रामटेके, वेदीका सुधिर चव्हाण, वंदना सुधिर चव्हाण, वैभव सुधिर चव्हाण', 'Khata No.': '135'}: 2024-08-05 19:12:49
+Plot info: {'Survey No.': '142', 'Total Area': '0.8600', 'Pot kharaba': '0.0000', 'Owner Name': 'अंकुश प्रकाशराव हाडके', 'Khata No.': '281'}: 2024-08-05 19:12:50
+Plot info: {'Survey No.': '143', 'Total Area': '1.2200', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक जानरावजी हाडके', 'Khata No.': '361'}: 2024-08-05 19:12:51
+Plot info: {'Survey No.': '144', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक जानरावजी हाडके', 'Khata No.': '361'}: 2024-08-05 19:12:52
+Plot info: {'Survey No.': '145/2', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'मयुर प्रमोदराव कांडलकर', 'Khata No.': '995'}: 2024-08-05 19:12:53
+Plot info: {'Survey No.': '146', 'Total Area': '1.6600', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रफुल्ल आनंदराव यावले, प्रशांत आनंदराव यावले', 'Khata No.': '12'}: 2024-08-05 19:12:54
+Plot info: {'Survey No.': '147', 'Total Area': '1.6500', 'Pot kharaba': '0.0000', 'Owner Name': 'कुसुमताई वासुदेवराव गणगणे, मनिषा नितीन रहाटे, रत्\u200dनप्रभा रंगराव यावले, शांताबाई प्रकाश गणोरकर, विनोद प्रकाश गणोरकर', 'Khata No.': '306'}: 2024-08-05 19:12:55
+Plot info: {'Survey No.': '148', 'Total Area': '1.6500', 'Pot kharaba': '0.0000', 'Owner Name': 'उमा संतोष दळवी ., कमल जानराव महल्\u200dले ., जयश्री जानराव महल्\u200dले ., राजेश जानराव महल्ले ., मनोज जानराव महल्\u200dले .', 'Khata No.': '42'}: 2024-08-05 19:12:56
+Plot info: {'Survey No.': '149', 'Total Area': '1.6500', 'Pot kharaba': '0.0000', 'Owner Name': 'पंकज जानरावजी काळे', 'Khata No.': '13'}: 2024-08-05 19:12:57
+Plot info: {'Survey No.': '15', 'Total Area': '1.8400', 'Pot kharaba': '0.1300', 'Owner Name': 'शांता गंगाधर वानखडे, सिध्\u200dदार्थ पांडूरंग गावंडे, दुर्योधन पांडूरंग गावंडे', 'Khata No.': '337'}: 2024-08-05 19:12:58
+Plot info: {'Survey No.': '150/1', 'Total Area': '0.9100', 'Pot kharaba': '0.0000', 'Owner Name': 'रामदास भिमराव नाचनकर', 'Khata No.': '363'}: 2024-08-05 19:12:59
+Plot info: {'Survey No.': '151', 'Total Area': '0.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'श्रीराम शिवराम डाखोडे', 'Khata No.': '186'}: 2024-08-05 19:13:01
+Plot info: {'Survey No.': '152/3', 'Total Area': '0.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'अ.शहजाद अ.सलाम', 'Khata No.': '233'}: 2024-08-05 19:13:02
+Plot info: {'Survey No.': '153', 'Total Area': '0.7900', 'Pot kharaba': '0.0600', 'Owner Name': 'सागर गजानन गावंडे', 'Khata No.': '364'}: 2024-08-05 19:13:03
+Plot info: {'Survey No.': '154', 'Total Area': '1.1000', 'Pot kharaba': '0.0700', 'Owner Name': 'सौ. सारीखा दिपकराव जुनघरे', 'Khata No.': '6'}: 2024-08-05 19:13:04
+Plot info: {'Survey No.': '155', 'Total Area': '2.1700', 'Pot kharaba': '0.0100', 'Owner Name': 'उमेश त्र्यंबकराव बोंडे, केशव नारायण गावंडे, रामदास निळकंठ गावंडे, सौ. बेबी पंडितराव ठाकरे, सौ. मालती हिंमत ठाकरे, देविदास निळकंठ गावंडे', 'Khata No.': '71'}: 2024-08-05 19:13:05
+Plot info: {'Survey No.': '156', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'छाया अशोक जामनीक, भिमराव श्रीराम जामनिक, माया अशोक जामनीक, शशीकला अशोक जामनीक, सौ. उषा विष्णु इंगळे, रोषण अशोक जामनीक', 'Khata No.': '917'}: 2024-08-05 19:13:06
+Plot info: {'Survey No.': '157', 'Total Area': '1.6400', 'Pot kharaba': '0.0000', 'Owner Name': 'माणिक राजाराम अटाळकर', 'Khata No.': '125'}: 2024-08-05 19:13:07
+Plot info: {'Survey No.': '158', 'Total Area': '0.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'बाबूराव दादुजी घरडे', 'Khata No.': '301'}: 2024-08-05 19:13:08
+Plot info: {'Survey No.': '159', 'Total Area': '1.2800', 'Pot kharaba': '0.0000', 'Owner Name': 'सोपान गणपत गायकवाड', 'Khata No.': '206'}: 2024-08-05 19:13:09
+Plot info: {'Survey No.': '16', 'Total Area': '0.4400', 'Pot kharaba': '0.0000', 'Owner Name': 'सोपान गणपत गायकवाड', 'Khata No.': '206'}: 2024-08-05 19:13:11
+Plot info: {'Survey No.': '160', 'Total Area': '2.7300', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रशांत आबाराव कडु, मंगेश आबासाहेब कडु, वर्षा मिलींद उल्हे, निता अरुणकुमार मानकर', 'Khata No.': '344'}: 2024-08-05 19:13:12
+Plot info: {'Survey No.': '161', 'Total Area': '1.6600', 'Pot kharaba': '0.0000', 'Owner Name': 'ईश्वरदास अंबादास गावंडे, चंदा मुलचंद वाघमारे, रत्नमाला सुभाष मोहोड, रामकृष्ण अंबादास गावंडे, सुलोचना अंबादास गावंडे', 'Khata No.': '17'}: 2024-08-05 19:13:13
+Plot info: {'Survey No.': '162/6', 'Total Area': '0.8800', 'Pot kharaba': '0.0000', 'Owner Name': 'देविदास मारोतराव गावंडे, राजकन्या किसनराव थोरात, शेषकन्या प्रकाशराव तायडे, हरिदास मारोतराव गावंडे', 'Khata No.': '175'}: 2024-08-05 19:13:14
+Plot info: {'Survey No.': '163', 'Total Area': '2.8800', 'Pot kharaba': '0.0000', 'Owner Name': 'आदिती सौरभ डागा', 'Khata No.': '338'}: 2024-08-05 19:13:15
+Plot info: {'Survey No.': '164', 'Total Area': '1.7300', 'Pot kharaba': '0.0000', 'Owner Name': 'भाऊराव भगवान गावंडे', 'Khata No.': '963'}: 2024-08-05 19:13:16
+Plot info: {'Survey No.': '165', 'Total Area': '1.7400', 'Pot kharaba': '0.0000', 'Owner Name': 'अ.पा.क.यशोदा ज.देवराव गाडेराव, प्रमोद देवराव गाडेराव', 'Khata No.': '86'}: 2024-08-05 19:13:17
+Plot info: {'Survey No.': '166', 'Total Area': '1.0800', 'Pot kharaba': '0.0000', 'Owner Name': 'किसनराव तात्याजी गावंडे .', 'Khata No.': '29'}: 2024-08-05 19:13:18
+Plot info: {'Survey No.': '167', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'कोमल रामदास कोसमकार, निवेदीता रामदास कोसमकार, लता रामदास कोसमकार', 'Khata No.': '974'}: 2024-08-05 19:13:20
+Plot info: {'Survey No.': '168', 'Total Area': '0.5700', 'Pot kharaba': '0.0000', 'Owner Name': 'अविनाश ज्ञानेश्वर नागदिवे, रवि ज्ञानेश्वर नागदिवे, सुनंदा ज्ञानेश्वर नागदिवे', 'Khata No.': '217'}: 2024-08-05 19:13:21
+Plot info: {'Survey No.': '169', 'Total Area': '3.1100', 'Pot kharaba': '0.0000', 'Owner Name': 'नयना हेमचंद्र गावंडे', 'Khata No.': '889'}: 2024-08-05 19:13:22
+Plot info: {'Survey No.': '17', 'Total Area': '1.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रमिला वामन मेश्राम, वच्छला भिमराव रामटेके', 'Khata No.': '113'}: 2024-08-05 19:13:23
+Plot info: {'Survey No.': '170', 'Total Area': '3.4400', 'Pot kharaba': '0.0000', 'Owner Name': 'अंकिता रमेश गावंडे, आदित्\u200dय रमेश गावंडे, कल्\u200dपना रमेश गावंडे, दिपाली दिलीप देशमुख, प्रकाश माणिकराव गावंडे, दिपक माणिकराव गावंडे', 'Khata No.': '929'}: 2024-08-05 19:13:24
+Plot info: {'Survey No.': '171', 'Total Area': '0.9100', 'Pot kharaba': '0.0000', 'Owner Name': 'उमेश त्र्यंबकराव बोंडे, देविदास निळकंठ गावंडे, रामदास निळकंठ गावंडे, सौ. बेबी पंडितराव ठाकरे, सौ. मालती हिंमत ठाकरे, केशव नारायण गावंडे', 'Khata No.': '71'}: 2024-08-05 19:13:25
+Plot info: {'Survey No.': '172', 'Total Area': '0.9200', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रभाकर महादेव गावंडे, राखी प्रकाश कोहळे, सचिन वसंतराव गावंडे, सारीका संदिप इंगोले, सुधाकर महादेव गावंडे, कलावंता ज.महादेव गावंडे', 'Khata No.': '119'}: 2024-08-05 19:13:27
+Plot info: {'Survey No.': '173', 'Total Area': '1.6000', 'Pot kharaba': '0.0000', 'Owner Name': 'दादाराव शंकरराव गावंडे, साहेबराव शंकरराव गावंडे, माधव शंकरराव गावंडे', 'Khata No.': '126'}: 2024-08-05 19:13:28
+Plot info: {'Survey No.': '174/4', 'Total Area': '1.1800', 'Pot kharaba': '0.0900', 'Owner Name': 'रघुनाथ हरिभाऊ बोराडे', 'Khata No.': '1007'}: 2024-08-05 19:13:29
+Plot info: {'Survey No.': '175', 'Total Area': '1.3700', 'Pot kharaba': '0.0500', 'Owner Name': 'सै.रियास सै.करीम', 'Khata No.': '858'}: 2024-08-05 19:13:30
+Plot info: {'Survey No.': '176', 'Total Area': '1.2000', 'Pot kharaba': '0.0300', 'Owner Name': 'चंदा वासुदेव शेवने, नारायण भिमराव शेवने, मंगेश वासुदेव शेवने, रमेश भिमराव शेवने, स्वाती वासुदेव शेवने, श्रीमती शांताबाई भिमराव शेवने', 'Khata No.': '106'}: 2024-08-05 19:13:32
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 19:13:52
+Plot info: {'Survey No.': '177/3', 'Total Area': '0.9300', 'Pot kharaba': '0.0000', 'Owner Name': 'दिलीप दशरथ अब्रुक .', 'Khata No.': '366'}: 2024-08-05 19:13:52
+Plot info: {'Survey No.': '178', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'राजेंद्र जगन्नाथ तायडे, नरेंद्र जगन्\u200dनाथ तायडे', 'Khata No.': '243'}: 2024-08-05 19:13:54
+Plot info: {'Survey No.': '179/2', 'Total Area': '1.6100', 'Pot kharaba': '0.0000', 'Owner Name': 'उमेशचंद्र वामनराव गावंडे, राजेंद्र वामनराव गावंडे, सतिश वामनराव गावंडे', 'Khata No.': '911'}: 2024-08-05 19:13:55
+Plot info: {'Survey No.': '18', 'Total Area': '1.8000', 'Pot kharaba': '0.0000', 'Owner Name': 'शंकर बांगोजी डोंगरे', 'Khata No.': '181'}: 2024-08-05 19:13:56
+Plot info: {'Survey No.': '180', 'Total Area': '6.4300', 'Pot kharaba': '0.0000', 'Owner Name': 'रविंद्र भोलारामजी बोने', 'Khata No.': '1040'}: 2024-08-05 19:13:57
+Plot info: {'Survey No.': '181', 'Total Area': '2.8900', 'Pot kharaba': '0.0000', 'Owner Name': 'सुरेखा प्रदिप देशमुख, सुलभा निळकंठ चौधरी, मोहन वासुदेव भोकरे', 'Khata No.': '166'}: 2024-08-05 19:13:59
+Plot info: {'Survey No.': '182', 'Total Area': '11.7500', 'Pot kharaba': '0.0900', 'Owner Name': 'विदयादेवी जुगलकिशोर राठी', 'Khata No.': '44'}: 2024-08-05 19:14:00
+Plot info: {'Survey No.': '183', 'Total Area': '3.2100', 'Pot kharaba': '0.0300', 'Owner Name': 'दिपक माणिकराव गावंडे', 'Khata No.': '964'}: 2024-08-05 19:14:01
+Plot info: {'Survey No.': '184', 'Total Area': '1.4500', 'Pot kharaba': '0.0000', 'Owner Name': 'चारु हरिश शहापुरे', 'Khata No.': '1026'}: 2024-08-05 19:14:02
+Plot info: {'Survey No.': '185', 'Total Area': '9.0300', 'Pot kharaba': '0.0000', 'Owner Name': 'विणादेवी त्रिभुवनदास मालपानी', 'Khata No.': '905'}: 2024-08-05 19:14:04
+Plot info: {'Survey No.': '186', 'Total Area': '1.1100', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक जानरावजी हाडके', 'Khata No.': '361'}: 2024-08-05 19:14:05
+Plot info: {'Survey No.': '187', 'Total Area': '6.7800', 'Pot kharaba': '0.0000', 'Owner Name': 'मुक्\u200dता सुधाकरराव मोहोड, सौ. शैलजाबाई शंकरराव वानखेडे', 'Khata No.': '174'}: 2024-08-05 19:14:06
+Plot info: {'Survey No.': '188', 'Total Area': '0.9000', 'Pot kharaba': '0.0000', 'Owner Name': 'मनोहर श्रीपतराव चोपडे', 'Khata No.': '96'}: 2024-08-05 19:14:07
+Plot info: {'Survey No.': '189', 'Total Area': '1.7100', 'Pot kharaba': '0.0000', 'Owner Name': 'नाना भिमराव मकेश्\u200dवर', 'Khata No.': '965'}: 2024-08-05 19:14:09
+Plot info: {'Survey No.': '19', 'Total Area': '1.9600', 'Pot kharaba': '0.0100', 'Owner Name': 'गोविंद तुकाराम मेश्राम', 'Khata No.': '35'}: 2024-08-05 19:14:10
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 19:14:31
+Plot info: {'Survey No.': '190', 'Total Area': '3.4400', 'Pot kharaba': '0.0000', 'Owner Name': 'रितु वसंतराव मालपानी', 'Khata No.': '205'}: 2024-08-05 19:14:31
+Plot info: {'Survey No.': '191', 'Total Area': '5.3000', 'Pot kharaba': '0.0000', 'Owner Name': 'दाउदालाल मोहनलाल छांगानी', 'Khata No.': '919'}: 2024-08-05 19:14:33
+Plot info: {'Survey No.': '192', 'Total Area': '1.6800', 'Pot kharaba': '0.0000', 'Owner Name': 'साधना पंजाबराव कांबळे', 'Khata No.': '909'}: 2024-08-05 19:14:34
+Plot info: {'Survey No.': '193', 'Total Area': '5.3400', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक उदेभान नागदिवे, नितीन उदेभान नागदिवे, निलेश उदेभान नागदिवे, मुरलीधर उदयेभान नागदिवे, सरिता राजीव मेश्राम, सिमा प्रशांत सहारे, संध्\u200dया घनश्\u200dयाम वासनिक, लता अंबादास मेश्राम', 'Khata No.': '1012'}: 2024-08-05 19:14:35
+Plot info: {'Survey No.': '194/3', 'Total Area': '1.6000', 'Pot kharaba': '0.0000', 'Owner Name': 'रजनी संजय गुप्ता', 'Khata No.': '1010'}: 2024-08-05 19:14:37
+Plot info: {'Survey No.': '195', 'Total Area': '0.8000', 'Pot kharaba': '0.0100', 'Owner Name': 'माणिकराव रूपराव सोलाव', 'Khata No.': '10'}: 2024-08-05 19:14:38
+Plot info: {'Survey No.': '196', 'Total Area': '0.8000', 'Pot kharaba': '0.0100', 'Owner Name': 'चंदाबाई रामकृष्ण सोलव', 'Khata No.': '251'}: 2024-08-05 19:14:40
+Plot info: {'Survey No.': '197', 'Total Area': '1.9300', 'Pot kharaba': '0.0000', 'Owner Name': 'उमा राहुल मेश्राम, उमेश शेषराव नागदिवे, दिनेश शेषराव नागदिवे, मनोज शेषराव नागदिवे, वंदना कैलास मेश्राम, रत्ना पंडीत कापसेकर', 'Khata No.': '187'}: 2024-08-05 19:14:41
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 19:15:02
+Plot info: {'Survey No.': '198', 'Total Area': '1.9900', 'Pot kharaba': '0.0000', 'Owner Name': 'अजय गोपाळराव वानखडे, करिष्\u200dमा गोपाळराव वानखडे, संजय गोपाळराव वानखडे, अनिता गोपाळराव वानखडे', 'Khata No.': '933'}: 2024-08-05 19:15:02
+Plot info: {'Survey No.': '199', 'Total Area': '0.9100', 'Pot kharaba': '0.0000', 'Owner Name': 'पुष्पा व्हि. ऊरकुडे, लोकेश अमर निनावे, विना अमर निनावे, शालीनी व्हि. ढोमने, वर्षा अमर निनावे', 'Khata No.': '87'}: 2024-08-05 19:15:04
+Plot info: {'Survey No.': '2', 'Total Area': '1.1400', 'Pot kharaba': '0.0900', 'Owner Name': 'मनोरंजन सुधाकरराव गावंडै', 'Khata No.': '236'}: 2024-08-05 19:15:05
+Plot info: {'Survey No.': '20', 'Total Area': '1.9700', 'Pot kharaba': '0.0100', 'Owner Name': 'देविदास मोतीराम गावंडै', 'Khata No.': '61'}: 2024-08-05 19:15:06
+Plot info: {'Survey No.': '200', 'Total Area': '2.4800', 'Pot kharaba': '0.2200', 'Owner Name': 'अरूणा पंजाबराव गावंडे, शाम पंजाबराव गावंडे, सुरेश पंजाब गावंडे, सुलोचना पंजाबराव गावंडे, हेमचंद्र पंजाबराव गावंडे, श्री मारोती संस्थान देवरी तर्फे सरपंच', 'Khata No.': '212'}: 2024-08-05 19:15:08
+Plot info: {'Survey No.': '201', 'Total Area': '1.2200', 'Pot kharaba': '0.0300', 'Owner Name': 'पुष्पा व्हि. ऊरकुडे, लोकेश अमर निनावे, विना अमर निनावे, शालीनी व्हि. ढोमने, वर्षा अमर निनावे', 'Khata No.': '87'}: 2024-08-05 19:15:10
+Plot info: {'Survey No.': '202', 'Total Area': '1.8300', 'Pot kharaba': '0.0500', 'Owner Name': 'अशोक झिंगुजी भुजाडे, अनिकेत अशोकराव भुजाडे', 'Khata No.': '986'}: 2024-08-05 19:15:11
+Plot info: {'Survey No.': '203', 'Total Area': '1.8000', 'Pot kharaba': '0.0500', 'Owner Name': 'अक्षय साहेबराव बारबुध्\u200dदे, उदया अशोंकराव टिपरे, मधुमती श्रीकृष्\u200dणराव मानकर, सिमा विठ्ठलराव महामुनी, मिनाताई साहेबराव बारबुध्\u200dदे', 'Khata No.': '903'}: 2024-08-05 19:15:12
+Plot info: {'Survey No.': '204', 'Total Area': '1.8000', 'Pot kharaba': '0.0500', 'Owner Name': 'मनुबाई रामचंद्र गाडे', 'Khata No.': '141'}: 2024-08-05 19:15:14
+Opened the webpage: 2024-08-05 23:01:17
+Page loaded: 2024-08-05 23:01:17
+District folder '07 अमरावती' created or already exists: 2024-08-05 23:01:24
+Taluka folder '10 भातकुली' created or already exists: 2024-08-05 23:01:25
+Plot info: {'Survey No.': '1', 'Total Area': '0.0000', 'Pot kharaba': '2.7800', 'Owner Name': 'सरकारी एफ क्लास', 'Khata No.': '252'}: 2024-08-05 23:01:27
+Plot info: {'Survey No.': '10', 'Total Area': '1.4700', 'Pot kharaba': '0.1500', 'Owner Name': 'पराग हेमचंद्र गावंडे .', 'Khata No.': '347'}: 2024-08-05 23:01:27
+Plot info: {'Survey No.': '100', 'Total Area': '10.3300', 'Pot kharaba': '0.0100', 'Owner Name': 'शाम पंजाबराव गावंडे .', 'Khata No.': '27'}: 2024-08-05 23:01:28
+Plot info: {'Survey No.': '101', 'Total Area': '2.2200', 'Pot kharaba': '0.0000', 'Owner Name': 'शाम पंजाबराव गावंडे .', 'Khata No.': '27'}: 2024-08-05 23:01:29
+Plot info: {'Survey No.': '102', 'Total Area': '2.2300', 'Pot kharaba': '0.0000', 'Owner Name': 'पराग हेमचंद्र गावंडे, पियुष हेमचंद्र गावंडे, नयना हेमचंद्र गावंडे', 'Khata No.': '304'}: 2024-08-05 23:01:30
+Plot info: {'Survey No.': '103', 'Total Area': '2.2200', 'Pot kharaba': '0.0000', 'Owner Name': 'सुरेश पंजाबराव गावंडे', 'Khata No.': '200'}: 2024-08-05 23:01:31
+Plot info: {'Survey No.': '104', 'Total Area': '1.5700', 'Pot kharaba': '0.4000', 'Owner Name': 'वसंतकुमार त्रिभुवनदास मालपानी', 'Khata No.': '161'}: 2024-08-05 23:01:32
+Plot info: {'Survey No.': '105', 'Total Area': '2.9700', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रददुमकुमार वसंत मालपाणी', 'Khata No.': '154'}: 2024-08-05 23:01:33
+Plot info: {'Survey No.': '106', 'Total Area': '0.5500', 'Pot kharaba': '0.0000', 'Owner Name': 'दादाराव शंकरराव गावंडे, प्रभाकर महादेव गावंडे, माधव शंकरराव गावंडे, राखी प्रकाश कोहळे, वासंताबाई जगनराव तायडे, सचिन वसंतराव गावंडे, सारीका संदिप इंगोले, साहेबराव शंकरराव गावंडे, सुधाकर महादेवराव गावंडे, सुमनबाई साहेबराव कोल्\u200dहे, कलावंताबाई महादेवराव गावंडे', 'Khata No.': '127'}: 2024-08-05 23:01:34
+Plot info: {'Survey No.': '107', 'Total Area': '0.5200', 'Pot kharaba': '0.0000', 'Owner Name': 'शाम पंजाबराव गावंडे .', 'Khata No.': '27'}: 2024-08-05 23:01:35
+Plot info: {'Survey No.': '108', 'Total Area': '1.3500', 'Pot kharaba': '0.0000', 'Owner Name': 'शाम पंजाबराव गावंडे .', 'Khata No.': '27'}: 2024-08-05 23:01:35
+Plot info: {'Survey No.': '109', 'Total Area': '1.6800', 'Pot kharaba': '0.0000', 'Owner Name': 'निशांत विजयराव गावंडे', 'Khata No.': '320'}: 2024-08-05 23:01:37
+Plot info: {'Survey No.': '11', 'Total Area': '1.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'अर्चना दादाराव गावंडे, चंद्रकला दादाराव गावंडे, विद्यावती दादाराव गावंडे, संतोष दादाराव गावंडे, बंडु दादाराव गावंडे', 'Khata No.': '54'}: 2024-08-05 23:01:38
+Plot info: {'Survey No.': '110', 'Total Area': '1.6800', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रकाश माणिकराव गावंडे .', 'Khata No.': '369'}: 2024-08-05 23:01:39
+Plot info: {'Survey No.': '111', 'Total Area': '4.0700', 'Pot kharaba': '0.0000', 'Owner Name': 'पराग हेमचंद्र गावंडे .', 'Khata No.': '347'}: 2024-08-05 23:01:40
+Plot info: {'Survey No.': '112', 'Total Area': '5.6000', 'Pot kharaba': '0.0000', 'Owner Name': 'वसंतकुमार त्रिभुवनदास मालपानी', 'Khata No.': '161'}: 2024-08-05 23:01:41
+Plot info: {'Survey No.': '113', 'Total Area': '8.7300', 'Pot kharaba': '0.0000', 'Owner Name': 'अनिशा सुनिल राठी', 'Khata No.': '958'}: 2024-08-05 23:01:42
+Plot info: {'Survey No.': '114', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'मायाताई ज्ञानेश्वर इंगोले', 'Khata No.': '59'}: 2024-08-05 23:01:43
+Plot info: {'Survey No.': '115', 'Total Area': '1.5200', 'Pot kharaba': '0.0000', 'Owner Name': 'गोपाल उत्\u200dतमराव गावंडे, पुष्\u200dपा चंद्रशेखर वानखडे, अनिता अशोकराव धर्माळे', 'Khata No.': '944'}: 2024-08-05 23:01:44
+Plot info: {'Survey No.': '116', 'Total Area': '1.5200', 'Pot kharaba': '0.0000', 'Owner Name': 'रमेश भिमराव गावंडे', 'Khata No.': '137'}: 2024-08-05 23:01:45
+Plot info: {'Survey No.': '117', 'Total Area': '0.8800', 'Pot kharaba': '0.0000', 'Owner Name': 'हरीभाऊ प्रल्हादराव शहापुरे', 'Khata No.': '1025'}: 2024-08-05 23:01:46
+Plot info: {'Survey No.': '118', 'Total Area': '0.8000', 'Pot kharaba': '0.0000', 'Owner Name': 'किशोर दिंगांबर विधाते', 'Khata No.': '356'}: 2024-08-05 23:01:47
+Plot info: {'Survey No.': '119', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'रामभाउ मारोतराव अब्रुक', 'Khata No.': '47'}: 2024-08-05 23:01:48
+Plot info: {'Survey No.': '12', 'Total Area': '1.8200', 'Pot kharaba': '0.1700', 'Owner Name': 'गूंफाबाई ज सहदेव, बाबुराव शेषराव भोकरे, लिलाबाई ज केशवराव, लिला शेषराव भोकरे, विनायक शेषराव भोकरे, सुनंदा पिता शेषराव भोकरे, सुरेश शेषराव भोकरे, मनोहर शेषराव भोकरे', 'Khata No.': '188'}: 2024-08-05 23:01:49
+Plot info: {'Survey No.': '120', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'अनंता रामभाउ अब्रक, छाया रामेश्वर कोलते, ज्योती प्रफुल्ल इंगळे, तारा गजानन कानफाडे, देविदास रामभाउ अब्रक, भगवंता रामभाउ अब्रक, श्रीमती कुमुद शंकरराव अब्रक, शिवदास रामभाउ अब्रक', 'Khata No.': '926'}: 2024-08-05 23:01:51
+Plot info: {'Survey No.': '121', 'Total Area': '0.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'अजय वासुदेव गजभिये, अनिता महेंद्रकुमार मीना, कमलाबाई वासुदेव गजभिये, सुनिता बबन ढोके, सुरेखा सुनिल पाटील, अरूण महादेव भोवते', 'Khata No.': '8'}: 2024-08-05 23:01:52
+Plot info: {'Survey No.': '122', 'Total Area': '2.0200', 'Pot kharaba': '0.0000', 'Owner Name': 'रुख्\u200dमीणी अंबादासराव चापके', 'Khata No.': '975'}: 2024-08-05 23:01:53
+Plot info: {'Survey No.': '123', 'Total Area': '1.2100', 'Pot kharaba': '0.0100', 'Owner Name': 'प्रददुमकुमार वसंत मालपाणी', 'Khata No.': '154'}: 2024-08-05 23:01:54
+Plot info: {'Survey No.': '124', 'Total Area': '2.0700', 'Pot kharaba': '0.0000', 'Owner Name': 'छायाबाई अरूण कुमार गावंडे, समीर अरुणकुमार गावंडे .', 'Khata No.': '2'}: 2024-08-05 23:01:56
+Plot info: {'Survey No.': '125', 'Total Area': '3.3800', 'Pot kharaba': '0.0000', 'Owner Name': 'विनायक मोतीराम गावंडे', 'Khata No.': '922'}: 2024-08-05 23:01:57
+Plot info: {'Survey No.': '126', 'Total Area': '5.4000', 'Pot kharaba': '0.0100', 'Owner Name': 'अर्चना राजेश ठाकरे, आशिष रामदास गावंडे, रंजना रामदास गावंडे, विद्या रामदास गावंडे', 'Khata No.': '149'}: 2024-08-05 23:01:58
+Plot info: {'Survey No.': '127', 'Total Area': '5.1500', 'Pot kharaba': '0.0000', 'Owner Name': 'सुनिल रामकृष्\u200dण देशमुख, अनिल रामकृष्\u200dण देशमुख', 'Khata No.': '960'}: 2024-08-05 23:01:59
+Plot info: {'Survey No.': '128', 'Total Area': '5.1600', 'Pot kharaba': '0.0000', 'Owner Name': 'राजेंद्र वामनराव गावंडे, श्रीमती सुलोचना वामनराव गावंडे, सतिश वामनराव गावंडे, उमेशचंद्र वामनराव गावंडे', 'Khata No.': '165'}: 2024-08-05 23:02:00
+Plot info: {'Survey No.': '129', 'Total Area': '5.0700', 'Pot kharaba': '0.0000', 'Owner Name': 'सुनिलकुमार जुगलकिशोर राठी', 'Khata No.': '196'}: 2024-08-05 23:02:01
+Plot info: {'Survey No.': '13', 'Total Area': '1.8200', 'Pot kharaba': '0.1100', 'Owner Name': 'भिमराव चंपत मेश्राम, रेखा प्रेमदास गजभिये, भिवराबाई चंपत मेश्राम', 'Khata No.': '38'}: 2024-08-05 23:02:02
+Plot info: {'Survey No.': '130', 'Total Area': '6.7700', 'Pot kharaba': '0.0000', 'Owner Name': 'रश्मी बबनराव विघे, अपर्णा बबनराव विघे', 'Khata No.': '1024'}: 2024-08-05 23:02:03
+Plot info: {'Survey No.': '131', 'Total Area': '0.4200', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक जानराव हाडके, दिपक जानराव हाडके, प्रकाश जानराव हाडके, बेबीताई केशवराव कावरे, पुष्\u200dपा बाबुराव चौधरी', 'Khata No.': '43'}: 2024-08-05 23:02:05
+Plot info: {'Survey No.': '132/2', 'Total Area': '2.4500', 'Pot kharaba': '0.0500', 'Owner Name': 'जयंत जनार्दनराव वडस्कर', 'Khata No.': '1032'}: 2024-08-05 23:02:07
+Plot info: {'Survey No.': '133', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'सुवर्णा सोहन वाघ', 'Khata No.': '952'}: 2024-08-05 23:02:08
+Plot info: {'Survey No.': '134', 'Total Area': '1.7800', 'Pot kharaba': '0.0000', 'Owner Name': 'सोहन शिवदास वाघ', 'Khata No.': '956'}: 2024-08-05 23:02:09
+Plot info: {'Survey No.': '135', 'Total Area': '2.3200', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक जानराव हाडके, दिपक जानराव हाडके, प्रकाश जानराव हाडके, बेबीताई केशवराव कावरे, पुष्\u200dपा बाबुराव चौधरी', 'Khata No.': '43'}: 2024-08-05 23:02:10
+Plot info: {'Survey No.': '136', 'Total Area': '0.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक दौलतराव गावंडे', 'Khata No.': '962'}: 2024-08-05 23:02:12
+Plot info: {'Survey No.': '137', 'Total Area': '1.5500', 'Pot kharaba': '0.0000', 'Owner Name': 'कल्\u200dयाणी राहूलराव चौधरी', 'Khata No.': '383'}: 2024-08-05 23:02:13
+Plot info: {'Survey No.': '138', 'Total Area': '0.9600', 'Pot kharaba': '0.0000', 'Owner Name': 'गौरी गजाननराव अब्रुक, चित्रा गजाननराव अब्रुक, दिलीप दशरथ अब्रुक, नानीबाई दशरथ अब्रुक, निकीता गजाननराव अब्रुक, महेश गजाननराव अब्रुक, विना ज्ञानेश्\u200dवरराव वानखडे', 'Khata No.': '51'}: 2024-08-05 23:02:14
+Plot info: {'Survey No.': '139', 'Total Area': '1.3900', 'Pot kharaba': '0.0000', 'Owner Name': 'हरीओम पंजाबराव अब्रुक', 'Khata No.': '74'}: 2024-08-05 23:02:15
+Plot info: {'Survey No.': '14', 'Total Area': '1.8200', 'Pot kharaba': '0.1200', 'Owner Name': 'किशोर पांडुरंग गणवीर, नलु मुकिंदा गजभिये, बेबी विश्वनाथ गजभिये, विक्रम पांडुरंग गणवीर, सुरेश पांडुरंग गणवीर', 'Khata No.': '928'}: 2024-08-05 23:02:16
+Plot info: {'Survey No.': '140', 'Total Area': '3.2200', 'Pot kharaba': '0.1100', 'Owner Name': 'दिपक माणिकराव गावंडे, दिपाली दिलीपराव देशमुख, प्रकाश माणिकराव गावंडे, आदित्\u200dय रमेश गावंडे, अंकिता रमेशराव गावंडे, कल्\u200dपना रमेशराव गावंडे', 'Khata No.': '872'}: 2024-08-05 23:02:18
+Plot info: {'Survey No.': '141', 'Total Area': '5.1600', 'Pot kharaba': '0.0000', 'Owner Name': 'दिपा देविदास कावरे, प्रविण यादवराव चव्हान, ललीता मिलिंद बनसोड, वनिता दिलीप रामटेके, वेदीका सुधिर चव्हाण, वंदना सुधिर चव्हाण, वैभव सुधिर चव्हाण', 'Khata No.': '135'}: 2024-08-05 23:02:19
+Plot info: {'Survey No.': '142', 'Total Area': '0.8600', 'Pot kharaba': '0.0000', 'Owner Name': 'अंकुश प्रकाशराव हाडके', 'Khata No.': '281'}: 2024-08-05 23:02:20
+Plot info: {'Survey No.': '143', 'Total Area': '1.2200', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक जानरावजी हाडके', 'Khata No.': '361'}: 2024-08-05 23:02:21
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 23:02:42
+Plot info: {'Survey No.': '144', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक जानरावजी हाडके', 'Khata No.': '361'}: 2024-08-05 23:02:42
+Plot info: {'Survey No.': '145/2', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'मयुर प्रमोदराव कांडलकर', 'Khata No.': '995'}: 2024-08-05 23:02:44
+Plot info: {'Survey No.': '146', 'Total Area': '1.6600', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रफुल्ल आनंदराव यावले, प्रशांत आनंदराव यावले', 'Khata No.': '12'}: 2024-08-05 23:02:46
+Plot info: {'Survey No.': '147', 'Total Area': '1.6500', 'Pot kharaba': '0.0000', 'Owner Name': 'कुसुमताई वासुदेवराव गणगणे, मनिषा नितीन रहाटे, रत्\u200dनप्रभा रंगराव यावले, शांताबाई प्रकाश गणोरकर, विनोद प्रकाश गणोरकर', 'Khata No.': '306'}: 2024-08-05 23:02:47
+Plot info: {'Survey No.': '148', 'Total Area': '1.6500', 'Pot kharaba': '0.0000', 'Owner Name': 'उमा संतोष दळवी ., कमल जानराव महल्\u200dले ., जयश्री जानराव महल्\u200dले ., राजेश जानराव महल्ले ., मनोज जानराव महल्\u200dले .', 'Khata No.': '42'}: 2024-08-05 23:02:49
+Plot info: {'Survey No.': '149', 'Total Area': '1.6500', 'Pot kharaba': '0.0000', 'Owner Name': 'पंकज जानरावजी काळे', 'Khata No.': '13'}: 2024-08-05 23:02:51
+Plot info: {'Survey No.': '15', 'Total Area': '1.8400', 'Pot kharaba': '0.1300', 'Owner Name': 'शांता गंगाधर वानखडे, सिध्\u200dदार्थ पांडूरंग गावंडे, दुर्योधन पांडूरंग गावंडे', 'Khata No.': '337'}: 2024-08-05 23:02:53
+Plot info: {'Survey No.': '150/1', 'Total Area': '0.9100', 'Pot kharaba': '0.0000', 'Owner Name': 'रामदास भिमराव नाचनकर', 'Khata No.': '363'}: 2024-08-05 23:02:54
+Plot info: {'Survey No.': '151', 'Total Area': '0.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'श्रीराम शिवराम डाखोडे', 'Khata No.': '186'}: 2024-08-05 23:02:56
+Plot info: {'Survey No.': '152/3', 'Total Area': '0.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'अ.शहजाद अ.सलाम', 'Khata No.': '233'}: 2024-08-05 23:02:58
+Plot info: {'Survey No.': '153', 'Total Area': '0.7900', 'Pot kharaba': '0.0600', 'Owner Name': 'सागर गजानन गावंडे', 'Khata No.': '364'}: 2024-08-05 23:02:59
+Plot info: {'Survey No.': '154', 'Total Area': '1.1000', 'Pot kharaba': '0.0700', 'Owner Name': 'सौ. सारीखा दिपकराव जुनघरे', 'Khata No.': '6'}: 2024-08-05 23:03:00
+Plot info: {'Survey No.': '155', 'Total Area': '2.1700', 'Pot kharaba': '0.0100', 'Owner Name': 'उमेश त्र्यंबकराव बोंडे, केशव नारायण गावंडे, रामदास निळकंठ गावंडे, सौ. बेबी पंडितराव ठाकरे, सौ. मालती हिंमत ठाकरे, देविदास निळकंठ गावंडे', 'Khata No.': '71'}: 2024-08-05 23:03:02
+Plot info: {'Survey No.': '156', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'छाया अशोक जामनीक, भिमराव श्रीराम जामनिक, माया अशोक जामनीक, शशीकला अशोक जामनीक, सौ. उषा विष्णु इंगळे, रोषण अशोक जामनीक', 'Khata No.': '917'}: 2024-08-05 23:03:03
+Plot info: {'Survey No.': '157', 'Total Area': '1.6400', 'Pot kharaba': '0.0000', 'Owner Name': 'माणिक राजाराम अटाळकर', 'Khata No.': '125'}: 2024-08-05 23:03:04
+Plot info: {'Survey No.': '158', 'Total Area': '0.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'बाबूराव दादुजी घरडे', 'Khata No.': '301'}: 2024-08-05 23:03:06
+Plot info: {'Survey No.': '159', 'Total Area': '1.2800', 'Pot kharaba': '0.0000', 'Owner Name': 'सोपान गणपत गायकवाड', 'Khata No.': '206'}: 2024-08-05 23:03:07
+Plot info: {'Survey No.': '16', 'Total Area': '0.4400', 'Pot kharaba': '0.0000', 'Owner Name': 'सोपान गणपत गायकवाड', 'Khata No.': '206'}: 2024-08-05 23:03:09
+Plot info: {'Survey No.': '160', 'Total Area': '2.7300', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रशांत आबाराव कडु, मंगेश आबासाहेब कडु, वर्षा मिलींद उल्हे, निता अरुणकुमार मानकर', 'Khata No.': '344'}: 2024-08-05 23:03:10
+Plot info: {'Survey No.': '161', 'Total Area': '1.6600', 'Pot kharaba': '0.0000', 'Owner Name': 'ईश्वरदास अंबादास गावंडे, चंदा मुलचंद वाघमारे, रत्नमाला सुभाष मोहोड, रामकृष्ण अंबादास गावंडे, सुलोचना अंबादास गावंडे', 'Khata No.': '17'}: 2024-08-05 23:03:11
+Plot info: {'Survey No.': '162/6', 'Total Area': '0.8800', 'Pot kharaba': '0.0000', 'Owner Name': 'देविदास मारोतराव गावंडे, राजकन्या किसनराव थोरात, शेषकन्या प्रकाशराव तायडे, हरिदास मारोतराव गावंडे', 'Khata No.': '175'}: 2024-08-05 23:03:13
+Plot info: {'Survey No.': '163', 'Total Area': '2.8800', 'Pot kharaba': '0.0000', 'Owner Name': 'आदिती सौरभ डागा', 'Khata No.': '338'}: 2024-08-05 23:03:14
+Plot info: {'Survey No.': '164', 'Total Area': '1.7300', 'Pot kharaba': '0.0000', 'Owner Name': 'भाऊराव भगवान गावंडे', 'Khata No.': '963'}: 2024-08-05 23:03:16
+Plot info: {'Survey No.': '165', 'Total Area': '1.7400', 'Pot kharaba': '0.0000', 'Owner Name': 'अ.पा.क.यशोदा ज.देवराव गाडेराव, प्रमोद देवराव गाडेराव', 'Khata No.': '86'}: 2024-08-05 23:03:17
+Plot info: {'Survey No.': '166', 'Total Area': '1.0800', 'Pot kharaba': '0.0000', 'Owner Name': 'किसनराव तात्याजी गावंडे .', 'Khata No.': '29'}: 2024-08-05 23:03:18
+Plot info: {'Survey No.': '167', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'कोमल रामदास कोसमकार, निवेदीता रामदास कोसमकार, लता रामदास कोसमकार', 'Khata No.': '974'}: 2024-08-05 23:03:20
+Plot info: {'Survey No.': '168', 'Total Area': '0.5700', 'Pot kharaba': '0.0000', 'Owner Name': 'अविनाश ज्ञानेश्वर नागदिवे, रवि ज्ञानेश्वर नागदिवे, सुनंदा ज्ञानेश्वर नागदिवे', 'Khata No.': '217'}: 2024-08-05 23:03:21
+Plot info: {'Survey No.': '169', 'Total Area': '3.1100', 'Pot kharaba': '0.0000', 'Owner Name': 'नयना हेमचंद्र गावंडे', 'Khata No.': '889'}: 2024-08-05 23:03:23
+Plot info: {'Survey No.': '17', 'Total Area': '1.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रमिला वामन मेश्राम, वच्छला भिमराव रामटेके', 'Khata No.': '113'}: 2024-08-05 23:03:25
+Plot info: {'Survey No.': '170', 'Total Area': '3.4400', 'Pot kharaba': '0.0000', 'Owner Name': 'अंकिता रमेश गावंडे, आदित्\u200dय रमेश गावंडे, कल्\u200dपना रमेश गावंडे, दिपाली दिलीप देशमुख, प्रकाश माणिकराव गावंडे, दिपक माणिकराव गावंडे', 'Khata No.': '929'}: 2024-08-05 23:03:26
+Plot info: {'Survey No.': '171', 'Total Area': '0.9100', 'Pot kharaba': '0.0000', 'Owner Name': 'उमेश त्र्यंबकराव बोंडे, देविदास निळकंठ गावंडे, रामदास निळकंठ गावंडे, सौ. बेबी पंडितराव ठाकरे, सौ. मालती हिंमत ठाकरे, केशव नारायण गावंडे', 'Khata No.': '71'}: 2024-08-05 23:03:27
+Plot info: {'Survey No.': '172', 'Total Area': '0.9200', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रभाकर महादेव गावंडे, राखी प्रकाश कोहळे, सचिन वसंतराव गावंडे, सारीका संदिप इंगोले, सुधाकर महादेव गावंडे, कलावंता ज.महादेव गावंडे', 'Khata No.': '119'}: 2024-08-05 23:03:29
+Plot info: {'Survey No.': '173', 'Total Area': '1.6000', 'Pot kharaba': '0.0000', 'Owner Name': 'दादाराव शंकरराव गावंडे, साहेबराव शंकरराव गावंडे, माधव शंकरराव गावंडे', 'Khata No.': '126'}: 2024-08-05 23:03:30
+Plot info: {'Survey No.': '174/4', 'Total Area': '1.1800', 'Pot kharaba': '0.0900', 'Owner Name': 'रघुनाथ हरिभाऊ बोराडे', 'Khata No.': '1007'}: 2024-08-05 23:03:32
+Plot info: {'Survey No.': '175', 'Total Area': '1.3700', 'Pot kharaba': '0.0500', 'Owner Name': 'सै.रियास सै.करीम', 'Khata No.': '858'}: 2024-08-05 23:03:33
+Plot info: {'Survey No.': '176', 'Total Area': '1.2000', 'Pot kharaba': '0.0300', 'Owner Name': 'चंदा वासुदेव शेवने, नारायण भिमराव शेवने, मंगेश वासुदेव शेवने, रमेश भिमराव शेवने, स्वाती वासुदेव शेवने, श्रीमती शांताबाई भिमराव शेवने', 'Khata No.': '106'}: 2024-08-05 23:03:35
+Plot info: {'Survey No.': '177/3', 'Total Area': '0.9300', 'Pot kharaba': '0.0000', 'Owner Name': 'दिलीप दशरथ अब्रुक .', 'Khata No.': '366'}: 2024-08-05 23:03:36
+Plot info: {'Survey No.': '178', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'राजेंद्र जगन्नाथ तायडे, नरेंद्र जगन्\u200dनाथ तायडे', 'Khata No.': '243'}: 2024-08-05 23:03:38
+Plot info: {'Survey No.': '179/2', 'Total Area': '1.6100', 'Pot kharaba': '0.0000', 'Owner Name': 'उमेशचंद्र वामनराव गावंडे, राजेंद्र वामनराव गावंडे, सतिश वामनराव गावंडे', 'Khata No.': '911'}: 2024-08-05 23:03:39
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 23:04:01
+Plot info: {'Survey No.': '18', 'Total Area': '1.8000', 'Pot kharaba': '0.0000', 'Owner Name': 'शंकर बांगोजी डोंगरे', 'Khata No.': '181'}: 2024-08-05 23:04:01
+Plot info: {'Survey No.': '180', 'Total Area': '6.4300', 'Pot kharaba': '0.0000', 'Owner Name': 'रविंद्र भोलारामजी बोने', 'Khata No.': '1040'}: 2024-08-05 23:04:03
+Plot info: {'Survey No.': '181', 'Total Area': '2.8900', 'Pot kharaba': '0.0000', 'Owner Name': 'सुरेखा प्रदिप देशमुख, सुलभा निळकंठ चौधरी, मोहन वासुदेव भोकरे', 'Khata No.': '166'}: 2024-08-05 23:04:04
+Plot info: {'Survey No.': '182', 'Total Area': '11.7500', 'Pot kharaba': '0.0900', 'Owner Name': 'विदयादेवी जुगलकिशोर राठी', 'Khata No.': '44'}: 2024-08-05 23:04:06
+Plot info: {'Survey No.': '183', 'Total Area': '3.2100', 'Pot kharaba': '0.0300', 'Owner Name': 'दिपक माणिकराव गावंडे', 'Khata No.': '964'}: 2024-08-05 23:04:07
+Plot info: {'Survey No.': '184', 'Total Area': '1.4500', 'Pot kharaba': '0.0000', 'Owner Name': 'चारु हरिश शहापुरे', 'Khata No.': '1026'}: 2024-08-05 23:04:09
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 23:04:30
+Plot info: {'Survey No.': '185', 'Total Area': '9.0300', 'Pot kharaba': '0.0000', 'Owner Name': 'विणादेवी त्रिभुवनदास मालपानी', 'Khata No.': '905'}: 2024-08-05 23:04:30
+Plot info: {'Survey No.': '186', 'Total Area': '1.1100', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक जानरावजी हाडके', 'Khata No.': '361'}: 2024-08-05 23:04:32
+Plot info: {'Survey No.': '187', 'Total Area': '6.7800', 'Pot kharaba': '0.0000', 'Owner Name': 'मुक्\u200dता सुधाकरराव मोहोड, सौ. शैलजाबाई शंकरराव वानखेडे', 'Khata No.': '174'}: 2024-08-05 23:04:34
+Plot info: {'Survey No.': '188', 'Total Area': '0.9000', 'Pot kharaba': '0.0000', 'Owner Name': 'मनोहर श्रीपतराव चोपडे', 'Khata No.': '96'}: 2024-08-05 23:04:35
+Plot info: {'Survey No.': '189', 'Total Area': '1.7100', 'Pot kharaba': '0.0000', 'Owner Name': 'नाना भिमराव मकेश्\u200dवर', 'Khata No.': '965'}: 2024-08-05 23:04:37
+Plot info: {'Survey No.': '19', 'Total Area': '1.9600', 'Pot kharaba': '0.0100', 'Owner Name': 'गोविंद तुकाराम मेश्राम', 'Khata No.': '35'}: 2024-08-05 23:04:39
+Plot info: {'Survey No.': '190', 'Total Area': '3.4400', 'Pot kharaba': '0.0000', 'Owner Name': 'रितु वसंतराव मालपानी', 'Khata No.': '205'}: 2024-08-05 23:04:40
+Plot info: {'Survey No.': '191', 'Total Area': '5.3000', 'Pot kharaba': '0.0000', 'Owner Name': 'दाउदालाल मोहनलाल छांगानी', 'Khata No.': '919'}: 2024-08-05 23:04:42
+Plot info: {'Survey No.': '192', 'Total Area': '1.6800', 'Pot kharaba': '0.0000', 'Owner Name': 'साधना पंजाबराव कांबळे', 'Khata No.': '909'}: 2024-08-05 23:04:44
+Plot info: {'Survey No.': '193', 'Total Area': '5.3400', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक उदेभान नागदिवे, नितीन उदेभान नागदिवे, निलेश उदेभान नागदिवे, मुरलीधर उदयेभान नागदिवे, सरिता राजीव मेश्राम, सिमा प्रशांत सहारे, संध्\u200dया घनश्\u200dयाम वासनिक, लता अंबादास मेश्राम', 'Khata No.': '1012'}: 2024-08-05 23:04:46
+Plot info: {'Survey No.': '194/3', 'Total Area': '1.6000', 'Pot kharaba': '0.0000', 'Owner Name': 'रजनी संजय गुप्ता', 'Khata No.': '1010'}: 2024-08-05 23:04:47
+Plot info: {'Survey No.': '195', 'Total Area': '0.8000', 'Pot kharaba': '0.0100', 'Owner Name': 'माणिकराव रूपराव सोलाव', 'Khata No.': '10'}: 2024-08-05 23:04:49
+Plot info: {'Survey No.': '196', 'Total Area': '0.8000', 'Pot kharaba': '0.0100', 'Owner Name': 'चंदाबाई रामकृष्ण सोलव', 'Khata No.': '251'}: 2024-08-05 23:04:51
+Plot info: {'Survey No.': '197', 'Total Area': '1.9300', 'Pot kharaba': '0.0000', 'Owner Name': 'उमा राहुल मेश्राम, उमेश शेषराव नागदिवे, दिनेश शेषराव नागदिवे, मनोज शेषराव नागदिवे, वंदना कैलास मेश्राम, रत्ना पंडीत कापसेकर', 'Khata No.': '187'}: 2024-08-05 23:04:53
+Plot info: {'Survey No.': '198', 'Total Area': '1.9900', 'Pot kharaba': '0.0000', 'Owner Name': 'अजय गोपाळराव वानखडे, करिष्\u200dमा गोपाळराव वानखडे, संजय गोपाळराव वानखडे, अनिता गोपाळराव वानखडे', 'Khata No.': '933'}: 2024-08-05 23:04:55
+Plot info: {'Survey No.': '199', 'Total Area': '0.9100', 'Pot kharaba': '0.0000', 'Owner Name': 'पुष्पा व्हि. ऊरकुडे, लोकेश अमर निनावे, विना अमर निनावे, शालीनी व्हि. ढोमने, वर्षा अमर निनावे', 'Khata No.': '87'}: 2024-08-05 23:04:57
+Plot info: {'Survey No.': '2', 'Total Area': '1.1400', 'Pot kharaba': '0.0900', 'Owner Name': 'मनोरंजन सुधाकरराव गावंडै', 'Khata No.': '236'}: 2024-08-05 23:04:59
+Plot info: {'Survey No.': '20', 'Total Area': '1.9700', 'Pot kharaba': '0.0100', 'Owner Name': 'देविदास मोतीराम गावंडै', 'Khata No.': '61'}: 2024-08-05 23:05:01
+Plot info: {'Survey No.': '200', 'Total Area': '2.4800', 'Pot kharaba': '0.2200', 'Owner Name': 'अरूणा पंजाबराव गावंडे, शाम पंजाबराव गावंडे, सुरेश पंजाब गावंडे, सुलोचना पंजाबराव गावंडे, हेमचंद्र पंजाबराव गावंडे, श्री मारोती संस्थान देवरी तर्फे सरपंच', 'Khata No.': '212'}: 2024-08-05 23:05:03
+Plot info: {'Survey No.': '201', 'Total Area': '1.2200', 'Pot kharaba': '0.0300', 'Owner Name': 'पुष्पा व्हि. ऊरकुडे, लोकेश अमर निनावे, विना अमर निनावे, शालीनी व्हि. ढोमने, वर्षा अमर निनावे', 'Khata No.': '87'}: 2024-08-05 23:05:05
+Plot info: {'Survey No.': '202', 'Total Area': '1.8300', 'Pot kharaba': '0.0500', 'Owner Name': 'अशोक झिंगुजी भुजाडे, अनिकेत अशोकराव भुजाडे', 'Khata No.': '986'}: 2024-08-05 23:05:06
+Plot info: {'Survey No.': '203', 'Total Area': '1.8000', 'Pot kharaba': '0.0500', 'Owner Name': 'अक्षय साहेबराव बारबुध्\u200dदे, उदया अशोंकराव टिपरे, मधुमती श्रीकृष्\u200dणराव मानकर, सिमा विठ्ठलराव महामुनी, मिनाताई साहेबराव बारबुध्\u200dदे', 'Khata No.': '903'}: 2024-08-05 23:05:08
+Plot info: {'Survey No.': '204', 'Total Area': '1.8000', 'Pot kharaba': '0.0500', 'Owner Name': 'मनुबाई रामचंद्र गाडे', 'Khata No.': '141'}: 2024-08-05 23:05:10
+Plot info: {'Survey No.': '205', 'Total Area': '1.8100', 'Pot kharaba': '0.0600', 'Owner Name': 'सिंधुताई महादेवराव काळे', 'Khata No.': '210'}: 2024-08-05 23:05:12
+Plot info: {'Survey No.': '206', 'Total Area': '2.0100', 'Pot kharaba': '0.1500', 'Owner Name': 'सुभाष गुलाबराव तायडे', 'Khata No.': '966'}: 2024-08-05 23:05:13
+Plot info: {'Survey No.': '207', 'Total Area': '4.1400', 'Pot kharaba': '0.3100', 'Owner Name': 'सुरेखा प्रदिप देशमुख, सुलभा निळकंठ चौधरी, मोहन वासुदेव भोकरे', 'Khata No.': '166'}: 2024-08-05 23:05:16
+Plot info: {'Survey No.': '208', 'Total Area': '0.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'शिवदास पांडुरंग भोकरे', 'Khata No.': '371'}: 2024-08-05 23:05:20
+Plot info: {'Survey No.': '209', 'Total Area': '4.4700', 'Pot kharaba': '0.0000', 'Owner Name': 'अंकीता रमेशराव गावंडे, आदीत्य रमेशराव गावंडे, कल्पना रमेशराव गावंडे', 'Khata No.': '136'}: 2024-08-05 23:05:22
+Plot info: {'Survey No.': '21', 'Total Area': '1.9700', 'Pot kharaba': '0.0000', 'Owner Name': 'गंगाबाई लक्ष्मण कोसमकार, ज्योती चिंतामन मोटघरे, रवि लक्ष्मण कोसमकार, वासुदेव लक्ष्मण कोसमकार', 'Khata No.': '156'}: 2024-08-05 23:05:24
+Plot info: {'Survey No.': '210', 'Total Area': '2.4200', 'Pot kharaba': '0.1400', 'Owner Name': 'गणेश रामचंद्र गावंडे', 'Khata No.': '261'}: 2024-08-05 23:05:25
+Plot info: {'Survey No.': '211', 'Total Area': '1.1500', 'Pot kharaba': '0.0700', 'Owner Name': 'अर्चना राजेश ठाकरे, आशिष रामदास गावंडे, रंजना रामदास गावंडे, विद्या रामदास गावंडे', 'Khata No.': '149'}: 2024-08-05 23:05:27
+Plot info: {'Survey No.': '212', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'आदेश प्रमोद लांडे', 'Khata No.': '1044'}: 2024-08-05 23:05:29
+Plot info: {'Survey No.': '213', 'Total Area': '6.4600', 'Pot kharaba': '0.0000', 'Owner Name': 'गौरीशंकर किसनलाल, लक्ष्मीनारायण किसनलाल, गोपीनाथ महाराज संस्थान वलगाव तर्फे वहीवाटदार', 'Khata No.': '33'}: 2024-08-05 23:05:31
+Plot info: {'Survey No.': '214', 'Total Area': '1.0600', 'Pot kharaba': '0.0000', 'Owner Name': 'भिमराव रोडकुजी रामटेके', 'Khata No.': '102'}: 2024-08-05 23:05:34
+Plot info: {'Survey No.': '215', 'Total Area': '1.0600', 'Pot kharaba': '0.0000', 'Owner Name': 'मोहनदास रोडकुजी रामटेके', 'Khata No.': '132'}: 2024-08-05 23:05:37
+Plot info: {'Survey No.': '216', 'Total Area': '1.2600', 'Pot kharaba': '0.0000', 'Owner Name': 'अंजनाबाई मोहन रामटेके', 'Khata No.': '218'}: 2024-08-05 23:05:40
+Plot info: {'Survey No.': '217', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'दिलीप अंबादास भिवगडे', 'Khata No.': '1046'}: 2024-08-05 23:05:42
+Plot info: {'Survey No.': '218', 'Total Area': '2.2000', 'Pot kharaba': '0.0000', 'Owner Name': 'सत्यपाल वामनराव मेश्राम', 'Khata No.': '996'}: 2024-08-05 23:05:44
+Plot info: {'Survey No.': '219', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'अंजना ज.जंगलु मेश्राम, कौसल्या ज.मारोती मेश्राम, चंद्रभागा ज.जंगलु चोखोबा, मारोतराव गोपालराव सुखदेवे', 'Khata No.': '129'}: 2024-08-05 23:05:47
+Plot info: {'Survey No.': '22', 'Total Area': '1.9900', 'Pot kharaba': '0.0200', 'Owner Name': 'शेषराव प्रल्\u200dहाद गावंडे, शंकर प्रल्\u200dहाद गावंडे, सुरदास प्रल्\u200dहाद गावंडे, सुमन प्रल्\u200dहाद गावंडे', 'Khata No.': '88'}: 2024-08-05 23:05:49
+Plot info: {'Survey No.': '220', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'सुरेंद्र पांडूरंग रामटेके, प्रकाश पांडूरंग रामटेके', 'Khata No.': '907'}: 2024-08-05 23:05:51
+Plot info: {'Survey No.': '221', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'मनकर्णा ज. श्रीधर घरडे, वत्सला ज. पंचम भोवते, शेवंती चंद्रभान बोरकर, अंबादास चंद्रभान बोरकर', 'Khata No.': '18'}: 2024-08-05 23:05:53
+Plot info: {'Survey No.': '222', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'कौसल्\u200dयाबाई ज. बापूराव, देविदास मोतीराम गावंडे , निर्मला दादाराव इंगळे, बनाबाई मोतीराम गावंडे, मिलिंद माणिक गावंडे, रत्\u200dनाबाई रामदास वाकोडे, रमाबाई जानराव इंगळे, राजेश माणिक गावंडे, रामदास मोतीराम गावंडे , सिता ज. किसन इंगोले, सुनिता अशोक वानखडे, हंसराज मोतीराम गावंडे, अन्\u200dनपुर्णा माणिक गावंडे', 'Khata No.': '128'}: 2024-08-05 23:05:55
+Plot info: {'Survey No.': '223', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'विठठल सूर्यभान सोलव', 'Khata No.': '914'}: 2024-08-05 23:05:57
+Plot info: {'Survey No.': '224', 'Total Area': '1.2700', 'Pot kharaba': '0.0000', 'Owner Name': 'अनिकेत अशोकराव भुजाडे', 'Khata No.': '11'}: 2024-08-05 23:05:59
+Plot info: {'Survey No.': '225', 'Total Area': '0.4200', 'Pot kharaba': '0.0000', 'Owner Name': 'अनिता शरद मेश्राम, गोपीचंद छत्रपती चिंचखेडे, रविंद्र छत्रपती चिंचखेडे, संगिता अनिल शेंडे, हरिश्\u200dचंद्र छत्रपती चिंचखेडे, सुशिला छत्रपती चिंचखेडे', 'Khata No.': '924'}: 2024-08-05 23:06:01
+Plot info: {'Survey No.': '226', 'Total Area': '1.7100', 'Pot kharaba': '0.0000', 'Owner Name': 'अनिता शरद मेश्राम, गोपीचंद छत्रपती चिंचखेडे, रविंद्र छत्रपती चिंचखेडे, संगिता अनिल शेंडे, हरिश्\u200dचंद्र छत्रपती चिंचखेडे, सुशिला छत्रपती चिंचखेडे', 'Khata No.': '924'}: 2024-08-05 23:06:03
+Plot info: {'Survey No.': '227', 'Total Area': '1.3500', 'Pot kharaba': '0.0000', 'Owner Name': 'निखिल मदनराव रामटेके, निलीमा मदनराव रामटेके, स्\u200dवप्\u200dनील मदनराव रामटेके, उषा मदनराव रामटेके', 'Khata No.': '293'}: 2024-08-05 23:06:05
+Plot info: {'Survey No.': '228', 'Total Area': '1.6800', 'Pot kharaba': '0.0000', 'Owner Name': 'सुखदेव रामराव मोहोड', 'Khata No.': '198'}: 2024-08-05 23:06:07
+Plot info: {'Survey No.': '229', 'Total Area': '1.6800', 'Pot kharaba': '0.0000', 'Owner Name': 'पद़मा अशोकराव दंडाळे, गजानन नारायण पुंड', 'Khata No.': '70'}: 2024-08-05 23:06:09
+Plot info: {'Survey No.': '23', 'Total Area': '1.9900', 'Pot kharaba': '0.0200', 'Owner Name': 'कलावंताबाई ज उत्\u200dतमराव चऱ्हाटे, मना ज.गुणवंतराव बिघे, लिला ज.महादेव वळे, शेवंता ज.अजाबराव इंगळे, सुनील हरीचंद्र गावंडे, कुसूम हरीचंद्र गावंडे', 'Khata No.': '918'}: 2024-08-05 23:06:11
+Plot info: {'Survey No.': '230', 'Total Area': '1.4100', 'Pot kharaba': '0.0000', 'Owner Name': 'आभिष अशोकराव हाडके', 'Khata No.': '880'}: 2024-08-05 23:06:13
+Plot info: {'Survey No.': '231', 'Total Area': '1.6800', 'Pot kharaba': '0.0000', 'Owner Name': 'अनिल वसंतराव तांबसकर, सचिन वसंतराव तांबसकर, सौ. सारीका अनंतराव लोंखडे, श्रीमती कांता वसंतराव तांबसकर', 'Khata No.': '912'}: 2024-08-05 23:06:15
+Plot info: {'Survey No.': '232', 'Total Area': '1.6700', 'Pot kharaba': '0.0000', 'Owner Name': 'धेांडूजी बिसाजी छापानीमोहन', 'Khata No.': '881'}: 2024-08-05 23:06:18
+Plot info: {'Survey No.': '233', 'Total Area': '1.6700', 'Pot kharaba': '0.0000', 'Owner Name': 'अ.रहीम शे. रहीम', 'Khata No.': '155'}: 2024-08-05 23:06:20
+Plot info: {'Survey No.': '234', 'Total Area': '1.6700', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक भिमराव वर्धे, किरण भिमराव वर्धे, विमल भिमराव वर्धे, ताराचंद भिमराव वर्धे', 'Khata No.': '104'}: 2024-08-05 23:06:22
+Plot info: {'Survey No.': '235/2', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'गोपीचंद छत्रपती चिचखेडे', 'Khata No.': '950'}: 2024-08-05 23:06:24
+Plot info: {'Survey No.': '236', 'Total Area': '1.7300', 'Pot kharaba': '0.0000', 'Owner Name': 'उमा संतोष दळवी ., कमल जानराव महल्\u200dले ., जयश्री जानराव महल्\u200dले ., मनोज जानराव महल्\u200dले ., राजेश जानराव महल्ले .', 'Khata No.': '42'}: 2024-08-05 23:06:27
+Plot info: {'Survey No.': '237', 'Total Area': '1.7300', 'Pot kharaba': '0.0000', 'Owner Name': 'कांताबाइ नागोराव पाटील, पार्वताबाई बळवंत शेंडे, सुमनबाइ शामराव डवरे, संगिता बळवंत शेंडे, पंडित बळवंत शेंडे', 'Khata No.': '93'}: 2024-08-05 23:06:29
+Plot info: {'Survey No.': '238', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'सुरेश खटुजी तायडे', 'Khata No.': '882'}: 2024-08-05 23:06:31
+Plot info: {'Survey No.': '239', 'Total Area': '1.7300', 'Pot kharaba': '0.0000', 'Owner Name': 'अलका दिवाकर मांडवेकर, आनंद दिवाकर मांडवेकर, रविंद्र दिवाकर मांडवेकर, नलीनी दिवाकर मांडवेकर', 'Khata No.': '69'}: 2024-08-05 23:06:33
+Plot info: {'Survey No.': '24', 'Total Area': '2.0000', 'Pot kharaba': '0.0300', 'Owner Name': 'गजानन सुखदेव भोकरे, शोभा सुरेशराव अपराधे, वेणुबाई सुखदेव भोकरे', 'Khata No.': '883'}: 2024-08-05 23:06:36
+Plot info: {'Survey No.': '240', 'Total Area': '1.7300', 'Pot kharaba': '0.0000', 'Owner Name': 'मिना मधुकरराव विंचूरकर, विजय मधुकरराव विंचूरकर', 'Khata No.': '341'}: 2024-08-05 23:06:38
+Plot info: {'Survey No.': '241', 'Total Area': '1.7300', 'Pot kharaba': '0.0000', 'Owner Name': 'सिमा मुरलीधर तायडे, प्रदिप मुरलीधर तायडे', 'Khata No.': '131'}: 2024-08-05 23:06:41
+Plot info: {'Survey No.': '242', 'Total Area': '1.7000', 'Pot kharaba': '0.0000', 'Owner Name': 'अवधुत रघुनाथ सूखदेवे, गजानन रघूनाथ सूखदेवे, तारा रमेश मेश्राम, रंजना नरेन्\u200dद्र लांजेवार, कामीना रघुनाथ सूखदेवे', 'Khata No.': '139'}: 2024-08-05 23:06:43
+Plot info: {'Survey No.': '243', 'Total Area': '1.7000', 'Pot kharaba': '0.0000', 'Owner Name': 'उमा राहुल मेश्राम, उमेश शेषराव नागदिवे, दिनेश शेषराव नागदिवे, मनोज शेषराव नागदिवे, वंदना कैलास मेश्राम, रत्ना पंडीत कापसेकर', 'Khata No.': '187'}: 2024-08-05 23:06:45
+Plot info: {'Survey No.': '244', 'Total Area': '1.7000', 'Pot kharaba': '0.0000', 'Owner Name': 'इंदिरा चंद्रभान गावंडे, रत्नदिप भिमराव गावंडे, राहुल चंद्रभान गावंडे, वैशालि चंद्रभान गावंडे, शोभा ज. गजानन, संजय भिमराव गावंडे, संतोष भिमराव गावंडे, ग.भा. सुमित्राबाइ भिमराव गावंडे', 'Khata No.': '103'}: 2024-08-05 23:06:47
+Plot info: {'Survey No.': '245', 'Total Area': '1.9100', 'Pot kharaba': '0.0000', 'Owner Name': 'देवराव आकाराम गाडेराव, पांडुरंग आकाराम गाडेराव, लता भिमराव मनोहरे, सुवर्णा अजाब मनोहरे, वेणुबाई आकाराम गाडेराव', 'Khata No.': '886'}: 2024-08-05 23:06:50
+Plot info: {'Survey No.': '246', 'Total Area': '1.5400', 'Pot kharaba': '0.0000', 'Owner Name': 'जकीया खातुन मोहम्\u200dमद सुलेमान, जाहेदाबी मोहम्\u200dमद रहेमान, सैय्यद अमीर यावरअली, सैय्यद जमील यावरअली, सैय्यद करीम यावरअली', 'Khata No.': '887'}: 2024-08-05 23:06:52
+Plot info: {'Survey No.': '247', 'Total Area': '1.7400', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक ओंकार जवंजाळ, भाष्\u200dकर ओैकार जवंजाळ, महेंद्र ओंकार जवंजाळ, मिना देविदास मोखडे, रेखा नंदकुमार इंगोले, शालिनी दिनकरराव गरुड, शकुंतलाबाई ओंकार जवंजाळ', 'Khata No.': '888'}: 2024-08-05 23:06:54
+Plot info: {'Survey No.': '248', 'Total Area': '1.7400', 'Pot kharaba': '0.0000', 'Owner Name': 'बाळु श्रीराम महल्ले', 'Khata No.': '97'}: 2024-08-05 23:06:56
+Plot info: {'Survey No.': '249', 'Total Area': '1.7400', 'Pot kharaba': '0.0000', 'Owner Name': 'साहेबराव विश्\u200dवासराव वानखडे', 'Khata No.': '326'}: 2024-08-05 23:06:57
+Plot info: {'Survey No.': '25', 'Total Area': '3.8500', 'Pot kharaba': '0.1100', 'Owner Name': 'रामभाउ मारोतराव अब्रुक', 'Khata No.': '47'}: 2024-08-05 23:06:59
+Plot info: {'Survey No.': '250', 'Total Area': '1.7400', 'Pot kharaba': '0.0000', 'Owner Name': 'रामदास विश्राम मकेसर', 'Khata No.': '942'}: 2024-08-05 23:07:01
+Plot info: {'Survey No.': '251', 'Total Area': '1.6300', 'Pot kharaba': '0.0000', 'Owner Name': 'नयना हेमचंद्र गावंडे', 'Khata No.': '889'}: 2024-08-05 23:07:04
+Plot info: {'Survey No.': '252', 'Total Area': '2.4500', 'Pot kharaba': '0.0000', 'Owner Name': 'बेबी देविदास धोटे', 'Khata No.': '124'}: 2024-08-05 23:07:06
+Plot info: {'Survey No.': '253', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'विजय शंकरराव खिरकर', 'Khata No.': '62'}: 2024-08-05 23:07:08
+Plot info: {'Survey No.': '254', 'Total Area': '1.2000', 'Pot kharaba': '0.0000', 'Owner Name': 'श्री वसंतराव झिंगुजी भुजाडे', 'Khata No.': '938'}: 2024-08-05 23:07:10
+Plot info: {'Survey No.': '255', 'Total Area': '1.8700', 'Pot kharaba': '0.0000', 'Owner Name': 'गुलाम हूसेन शे. महमद, रिजवानबी शे.महमद, हलिमाबी शे. महंमद, अ.शादिक शे.महमंद', 'Khata No.': '123'}: 2024-08-05 23:07:12
+Plot info: {'Survey No.': '256', 'Total Area': '1.7600', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक वामनराव चिरडे', 'Khata No.': '1'}: 2024-08-05 23:07:15
+Plot info: {'Survey No.': '257', 'Total Area': '1.7500', 'Pot kharaba': '0.0000', 'Owner Name': 'अरुणाताई रामेश्वर पवार, दिलीप बाळकृष्ण सोळंके, मिनाताई ओकांरराव चव्हाण, चंद्रकला बाळकृष्ण सोळंके', 'Khata No.': '283'}: 2024-08-05 23:07:17
+Plot info: {'Survey No.': '258', 'Total Area': '1.7500', 'Pot kharaba': '0.0000', 'Owner Name': 'पांडुरंग विठठल खरसान', 'Khata No.': '76'}: 2024-08-05 23:07:19
+Plot info: {'Survey No.': '259', 'Total Area': '1.6800', 'Pot kharaba': '0.0000', 'Owner Name': 'विजय शंकरराव खिरकर', 'Khata No.': '62'}: 2024-08-05 23:07:21
+Plot info: {'Survey No.': '26', 'Total Area': '1.4600', 'Pot kharaba': '0.0000', 'Owner Name': 'अपाक बेबी सुधाकर गावंडे, नरंेद्र दशरथ गावंडे, पदमा सुधाकर गावंडे, बेबीताई सुधाकर गावंडे, मनोरंजन सुधाकर गावंडे, राजेंद्र दशरथ गावंडे, श्रीमती हिरू दशरथ गावंडे, सौ. संध्या बाबुराव नितनवरे, संगिता एकनाथ तायडे, द्वारकाबाई ज्ञानेश्वर आठवले', 'Khata No.': '60'}: 2024-08-05 23:07:24
+Plot info: {'Survey No.': '260', 'Total Area': '1.6400', 'Pot kharaba': '0.0000', 'Owner Name': 'श्री संदीप अजाबराव लव्हाळे', 'Khata No.': '945'}: 2024-08-05 23:07:27
+Plot info: {'Survey No.': '261', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'अनिता विजय खिरकर', 'Khata No.': '906'}: 2024-08-05 23:07:29
+Plot info: {'Survey No.': '262', 'Total Area': '1.6800', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रशांत रामहरी खंडार', 'Khata No.': '976'}: 2024-08-05 23:07:31
+Plot info: {'Survey No.': '263/2', 'Total Area': '0.8100', 'Pot kharaba': '0.0200', 'Owner Name': 'अशोक झिंगुजी भुजाडे', 'Khata No.': '864'}: 2024-08-05 23:07:33
+Plot info: {'Survey No.': '264', 'Total Area': '1.9100', 'Pot kharaba': '0.1000', 'Owner Name': 'आदिती सौरभ डागा', 'Khata No.': '338'}: 2024-08-05 23:07:36
+Plot info: {'Survey No.': '27', 'Total Area': '0.3600', 'Pot kharaba': '0.0000', 'Owner Name': 'गजानन पुरुषोत्तम कोसमकार, निरंजन पुरुषोत्तम कोसमकार, शुक्राताई विठ्ठलराव रामटेके', 'Khata No.': '81'}: 2024-08-05 23:07:41
+Plot info: {'Survey No.': '28', 'Total Area': '0.3400', 'Pot kharaba': '0.0000', 'Owner Name': 'गजानन पुरुषोत्तम कोसमकार, डोमाजी ज.गणु कोसमकर, निरंजन पुरुषोत्तम कोसमकार, शुक्राताई विठ्ठलराव रामटेके', 'Khata No.': '171'}: 2024-08-05 23:07:48
+Plot info: {'Survey No.': '29/अ', 'Total Area': '2.3800', 'Pot kharaba': '0.0000', 'Owner Name': 'गणेश दमडुजी गवई, नागोराव जोतीराम गावंडे, बकुबाई जोतीराम गावंडे, रेखा शंकरराव सोनोने, शेषराव प्रल्\u200dहाद गावंडे, शंकर प्रल्\u200dहाद गावंडे, सुमन प्रल्\u200dहाद गावंडे, सुरदास प्रल्\u200dहाद गावंडे, सूदाम़ जोतीराम गावंडे, नंदकिशोर बिसनराव कांबळे', 'Khata No.': '195'}: 2024-08-05 23:07:51
+Plot info: {'Survey No.': '3', 'Total Area': '1.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'कांता अशोक शेळके, प्रफुल्ल कंढु अंबोरे, प्रिती कंढु अंबोरे, बेबी नंदा कंढु अंबोरे, रूपाली कंढु अंबोरे, रोषनी कंढु अंबोरे, शांता उत्\u200dतमराव चांदणे, शेवंता माकोडाजी तायडे, लक्ष्मण गुलाब अंबोरे', 'Khata No.': '98'}: 2024-08-05 23:07:53
+Plot info: {'Survey No.': '30', 'Total Area': '0.2600', 'Pot kharaba': '0.0000', 'Owner Name': 'उमेश त्र्यंबकराव बोंडे, देविदास निळकंठ गावंडे, रामदास निळकंठ गावंडे, सौ. बेबी पंडितराव ठाकरे, सौ. मालती हिंमत ठाकरे, केशव नारायण गावंडे', 'Khata No.': '71'}: 2024-08-05 23:07:56
+Plot info: {'Survey No.': '31', 'Total Area': '0.3700', 'Pot kharaba': '0.0000', 'Owner Name': 'सुरेश नथ्\u200dथुजी खैरकर', 'Khata No.': '254'}: 2024-08-05 23:07:59
+Plot info: {'Survey No.': '32', 'Total Area': '0.8900', 'Pot kharaba': '0.0000', 'Owner Name': 'निलेश नागोराव गावंडे', 'Khata No.': '322'}: 2024-08-05 23:08:02
+Plot info: {'Survey No.': '33', 'Total Area': '0.9600', 'Pot kharaba': '0.0000', 'Owner Name': 'इंदिरा अनिल गजबिये, प्रताप उकंडा वासनिक, रेखा वैकुंठ पाटील, सविता कृष्णा उके, सुमित्रा दादाराव चवरे, नामदेव उकंडा वासनिक', 'Khata No.': '22'}: 2024-08-05 23:08:05
+Plot info: {'Survey No.': '34', 'Total Area': '0.9000', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रददुमकुमार वसंत मालपाणी', 'Khata No.': '154'}: 2024-08-05 23:08:08
+Plot info: {'Survey No.': '35', 'Total Area': '1.0600', 'Pot kharaba': '0.0200', 'Owner Name': 'कांता अरुण डोंगरे, तुळसा ज.दगडु मेश्राम, दादाराव दगडु मेश्राम, नथ्थु दगडु मेश्राम, बकाराम दगडु मेश्राम, बेबीताई दगडु मेश्राम, लक्ष्मण दगडु मेश्राम', 'Khata No.': '52'}: 2024-08-05 23:08:10
+Plot info: {'Survey No.': '36', 'Total Area': '1.0600', 'Pot kharaba': '0.0200', 'Owner Name': 'शामराव बापुराव बरडे', 'Khata No.': '182'}: 2024-08-05 23:08:14
+Plot info: {'Survey No.': '37/2', 'Total Area': '1.2300', 'Pot kharaba': '0.0200', 'Owner Name': 'जगदिश जयवंतराव बोंडे, विना दिनेशराव उल्\u200dहे, सुभाष जयवंतराव बोंडे, हेमचंद्र जयवंतराव बोंडे, चंद्रशेखर जयवंतराव बोंडे', 'Khata No.': '916'}: 2024-08-05 23:08:17
+Plot info: {'Survey No.': '38', 'Total Area': '0.7900', 'Pot kharaba': '0.0200', 'Owner Name': 'शरद झिंगु हाडके', 'Khata No.': '46'}: 2024-08-05 23:08:23
+Plot info: {'Survey No.': '39', 'Total Area': '1.0400', 'Pot kharaba': '0.0000', 'Owner Name': 'अपाक आई बकुबाई बसवंत, पुंडलिक बसवंत सुखदेवे', 'Khata No.': '84'}: 2024-08-05 23:08:31
+Plot info: {'Survey No.': '4', 'Total Area': '1.7900', 'Pot kharaba': '0.0000', 'Owner Name': 'नरेंद्र तुळशीराम भोवते, निर्मला नाना बोरकर, राजेंद्र तुळशीराम भोवते, सुभद्रा ललीत नेवारे, महानंदा भिमराव वाहणे', 'Khata No.': '925'}: 2024-08-05 23:08:34
+Plot info: {'Survey No.': '40', 'Total Area': '1.0900', 'Pot kharaba': '0.0000', 'Owner Name': 'नारायण रायभान सुखदेवे, बयना लक्ष्मण ढोके, लक्ष्मण रायभान सुखदेवे, रामदास रायभान सुखदेवे', 'Khata No.': '910'}: 2024-08-05 23:08:38
+Plot info: {'Survey No.': '41/2', 'Total Area': '1.3100', 'Pot kharaba': '0.0000', 'Owner Name': 'वासुदेव शामरावजी मुंडाले', 'Khata No.': '7'}: 2024-08-05 23:08:42
+Plot info: {'Survey No.': '42', 'Total Area': '0.8300', 'Pot kharaba': '0.0000', 'Owner Name': 'पुंडलिकराव बसवंतराव सुखदेवे', 'Khata No.': '961'}: 2024-08-05 23:08:44
+Plot info: {'Survey No.': '43', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'सुरेश पंजाबराव गावंडे', 'Khata No.': '200'}: 2024-08-05 23:08:46
+Plot info: {'Survey No.': '44/5', 'Total Area': '2.0500', 'Pot kharaba': '0.0000', 'Owner Name': 'रमेश अवधुतराव सोनटक्\u200dके', 'Khata No.': '972'}: 2024-08-05 23:08:50
+Plot info: {'Survey No.': '45', 'Total Area': '2.7000', 'Pot kharaba': '0.0000', 'Owner Name': 'पूष्\u200dपा सूरेशराव गावंडे', 'Khata No.': '224'}: 2024-08-05 23:08:52
+Plot info: {'Survey No.': '46', 'Total Area': '1.3800', 'Pot kharaba': '0.0000', 'Owner Name': 'सुरेश पंजाबराव गावंडे', 'Khata No.': '200'}: 2024-08-05 23:08:54
+Plot info: {'Survey No.': '47', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'नागोराव माणीकराव देठे . .', 'Khata No.': '941'}: 2024-08-05 23:08:56
+Plot info: {'Survey No.': '48', 'Total Area': '4.1000', 'Pot kharaba': '0.0000', 'Owner Name': 'मालिनीबाई कृष्णराव काळे', 'Khata No.': '121'}: 2024-08-05 23:08:59
+Plot info: {'Survey No.': '49/3', 'Total Area': '1.4000', 'Pot kharaba': '0.0000', 'Owner Name': 'ज्ञानेश्वर चांगदेवराव सुखदेवे', 'Khata No.': '1035'}: 2024-08-05 23:09:01
+Plot info: {'Survey No.': '5', 'Total Area': '1.7900', 'Pot kharaba': '0.0000', 'Owner Name': 'रामचंद्र गोविंद हाडके', 'Khata No.': '144'}: 2024-08-05 23:09:04
+Plot info: {'Survey No.': '50', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'सुरेश बकारामजी मेश्राम', 'Khata No.': '999'}: 2024-08-05 23:09:07
+Plot info: {'Survey No.': '51', 'Total Area': '1.7200', 'Pot kharaba': '0.0000', 'Owner Name': 'कृष्णा उघडु उके, पूष्\u200dपा घनश्\u200dयाम उके, विशाखा प्रमोद डोंगरे, वैशाली घनश्याम उके, शुभम घनश्याम उके, सारिका घनश्याम उके, सुजाता घनश्याम उके, सुधिर घनश्याम उके, श्रीमती देवका उघडु उके', 'Khata No.': '23'}: 2024-08-05 23:09:10
+Plot info: {'Survey No.': '52', 'Total Area': '0.8900', 'Pot kharaba': '0.0000', 'Owner Name': 'रामदास नानाजी वाघ', 'Khata No.': '146'}: 2024-08-05 23:09:12
+Plot info: {'Survey No.': '53', 'Total Area': '1.7200', 'Pot kharaba': '0.0000', 'Owner Name': 'वेनुबाई साहेवराव गावंडे', 'Khata No.': '180'}: 2024-08-05 23:09:15
+Plot info: {'Survey No.': '54', 'Total Area': '0.5800', 'Pot kharaba': '0.0000', 'Owner Name': 'अशोक मोतीराम सुखदेवे', 'Khata No.': '899'}: 2024-08-05 23:09:19
+Plot info: {'Survey No.': '55', 'Total Area': '1.7200', 'Pot kharaba': '0.0000', 'Owner Name': 'दिपाली मनोजराव कदम, बेबीबाई ज्ञानेश्\u200dवरराव कदम, सचिन प्रल्\u200dहादराव शिंदे, सारिका अरविंदराव वानखडे, सिमा युवराज चौधरी, सोनाली संदीपराव वानखडे', 'Khata No.': '316'}: 2024-08-05 23:09:23
+Plot info: {'Survey No.': '56', 'Total Area': '4.0400', 'Pot kharaba': '0.0000', 'Owner Name': 'सुरेन्\u200dद्र सुखदेव रामटेके', 'Khata No.': '893'}: 2024-08-05 23:09:26
+Plot info: {'Survey No.': '57', 'Total Area': '0.7800', 'Pot kharaba': '0.0000', 'Owner Name': 'महेंद्र सुखदेव रामटेके', 'Khata No.': '67'}: 2024-08-05 23:09:28
+Plot info: {'Survey No.': '58', 'Total Area': '1.7400', 'Pot kharaba': '0.0000', 'Owner Name': 'सुरेश शेषराव विघे', 'Khata No.': '26'}: 2024-08-05 23:09:31
+Plot info: {'Survey No.': '59', 'Total Area': '1.6900', 'Pot kharaba': '0.0000', 'Owner Name': 'रामदास दौलतराव गावंडे', 'Khata No.': '148'}: 2024-08-05 23:09:34
+Plot info: {'Survey No.': '6', 'Total Area': '0.9600', 'Pot kharaba': '0.0300', 'Owner Name': 'आनंद उल्\u200dहासराव देशमुख, अजित उल्\u200dहासराव देशमुख', 'Khata No.': '295'}: 2024-08-05 23:09:36
+Plot info: {'Survey No.': '60', 'Total Area': '1.0100', 'Pot kharaba': '0.0000', 'Owner Name': 'हफीज खाँ लतिफ खाँ सौदागर', 'Khata No.': '1042'}: 2024-08-05 23:09:39
+Plot info: {'Survey No.': '61', 'Total Area': '0.8300', 'Pot kharaba': '0.0000', 'Owner Name': 'नितीन भिमराव रामटेके', 'Khata No.': '980'}: 2024-08-05 23:09:41
+Plot info: {'Survey No.': '62', 'Total Area': '0.5400', 'Pot kharaba': '0.0000', 'Owner Name': 'ज्ञानदेव डोमाजी जवंजाळ', 'Khata No.': '272'}: 2024-08-05 23:09:44
+Plot info: {'Survey No.': '63', 'Total Area': '1.4700', 'Pot kharaba': '0.0000', 'Owner Name': 'संदिप अजाबराव लव्हाळे', 'Khata No.': '993'}: 2024-08-05 23:09:47
+Plot info: {'Survey No.': '64', 'Total Area': '0.7200', 'Pot kharaba': '0.0200', 'Owner Name': 'प्रभाकर मधुकर गावंडे', 'Khata No.': '1028'}: 2024-08-05 23:09:49
+Plot info: {'Survey No.': '65', 'Total Area': '0.3300', 'Pot kharaba': '0.0000', 'Owner Name': 'महेंद्र सुखदेव रामटेके', 'Khata No.': '67'}: 2024-08-05 23:09:52
+Plot info: {'Survey No.': '66', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'स्\u200dनेहल आनंदराव नागदिवे', 'Khata No.': '977'}: 2024-08-05 23:09:55
+Plot info: {'Survey No.': '67', 'Total Area': '1.7600', 'Pot kharaba': '0.0000', 'Owner Name': 'अरुण महादेव भोवते , कमला सुखदेव गजभिये , चंदा नथ्\u200dथुजी वाकोडे', 'Khata No.': '115'}: 2024-08-05 23:09:57
+Plot info: {'Survey No.': '68/2', 'Total Area': '0.4400', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रियंका विपीनराव काळपांडे', 'Khata No.': '384'}: 2024-08-05 23:10:00
+Plot info: {'Survey No.': '69', 'Total Area': '0.7600', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रियंका विपीनराव काळपांडे', 'Khata No.': '384'}: 2024-08-05 23:10:03
+Plot info: {'Survey No.': '7', 'Total Area': '1.8000', 'Pot kharaba': '0.0000', 'Owner Name': 'दादाराव महादेव उके', 'Khata No.': '53'}: 2024-08-05 23:10:06
+Plot info: {'Survey No.': '70', 'Total Area': '0.7500', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रियंका विपीनराव काळपांडे', 'Khata No.': '384'}: 2024-08-05 23:10:08
+Plot info: {'Survey No.': '71', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'मोहनदास रोडकुजी रामटेके', 'Khata No.': '132'}: 2024-08-05 23:10:12
+Plot info: {'Survey No.': '72', 'Total Area': '1.6000', 'Pot kharaba': '0.0000', 'Owner Name': 'अनिल भिमराव रामटेके, नितीन भिमराव रामटेके', 'Khata No.': '997'}: 2024-08-05 23:10:15
+Plot info: {'Survey No.': '73', 'Total Area': '0.7700', 'Pot kharaba': '0.0000', 'Owner Name': 'चि जगदिश भिमराव रामटेके', 'Khata No.': '921'}: 2024-08-05 23:10:18
+Plot info: {'Survey No.': '74', 'Total Area': '0.7800', 'Pot kharaba': '0.0000', 'Owner Name': 'चंद्रकला बळीराम कोसमकार, प्रभाकर बळीराम कोसमकार, लक्ष्मी देवानंद वासनिक, सौ. मिरा सुरेश चवरे, सौ.दुर्गाबाई नामदेव मेश्राम', 'Khata No.': '208'}: 2024-08-05 23:10:20
+Plot info: {'Survey No.': '75', 'Total Area': '0.8000', 'Pot kharaba': '0.0000', 'Owner Name': 'नंदकिशोर पंजाबराव वासेवाय', 'Khata No.': '329'}: 2024-08-05 23:10:23
+Plot info: {'Survey No.': '76', 'Total Area': '0.7800', 'Pot kharaba': '0.0000', 'Owner Name': 'विनोद नामदेवराव कोवळे', 'Khata No.': '298'}: 2024-08-05 23:10:25
+Plot info: {'Survey No.': '77', 'Total Area': '0.7800', 'Pot kharaba': '0.0000', 'Owner Name': 'अंबाबाई हसन मेश्राम, करीष्\u200dमा शंकर तिडके, किसन सखाराम मेश्राम, कृष्णा हसन मेश्राम, पांडुरंग हसन मेश्राम, पुजा प्रमोद बागडे, पुष्पा दिवाकर बेलोकार, बेबी हरीदास मेश्राम, मुकेश देविदास मेश्राम, राजु हरीदास मेश्राम, लता देविदास मेश्राम, शिवदास हसन मेश्राम, संतोष हरीदास मेश्राम, इसन सखाराम मेश्राम', 'Khata No.': '915'}: 2024-08-05 23:10:29
+Plot info: {'Survey No.': '78', 'Total Area': '0.7900', 'Pot kharaba': '0.0000', 'Owner Name': 'सतिश दादाराव तायडे', 'Khata No.': '28'}: 2024-08-05 23:10:31
+Plot info: {'Survey No.': '79', 'Total Area': '1.6700', 'Pot kharaba': '0.0000', 'Owner Name': 'किरण आनंद मेश्राम', 'Khata No.': '334'}: 2024-08-05 23:10:34
+Plot info: {'Survey No.': '8', 'Total Area': '1.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'अनिल भगवान रामटेके, दिलीप भगवान रामटेके, वंदना बंडु गजभिये, सुनिल भगवान रामटेके, जिजाबाई भगवान रामटेके', 'Khata No.': '100'}: 2024-08-05 23:10:36
+Plot info: {'Survey No.': '80', 'Total Area': '2.0100', 'Pot kharaba': '0.0000', 'Owner Name': 'देविदास नानाजी वाघ', 'Khata No.': '953'}: 2024-08-05 23:10:39
+Plot info: {'Survey No.': '81', 'Total Area': '5.1200', 'Pot kharaba': '0.0000', 'Owner Name': 'मनोहर संतोषराव महाजन', 'Khata No.': '190'}: 2024-08-05 23:10:42
+Plot info: {'Survey No.': '82', 'Total Area': '1.6300', 'Pot kharaba': '0.0000', 'Owner Name': 'समीर अरुणकुमार गावंडे ., छायाबाई अरूण कुमार गावंडे', 'Khata No.': '2'}: 2024-08-05 23:10:44
+Plot info: {'Survey No.': '83', 'Total Area': '1.4000', 'Pot kharaba': '0.0000', 'Owner Name': 'समीर अरुणकुमार गावंडे ., छायाबाई अरूण कुमार गावंडे', 'Khata No.': '2'}: 2024-08-05 23:10:47
+Plot info: {'Survey No.': '84/2', 'Total Area': '3.0800', 'Pot kharaba': '0.0000', 'Owner Name': 'राहुल मनोहर गावंडे', 'Khata No.': '244'}: 2024-08-05 23:10:50
+Plot info: {'Survey No.': '85', 'Total Area': '8.7600', 'Pot kharaba': '0.0000', 'Owner Name': 'कुकुबाई ज.महादेव राउत, मिलींद वसंतराव हंबर्डे, मंदा पंजाबराव निंगोट, सुवर्णा सुरेश राऊत, संदिप वसंतराव हंबर्डे, प्रमिला वसंतराव हंबर्डे', 'Khata No.': '114'}: 2024-08-05 23:10:53
+Plot info: {'Survey No.': '86/2', 'Total Area': '2.8300', 'Pot kharaba': '0.0000', 'Owner Name': 'मनोहर संतोषराव महाजन', 'Khata No.': '190'}: 2024-08-05 23:10:56
+Plot info: {'Survey No.': '87', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'अ.पा.क.आई सुनंदा ज्ञानेश्वर नागदिेवे, अविनाश ज्ञानेश्वर नागदिवे, सुनंदा ज्ञानेश्वर नागदिवे, रवि ज्ञानेश्वर नागदिवे', 'Khata No.': '216'}: 2024-08-05 23:10:59
+Plot info: {'Survey No.': '88/2', 'Total Area': '0.8300', 'Pot kharaba': '0.0000', 'Owner Name': 'नामदेव बाळकृष्णाजी राऊत', 'Khata No.': '1036'}: 2024-08-05 23:11:03
+Plot info: {'Survey No.': '89', 'Total Area': '0.8900', 'Pot kharaba': '0.0000', 'Owner Name': 'अण्णा खूशालराव गजभिये', 'Khata No.': '85'}: 2024-08-05 23:11:07
+Plot info: {'Survey No.': '9', 'Total Area': '1.8200', 'Pot kharaba': '0.1200', 'Owner Name': 'प्रभाकर पुर्णाजी मेश्राम, मिलिंद पुर्णाजी मेश्राम', 'Khata No.': '83'}: 2024-08-05 23:11:11
+Plot info: {'Survey No.': '90', 'Total Area': '0.4500', 'Pot kharaba': '0.0000', 'Owner Name': 'गजानन पुरुषोत्तम कोसमकार, निरंजन पुरुषोत्तम कोसमकार, शुक्राताई विठ्ठलराव रामटेके', 'Khata No.': '81'}: 2024-08-05 23:11:15
+Plot info: {'Survey No.': '91', 'Total Area': '0.9600', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रविण प्रकाशराव टपके', 'Khata No.': '1016'}: 2024-08-05 23:11:20
+Plot info: {'Survey No.': '92', 'Total Area': '0.5300', 'Pot kharaba': '0.0000', 'Owner Name': 'संदिप प्रकाशराव टपके', 'Khata No.': '1015'}: 2024-08-05 23:11:24
+Plot info: {'Survey No.': '93', 'Total Area': '2.4300', 'Pot kharaba': '0.0000', 'Owner Name': 'महेंद्र सुखदेव रामटेके', 'Khata No.': '67'}: 2024-08-05 23:11:27
+Plot info: {'Survey No.': '94', 'Total Area': '3.8300', 'Pot kharaba': '0.0000', 'Owner Name': 'अनिल वैकुंठराव काळे, कुसुम पंडित वाकोडै, मालीणी मधुंकरराव भोकरे, शाम मधुकरराव भोकरे, सतिश वैकुंठराव काळे, सपना मधुकरराव भोकरे, सुनिल वैकुंठराव काळे, सुरेखा प्रदिप देशमुख, सुलभा निळकंठ चौधरी, स्\u200dवप्\u200dनील मधुकरराव भोकरे, मोहन वासुदेव भोकरे', 'Khata No.': '336'}: 2024-08-05 23:11:31
+Plot info: {'Survey No.': '95', 'Total Area': '2.7100', 'Pot kharaba': '0.0000', 'Owner Name': 'सुधिर पदमाकर गावंडे', 'Khata No.': '981'}: 2024-08-05 23:11:34
+Plot info: {'Survey No.': '96', 'Total Area': '1.8200', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रज्वल प्रमोद गावंडे अ.पा.क. आई सरला प्रमोद गावंडे, श्रेयश प्रमोद गावंडे, सरला प्रमोद गावंडे', 'Khata No.': '1009'}: 2024-08-05 23:11:37
+Plot info: {'Survey No.': '97', 'Total Area': '1.0300', 'Pot kharaba': '0.0000', 'Owner Name': 'सुधाकर महादेवराव गावंडे', 'Khata No.': '351'}: 2024-08-05 23:11:40
+Plot info: {'Survey No.': '98', 'Total Area': '1.0300', 'Pot kharaba': '0.0000', 'Owner Name': 'बेबीताई किसनराव गावंडे', 'Khata No.': '99'}: 2024-08-05 23:11:42
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 23:12:05
+Plot info: {'Survey No.': '99', 'Total Area': '2.9500', 'Pot kharaba': '0.0000', 'Owner Name': 'शाम पंजाबराव गावंडे .', 'Khata No.': '27'}: 2024-08-05 23:12:05
+Village '270700100077240000 देवरी' processed: 2024-08-05 23:12:05
+Time taken for village '270700100077240000 देवरी': 0:12:34.109598: 2024-08-05 23:12:05
+Script completed for village '270700100077240000 देवरी': 2024-08-05 23:12:08

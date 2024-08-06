@@ -1,0 +1,17 @@
+Opened the webpage: 2024-08-05 23:33:14
+Page loaded: 2024-08-05 23:33:14
+District folder '07 अमरावती' created or already exists: 2024-08-05 23:33:20
+Taluka folder '10 भातकुली' created or already exists: 2024-08-05 23:33:21
+Plot info: {'Survey No.': '1/2', 'Total Area': '7.0000', 'Pot kharaba': '0.0000', 'Owner Name': 'नरेंद्रसिंग गोविदसिंग ठाकुर', 'Khata No.': '8'}: 2024-08-05 23:33:26
+Plot info: {'Survey No.': '2/2', 'Total Area': '1.3400', 'Pot kharaba': '0.0000', 'Owner Name': 'महाराष्\u200dट्र शासन (वि.पा.वि.नागपूर) कार्यकारी अभियंता प्रकल्\u200dप बांधकाम विभाग अमरावती', 'Khata No.': '42'}: 2024-08-05 23:33:37
+Plot info: {'Survey No.': '3/3', 'Total Area': '0.5000', 'Pot kharaba': '0.0000', 'Owner Name': 'महाराष्\u200dट्र शासन (वि.पा.वि.नागपूर) कार्यकारी अभियंता प्रकल्\u200dप बांधकाम विभाग अमरावती', 'Khata No.': '42'}: 2024-08-05 23:34:04
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 23:34:41
+Timeout waiting for plot info for village '270700100078570000 बल्लारखेडा', option: 4: 2024-08-05 23:34:41
+Plot info: {'Survey No.': '4/7', 'Total Area': '0.8300', 'Pot kharaba': '0.0000', 'Owner Name': 'भाऊराव देवराव सोळंके', 'Khata No.': '12'}: 2024-08-05 23:34:45
+Plot info: {'Survey No.': '6', 'Total Area': '0.1200', 'Pot kharaba': '0.0000', 'Owner Name': 'कार्यकारी अभियंता विशेष प्रकल्प (सा बा) विभाग क्र 2 दर्यापूर', 'Khata No.': '47'}: 2024-08-05 23:34:48
+Plot info: {'Survey No.': '7/4', 'Total Area': '1.3900', 'Pot kharaba': '0.0000', 'Owner Name': 'अर्जुन विश्वनाथ बनसोड, पदमा गौतम मकेश्वर, प्रेमिला मनोहर टोबरे, सुमन अवधुत गवई', 'Khata No.': '5'}: 2024-08-05 23:34:50
+Plot info: {'Survey No.': '8', 'Total Area': '0.8700', 'Pot kharaba': '0.0600', 'Owner Name': 'सौरभ रमेश बोरा', 'Khata No.': '43'}: 2024-08-05 23:35:02
+Plot info: {'Survey No.': '9/3', 'Total Area': '2.4200', 'Pot kharaba': '0.0000', 'Owner Name': 'दिनेश भिमराव ठाकरे', 'Khata No.': '7'}: 2024-08-05 23:35:05
+Village '270700100078570000 बल्लारखेडा' processed: 2024-08-05 23:35:05
+Time taken for village '270700100078570000 बल्लारखेडा': 0:02:21.068564: 2024-08-05 23:35:05
+Script completed for village '270700100078570000 बल्लारखेडा': 2024-08-05 23:35:08

@@ -1,0 +1,27 @@
+Opened the webpage: 2024-08-05 21:36:51
+Page loaded: 2024-08-05 21:36:51
+District folder '07 अमरावती' created or already exists: 2024-08-05 21:36:58
+Taluka folder '06 मोर्शी' created or already exists: 2024-08-05 21:36:59
+Plot info: {'Survey No.': '1/4', 'Total Area': '1.3200', 'Pot kharaba': '0.0000', 'Owner Name': 'रामराव रघुनाथ गायकवाड', 'Khata No.': '26'}: 2024-08-05 21:37:09
+Plot info: {'Survey No.': '10', 'Total Area': '5.0600', 'Pot kharaba': '0.0000', 'Owner Name': 'सि क्लास फॉरेस्ट', 'Khata No.': '38'}: 2024-08-05 21:37:10
+Plot info: {'Survey No.': '11', 'Total Area': '9.7200', 'Pot kharaba': '0.0000', 'Owner Name': 'सि क्लास फॉरेस्ट', 'Khata No.': '38'}: 2024-08-05 21:37:11
+Plot info: {'Survey No.': '12', 'Total Area': '9.5900', 'Pot kharaba': '0.0000', 'Owner Name': 'सि क्लास फॉरेस्ट', 'Khata No.': '38'}: 2024-08-05 21:37:12
+Plot info: {'Survey No.': '13', 'Total Area': '10.0100', 'Pot kharaba': '0.0000', 'Owner Name': 'सि क्लास फॉरेस्ट', 'Khata No.': '38'}: 2024-08-05 21:37:14
+Plot info: {'Survey No.': '14/4', 'Total Area': '3.5100', 'Pot kharaba': '0.0000', 'Owner Name': 'सुखदेव भिमराव तडस', 'Khata No.': '35'}: 2024-08-05 21:37:15
+Plot info: {'Survey No.': '15/4', 'Total Area': '1.0100', 'Pot kharaba': '0.0000', 'Owner Name': 'कृष्णा यादवराव केचे', 'Khata No.': '47'}: 2024-08-05 21:37:16
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 21:37:38
+Plot info: {'Survey No.': '16/2', 'Total Area': '1.3700', 'Pot kharaba': '0.0000', 'Owner Name': 'अजाबराव नागोराव केचे', 'Khata No.': '2'}: 2024-08-05 21:37:38
+Plot info: {'Survey No.': '17/2/ब', 'Total Area': '0.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'अभिषेक विजयराव धरमकर', 'Khata No.': '78'}: 2024-08-05 21:37:40
+Plot info: {'Survey No.': '18', 'Total Area': '3.2000', 'Pot kharaba': '0.0000', 'Owner Name': 'सि क्लास फॉरेस्ट', 'Khata No.': '38'}: 2024-08-05 21:37:43
+Plot info: {'Survey No.': '2/3', 'Total Area': '2.8500', 'Pot kharaba': '0.0300', 'Owner Name': 'जानराव भादु कवडे', 'Khata No.': '11'}: 2024-08-05 21:37:46
+Plot info: {'Survey No.': '3/3', 'Total Area': '1.6200', 'Pot kharaba': '0.0000', 'Owner Name': 'देवानंद पुंजाराम बेले, कमला ज.पुंजाराम बेले, रती पुंजाराम बेले, मंगल पुंजाराम बेले, मन्नो पुंजाराम बेले', 'Khata No.': '15'}: 2024-08-05 21:37:48
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 21:38:09
+Timeout waiting for plot info for village '270700060073610000 घोडदेव बु', option: 4: 2024-08-05 21:38:10
+Plot info: {'Survey No.': '4/2/अ', 'Total Area': '1.2100', 'Pot kharaba': '0.0000', 'Owner Name': 'प्रेमु परशराम पिपरदे', 'Khata No.': '16'}: 2024-08-05 21:38:24
+Plot info: {'Survey No.': '6', 'Total Area': '28.0900', 'Pot kharaba': '0.0000', 'Owner Name': 'सि क्लास फॉरेस्ट', 'Khata No.': '38'}: 2024-08-05 21:38:37
+Plot info: {'Survey No.': '7/3/अ', 'Total Area': '0.8100', 'Pot kharaba': '0.0000', 'Owner Name': 'सुनिल गुलाबराव केचे', 'Khata No.': '65'}: 2024-08-05 21:38:40
+Plot info: {'Survey No.': '8', 'Total Area': '2.0200', 'Pot kharaba': '0.0000', 'Owner Name': 'अमरलाल चैतराम कवडे', 'Khata No.': '45'}: 2024-08-05 21:38:42
+Plot info: {'Survey No.': '9/2', 'Total Area': '1.2200', 'Pot kharaba': '0.0000', 'Owner Name': 'कृष्णराव यादवराव केचे', 'Khata No.': '74'}: 2024-08-05 21:38:43
+Village '270700060073610000 घोडदेव बु' processed: 2024-08-05 21:38:43
+Time taken for village '270700060073610000 घोडदेव बु': 0:02:54.753019: 2024-08-05 21:38:43
+Script completed for village '270700060073610000 घोडदेव बु': 2024-08-05 21:38:52

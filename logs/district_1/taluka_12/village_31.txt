@@ -1,0 +1,25 @@
+Opened the webpage: 2024-08-05 21:21:24
+Page loaded: 2024-08-05 21:21:24
+District folder '07 अमरावती' created or already exists: 2024-08-05 21:21:30
+Taluka folder '06 मोर्शी' created or already exists: 2024-08-05 21:21:32
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 21:22:02
+Timeout waiting for plot info for village '270700060073420000 खेड भाग 2', option: 102: 2024-08-05 21:22:02
+Plot info: {'Survey No.': '201', 'Total Area': '1.2300', 'Pot kharaba': '0.0000', 'Owner Name': 'सुरेश कृष्णराव देशमुख', 'Khata No.': '72'}: 2024-08-05 21:27:11
+Plot info: {'Survey No.': '202/3', 'Total Area': '1.0200', 'Pot kharaba': '0.0000', 'Owner Name': 'संजय ओंकारसिंह जनकवार, अजय ओंकारसिंह जनकवार, शंकरसिंह गोकुलसिंह जनकवार', 'Khata No.': '1'}: 2024-08-05 21:27:19
+Plot info: {'Survey No.': '203/3', 'Total Area': '2.0300', 'Pot kharaba': '0.0000', 'Owner Name': 'संदिप त्र्यंबकराव बेहरे', 'Khata No.': '442'}: 2024-08-05 21:27:25
+Plot info: {'Survey No.': '204/2', 'Total Area': '1.5000', 'Pot kharaba': '0.0000', 'Owner Name': 'रतनलाल रामनारायन सोनी', 'Khata No.': '182'}: 2024-08-05 21:27:29
+Plot info: {'Survey No.': '205', 'Total Area': '1.3400', 'Pot kharaba': '0.0200', 'Owner Name': 'शशिकांत प्रभाकर देशमुख', 'Khata No.': '659'}: 2024-08-05 21:27:35
+Plot info: {'Survey No.': '206/4', 'Total Area': '1.4700', 'Pot kharaba': '0.0000', 'Owner Name': 'नंदकुमार मधुकरराव वैराळे, शारदा अमोलराव वानखेडे, सुनिल मधुकरराव वैराळे, कांताबाई मधुकरराव वैराळे', 'Khata No.': '262'}: 2024-08-05 21:27:39
+Plot info: {'Survey No.': '207/4', 'Total Area': '0.8500', 'Pot kharaba': '0.0000', 'Owner Name': 'कौशल्या अण्णाजी ढाकुलकर', 'Khata No.': '38'}: 2024-08-05 21:27:43
+Plot info: {'Survey No.': '208/2', 'Total Area': '1.0900', 'Pot kharaba': '0.0000', 'Owner Name': 'गोर्वधनदास रतनलाल राठी', 'Khata No.': '241'}: 2024-08-05 21:27:48
+Plot info: {'Survey No.': '209/2', 'Total Area': '1.9200', 'Pot kharaba': '0.0000', 'Owner Name': 'सौ.शीला नामदेवराव बेहरे', 'Khata No.': '623'}: 2024-08-05 21:27:51
+Plot info: {'Survey No.': '210/2', 'Total Area': '1.3900', 'Pot kharaba': '0.0000', 'Owner Name': 'चि.स्मित गणेशराव कळसकर अ.पा.क.आई प्रियंका गणेश कळसकर', 'Khata No.': '653'}: 2024-08-05 21:27:55
+Plot info: {'Survey No.': '211/4', 'Total Area': '0.9000', 'Pot kharaba': '0.0100', 'Owner Name': 'धनराज मोतीराम सावरकर', 'Khata No.': '341'}: 2024-08-05 21:27:59
+Plot info: {'Survey No.': '212/3', 'Total Area': '1.1000', 'Pot kharaba': '0.0500', 'Owner Name': 'उषा प्रभाकर हुशंगाबादकर, पुरुषोत्तम गोपाळ फुले, बेबी वसंतराव हुशंगाबादकर, सुरेश गोपाळ फुले, अशोक गोपाळ फुले, आशा ज. दामोधर कठाळे, दिपक गोपाळ फुले', 'Khata No.': '243'}: 2024-08-05 21:28:02
+Plot info: {'Survey No.': '216', 'Total Area': '2.9100', 'Pot kharaba': '0.0000', 'Owner Name': 'वैशाली दिपक देशमुख, रत्नप्रभा नंदकुमार देशमुख, अनंत नंदकुमार देशमुख, श्याम नंदकुमार देशमुख, अभिजीत नंदकुमार देशमुख, जयश्री अनिलकुमार देशमुख', 'Khata No.': '81'}: 2024-08-05 21:28:07
+Plot info: {'Survey No.': '330/2', 'Total Area': '1.1300', 'Pot kharaba': '0.0300', 'Owner Name': 'प्रभाकर नारायनराव देशमुख', 'Khata No.': '150'}: 2024-08-05 21:28:10
+Timeout waiting for plot info update on attempt 1/1: 2024-08-05 21:31:15
+Timeout waiting for plot info for village '270700060073420000 खेड भाग 2', option: 77: 2024-08-05 21:31:15
+Village '270700060073420000 खेड भाग 2' processed: 2024-08-05 21:34:10
+Time taken for village '270700060073420000 खेड भाग 2': 0:12:57.190054: 2024-08-05 21:34:10
+Script completed for village '270700060073420000 खेड भाग 2': 2024-08-05 21:34:14
